@@ -1,0 +1,46 @@
+/*
+COLORS:
+
+Light green: #7ed56f
+Medium green: #55c57a
+Dark green: #28b485
+
+*/
+
+$color-teal: #009999;
+
+$teal-color: #008080;
+
+$color-primary: #55c57a;
+$color-primary-light: #7ed56f;
+$color-primary-dark: #28b485;
+
+$color-white: #fff;
+$color-black: #000;
+// $color-white: red;
+
+$color-grey-light-1: #f7f7f7; // very nice subtle grey color similar to white...gives us a subtle contrast to the white color
+$color-grey-light-2: #eee;
+
+$color-grey-dark: #777;
+$color-grey-dark-2: #999;
+$color-grey-dark-3: #333;
+
+
+// FONT
+$default-font-size: 1.6rem; //default font size for the whole website text...like paragraph, headings etc
+$default-font-size-1: 1.8rem; //default font size for the whole website text...like paragraph, headings etc -not used
+$default-font-size-2: 2rem; //default font size for the whole website text...like paragraph, headings etc - not used
+
+
+$default-para-width: 70rem; //maximum width of content - not used
+
+// GRID
+$grid-width: 114rem;
+$xtreme-gen2-width: 150rem;
+// $xtreme-gen2-width: 250%;
+$xtreme-gen2-width: 100%;
+// $grid-width: 100%;
+$gutter-vertical: 8rem;
+$gutter-vertical-small: 6rem;
+$gutter-horizontal: 6rem; //space in between columns

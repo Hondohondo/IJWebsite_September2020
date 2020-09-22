@@ -1,0 +1,214 @@
+.phone-nav {
+  // position: relative;
+  display: none;
+  // @include respond(tab-land){
+  //   display: none;
+  // }
+  //
+  // @include respond(big-desktop){
+  //   display: none;
+  // }
+
+  @include respond(tab-port){
+    display: block;
+  }
+
+
+  &__checkbox {
+    display: none;
+  }
+  &__button {
+    background-color: $color-white;
+    height: 5rem;
+    width: 5rem;
+    position: fixed;
+    top: 2rem;
+    left: 2rem;
+    border-radius: 50%;
+    z-index: 9999;
+    box-shadow: 0 1rem 3rem rgba($color-black, .1);
+    text-align: center;
+    cursor: pointer;
+
+
+  }
+  &__background {
+    // height: 4rem;
+    // width: 4rem;
+    // border-radius: 50%; //omit to make a rect nav
+    // position: fixed; //to be changed later
+    // top: 8rem;
+    // left: 8rem;
+    // background-image: radial-gradient($color-primary-light, $color-primary-dark);
+    // background-image: linear-gradient($color-primary-light, $color-primary-dark);
+    // background-color: blue;
+    // z-index: 119;
+
+    // transition: transform .8s;
+    //
+    // // transform: scale(80);
+  }
+  &__nav {
+    overflow: scroll;
+    height: 100vh;
+    // width: 100%;
+    // position: fixed;
+    position: absolute;
+    // top: 0;
+    // left: 0;
+    z-index: 209;
+
+    opacity: 0;
+    width: 0;
+
+    transition: all .3s;
+
+  }
+  &__list {
+    position: absolute;
+    // top: 50%;
+    // left: 50%;
+    top: 0rem;
+    left: 0rem;
+    // transform: translate(-50%, -50%);
+    list-style: none;
+    // text-align: center;
+    background-color: pink;
+    background-color: wheat;
+    // width: 100%; //solves some of the text moving with the box it's inside??
+
+  }
+  &__item {
+    margin: 1rem;
+
+    &--nested {
+      // list-style: none;
+      // color: midnightblue;
+      .groups {
+        font-size: 1.7rem;
+        font-weight: 600;
+      }
+
+      li {
+        // list-style-type: square;
+        // list-style-type: disc;
+        font-size: 1.6rem;
+        margin-left: 7rem;
+        margin-bottom: 1rem;
+
+        a {
+          text-decoration: none;
+          color: $color-teal;
+        }
+      }
+
+      &--nested {
+        list-style-type: disc;
+      }
+    }
+  }
+
+  &__link {
+    &:link,
+    &:visited {
+          cursor: default;
+          display: inline-block;
+          font-size: 2.4rem;
+          color: #5e6f91;
+          padding: 1rem 2rem;
+          text-decoration: none;
+          // background-image: linear-gradient(120deg, transparent 0%, transparent 50%, $color-white 50%);
+          // background-size: 220%;
+          // transition: all .4s;
+  }
+    &:hover,
+    &:active {
+      // background-position: 100%;
+      // color: $color-primary;
+      // transform: translateX(1rem);
+    }
+  }
+
+  &__checkbox:checked ~ &__background {
+    // transform: scale(30);
+    // transform: translate(30);
+  }
+
+
+// FUNCTIONALITY
+  &__checkbox:checked ~ &__nav {
+    opacity: 1;
+    width: 100%;
+  }
+
+// ICON
+  &__icon {
+    position: relative;
+    margin-top: 2.5rem;
+    &,
+    &::before,
+    &::after {
+      width: 3rem;
+      height: 2px;
+      background-color: $color-grey-dark-3;
+      background-color: $teal-color;
+      display: inline-block;
+
+    }
+
+    &::before,
+    &::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      transition: all .2s;
+    }
+
+    &::before {top: -.8rem;}
+    &::after {top: .8rem;}
+  }
+
+  &__button:hover &__icon::before { //icon is the child element of the button -- that'swhy we can select it like that
+      top: -1rem;
+  }
+  &__button:hover &__icon::after {
+      top: 1rem;
+  }
+
+  &__checkbox:checked + &__button &__icon { //adjacent elements (siblings) and a child
+      background-color: transparent;
+  }
+  &__checkbox:checked + &__button &__icon::before {
+    top: 0;
+      transform: rotate(135deg);
+  }
+  &__checkbox:checked + &__button &__icon::after {
+    top: 0;
+      transform: rotate(-135deg);
+  }
+}
+
+.header-phone {
+  text-align: center;
+  font-size: 2.5rem;
+  color: $color-white;
+  display: inline-block;
+  width: 100%;
+  padding: 2rem 2rem 2rem 8rem;
+  position: sticky;
+  top: 0;
+  left: 0;
+  // height: 50%;
+  background-color: $teal-color;
+
+  @include respond(phone1){
+    font-size: 2rem;
+    padding: 3rem 1rem 3rem 8rem;
+  }
+
+  @include respond(small-phone1){
+    font-size: 1.8rem;
+
+    // padding: 2rem 8rem;
+  }
+}

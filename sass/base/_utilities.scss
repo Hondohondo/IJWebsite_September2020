@@ -1,0 +1,129 @@
+.highlight {
+  background: #d35400 !important;
+  padding: .5rem 1rem !important;
+  color: #fff !important;
+}
+
+.u-center-text {
+    text-align: center !important; //inline block get centered in the parent...
+}
+
+.u-center-text-div {
+    // margin: 0 auto !important;
+    // text-align: center;
+    display: inline-block;
+}
+
+.u-center-left {
+    text-align: left !important;
+}
+
+.u-italicize-text {
+  font-style: italic;
+}
+
+.normal-font {
+  font-weight: normal !important;
+}
+
+.no-margin {
+  margin: 0 !important;
+}
+
+.u-margin-bottom-big {
+    margin-bottom: 8rem !important;
+}
+
+.u-margin-bottom-medium {
+    margin-bottom: 4rem !important;
+}
+.u-margin-bottom-medium-2 {
+    margin-bottom: 6rem !important;
+}
+
+
+.u-margin-right-medium {
+    margin-right: 3rem !important;
+}
+.u-margin-left-medium {
+    margin-left: 3rem !important;
+}
+
+.u-margin-bottom-small {
+    margin-bottom: 1.5rem !important;
+}
+
+.u-margin-bottom-small-1 {
+    margin-bottom: 1rem !important;
+}
+
+.u-margin-bottom-small-2 {
+    margin-bottom: 2.5rem !important;
+}
+
+.u-margin-top-big {
+    margin-top: 8rem;
+}
+
+.u-margin-top-medium {
+    margin-top: 4rem;
+}
+
+.u-margin-top-small {
+    margin-top: 1.5rem !important;
+}
+.u-margin-top-small-1 {
+    margin-top: 1rem !important;
+}
+.u-margin-top-small-2 {
+    margin-top: 2.5rem !important;
+}
+
+
+.small-font-p {
+  margin-bottom: 2.5rem !important;
+  p {
+    font-size: 1.5rem !important;
+  }
+}
+
+.small-font-para {
+  font-size: 1.5rem !important;
+}
+
+.n-tr {
+  background-color: #fcfcfc !important;
+}
+.color-blue {
+  color: #fff;
+  background-color: teal;
+}
+.table-schedules {
+  // overflow-x: auto;
+  // width: 120rem;
+  // width: 110%;
+  position: relative;
+  // border-collapse: collapse;
+  td,th {
+    padding: 1rem !important;
+  }
+
+  th {
+    position: sticky;
+    top: 0;
+// width: 20rem;
+    &:nth-child(2) {
+      // width: 5rem;
+    }
+  }
+
+  tr {
+    td:nth-child(4) {
+      // width: 100%;
+      // width: 5rem;
+    }
+  }
+
+
+}
+  // <!-- <hr class="trademark-line u-margin-top-small"> -->

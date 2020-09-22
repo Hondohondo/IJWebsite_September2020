@@ -1,0 +1,125 @@
+.highlight {
+  background: #d35400 !important;
+  padding: 0.5rem 1rem !important;
+  color: #fff !important;
+}
+
+
+.navigation {
+  margin-left: 2rem;
+
+  @include respond(tab-port2){
+      margin-left: .2rem;
+  }
+
+    &__nav {
+        // height: 100vh;
+        // width: 100%;
+        // position: fixed;
+        // top: 0;
+        // right: 0;
+        // z-index: 10;
+    }
+
+    &__list {
+        // position: absolute;
+        // top: 50%;
+        // left: 50%;
+        // transform: translate(-50%, -50%);
+        list-style: none;
+        // text-align: center;
+        margin-left: 2.5rem;
+        margin-top: 3rem;
+    }
+
+    &__item {
+        margin: 1rem;
+        &:last-child {
+          margin-bottom: 6rem;
+        }
+        &--nested {
+            // margin-top: 5rem;
+            margin-left: 10rem;
+            @include respond(tab-port2){
+                margin-left: 5rem;
+            }
+            font-size: $default-font-size;
+            text-decoration: none;
+            li {
+                padding: .3rem 0;
+                &:last-child {
+                    margin-bottom: 1.5rem;
+                }
+
+                a {
+                    &:link,
+                    &:visited {
+                        display: inline-block;
+                        text-decoration: none;
+                        color: $color-teal;
+                        // padding-bottom: 3px;
+                        // padding-bottom: 2px;
+                        //padding: .5rem .5rem;
+                        border-bottom: 1.5px solid transparent;
+                        // transition: background-color 0.2s border 0.2s color 0.2s;
+                        // transition: border .2s;
+                        transition: all .4s;
+
+
+                    }
+                    &:hover,
+                    &:active {
+                        //text-decoration: underline;
+                       // padding: 1rem 1rem;
+                        //border-bottom-width: 1px;
+                       // border-bottom-style: solid;
+                        border-bottom: 1.5px solid teal;
+                        // color: white;
+                          // background-color: $teal-color;
+
+                        //padding: 3px;
+                        //transition: all .2s;
+                    }
+                }
+            }
+
+            //nested sub-links in the navigation marked by disc
+            &--nested {
+
+              list-style-type: disc;
+              margin-left: 7rem;
+              margin-bottom: -1rem;
+
+              color: #999; //color of the disc
+
+              @include respond(tab-port2){
+                  margin-left: 4rem;
+              }
+
+            }
+
+
+        }
+    }
+
+    &__link {
+            // cursor: default;
+            display: inline-block;
+            padding: 0rem 1rem;
+            font-size: 1.9rem;
+            // font-size: 3rem;
+            font-weight: 700;
+            color: midnightblue;
+            text-decoration: none;
+            // text-transform: uppercase;
+            color: #5e6f91;
+        &:hover,
+        &:active {
+        }
+    }
+
+    .groups {
+      font-size: 1.7rem;
+      font-weight: 600;
+    }
+}

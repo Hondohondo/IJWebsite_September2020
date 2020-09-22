@@ -1,0 +1,330 @@
+.popup {
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: rgba($color-black, .8);
+  z-index: 9999;
+  opacity: 0;
+  visibility: hidden;
+  // transition: all .3s;
+  &__content {
+    @include absCenter;
+    // width: 75%;
+    width: 50%;
+    // height: 50rem;
+    // height: 45rem;
+    background-color: $color-white;
+    // box-shadow: 0 2rem 4rem rgba($color-black, .2);
+    border-radius: 3px;
+    overflow: hidden;
+
+    opacity: 0;
+    // transform: translate(-50%, -50%), scale(.25);
+    // transition: all .4s .2s;
+  }
+
+  &__left {
+    // width: 33.3333333%;
+    // float: left;
+    display: table-cell;
+  }
+
+  &__right {
+    // width: 66.6666667%;
+    // float: left;
+    display: table-cell;
+    // vertical-align: middle;
+    vertical-align: -webkit-baseline-middle;
+    padding: 3rem 5rem;
+
+    @include respond(phone){
+      padding: 1rem 3rem;
+    }
+
+  }
+
+  &__img {
+    display: block;
+    width: 100%;
+    width: 70%;
+  }
+
+  &__text {
+    font-size: 1.4rem;
+    margin-bottom: 4rem;
+
+    // column-count: 2;
+    // column-gap: 4rem;
+    // column-rule: 1px solid $color-grey-dark-2;
+    //
+    // hyphens: auto;
+  }
+
+//Open states of popup
+  &:target {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  &:target &__content {
+    opacity: 1;
+    // transform: translate(-50%, -50%), scale(1);
+
+  }
+
+  &__close {
+    &:link,
+    &:visited {
+      color: $color-grey-dark;
+      position: absolute;
+      top: 2.5rem;
+      right: 2.5rem;
+      font-size: 3rem;
+      text-decoration: none;
+      display: inline-block;
+      transition: all .2s;
+      line-height: 1;
+    }
+
+    &:hover {
+      color: $color-primary;
+    }
+
+  }
+}
+#printnow {
+  // display: inline-block !important;
+  width: 18rem;
+}
+#other {
+  max-width: 7.5rem;
+  // display: inline-block;
+}
+
+.reg-flyer {
+  font-size: 2rem !important;
+  margin-bottom: 4rem !important;
+  margin-top: 2.5rem !important;
+}
+
+// Schedules and location
+.schedules {
+  overflow-x: auto;
+}
+//Ira quotes
+.quote {
+  width: 75%;
+  width: 85%;
+  margin: 0 auto;
+  // box-shadow: 0 3rem 6rem rgba($color-black, .1);
+  // box-shadow: 0 1rem 3rem rgba($color-black, .1);
+  // background-color: $color-white;
+  background-color: #82cdd614;
+  border-radius: 3px;
+  padding: 6rem;
+  // padding-left: 9rem;
+  padding: 3rem;
+  padding-left: 6rem;
+  font-size: $default-font-size;
+
+  &__shape {
+
+    width: 15rem;
+    height: 15rem;
+    // background-color: orangered;
+    float: left;
+    // -webkit-shape-outside: circle(50% at 50% 50%);
+    // shape-outside: circle(50% at 50% 50%);
+    // -webkit-clip-path: circle(50% at 50% 50%);
+    // clip-path: circle(50% at 50% 50%);
+
+    // -webkit-shape-outside: inset(100px 100px 100px 100px 10px);
+    // shape-outside: inset(100px 100px 100px 100px 10px);
+    // -webkit-clip-path: inset(100px 100px 100px 100px 10px);
+    // clip-path: inset(100px 100px 100px 100px 10px);
+
+    transform: translateX(-3rem); //best way to include margins in floated elements
+
+    position: relative;
+
+  }
+
+  &__img {
+
+ //width: 100%; //hundred percent of the parent
+ // width: calc(100% + 2rem);
+ width: 100%;
+ // height: 95%;
+ // transform: translateX(-.1rem);
+ transform: scale(110%); //same as scale (1.1)
+ backface-visibility: hidden; //fix stuff with transformation and animations
+ transition: all .5s;
+  }
+
+  &__text {
+
+  }
+
+  &__caption {
+    display: none; //wont use this
+    // @include absCenter;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-20%);
+    color: $color-white;
+    text-transform: uppercase;
+    font-size: 1.7rem;
+    text-align: center;
+    opacity: 0;
+    //all above is initial state before we do the hover animation
+    transition: all .5s;
+    backface-visibility: hidden; //to fix the small animation glitch...when it shakes a pixel
+  }
+
+  &:hover &__caption { //as soon as the quote is hovered we want to change the caption
+        // opacity: 1;
+        // transform: translate(-50%,-50%);
+  }
+
+  &:hover &__img {
+    // transform: scale(100%);
+    // filter: blur(3px) brightness(80%);
+  }
+
+}
+.quots {
+  // font-size: 20px;
+  background-color: red !important;
+
+// text-rendering: optimizelegibility;
+// font-family: 'Lato', 'Arial', sans-serif;
+// font-weight: 300;
+font-weight: 400;
+// color: #222;
+color: #666;
+// padding: 0;
+// box-sizing: border-box;
+// zoom: 1; for IE
+// max-width: 1140px;
+// margin: 0 auto;
+
+div:first-child {
+  margin-right: 0 !important;
+}
+
+
+// display: block;
+// float: left;
+// margin: 1% 0 1% 1.6%;
+// width: 49.2%;
+// position: relative;
+// margin-left: 0;
+
+&__shape {
+  @include respond(big-phone){
+    text-align: center;
+  }
+}
+&__img {
+  border: 0;
+  width: 22rem;
+  box-shadow: 0 2rem 8rem rgba(0,0,0,0.4);
+  float: right;
+  margin-right: 5rem;
+
+  @include respond(tab-port1){
+      width: 18rem;
+  }
+
+  @include respond(big-phone){
+  float: none;
+  }
+}
+
+&__img-last {
+  width: 30rem;
+  margin-left: 3rem;
+
+  // margin-right: 5rem;
+  @include respond(tab-land){
+      margin-left: 1rem;
+  }
+  @include respond(tab-port2){
+      margin-left: 0;
+      margin-top: 2rem;
+  }
+  @include respond(tab-port1){
+      width: 25rem;
+      margin-left: -1rem;
+  }
+  @include respond(tab-port){
+      // margin-left: 0;
+      margin-left: 6rem;
+  }
+  @include respond(big-phone){
+      // margin-left: 0;
+      margin-left: -1rem;
+  }
+}
+
+&__text {
+
+// text-align: left !important;
+// margin-top: 20px;
+margin-top: 5rem;
+// width: 80%;
+width: 100%;
+line-height: 150%;
+margin-bottom: 3rem;
+@include respond(big-phone){
+margin-top: 0;
+margin-bottom: 0;
+}
+
+}
+
+&__text-last {
+    margin-left: 2rem !important;
+    width: 110%;
+
+    .quots__para {
+      @include respond(tab-port2){
+            font-size: 1.7rem !important;
+            margin-left: 3rem !important;
+      }
+      @include respond(tab-port1){
+
+            margin-left: 1rem !important;
+      }
+      @include respond(tab-port1){
+            font-size: 1.9rem !important;
+
+      }
+      @include respond(big-phone){
+            width: 80%;
+            text-align: justify !important;
+      }
+    }
+}
+
+&__para {
+  text-align: center !important;
+    font-size: 1.9rem !important;
+
+    @include respond(tab-port1){
+          font-size: 1.8rem !important;
+    }
+}
+}
+
+.quotation {
+  .u-margin-bottom-big {
+    @include respond(big-phone){
+    margin-bottom: 2rem !important;
+    overflow-x: hidden;
+    }
+  }
+}

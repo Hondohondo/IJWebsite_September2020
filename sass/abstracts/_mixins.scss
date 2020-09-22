@@ -1,0 +1,137 @@
+@mixin clearfix {
+    &::after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+@mixin absCenter {
+  position: absolute;;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@mixin heading-uno {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  // font-size: $default-font-size;
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+  line-height: 1.5;
+  // color: #0357d8;-strong blue
+  color: #527cbc; //warm blue
+  // color: $color-grey-dark;
+  // color: teal;
+}
+
+@mixin heading-five {
+  font-size: 1.9rem;
+  font-size: 2rem;
+  // text-shadow: .5px .5px #120dab;
+  font-weight: 700;
+// color: #099;
+color: #41b5529c;
+color: #527cbc;
+// color: gray;
+  margin-bottom: 1rem;
+}
+
+@mixin page-links {
+
+  &:link,
+  &:visited {
+    text-decoration: none;
+    color: teal;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    padding-bottom: 3px;
+    border-bottom: 1px solid transparent;
+  }
+
+  &:hover,
+  &:active {
+      border-bottom: 1px solid teal;
+  }
+
+}
+
+//MEDIA QUERY MANAGER
+/*
+O - 600px:          Phone
+600 - 900px:        Tablet potrait mode
+900 - 1200px:        Tablet landscape mode
+
+[1200 - 1800px]     Normal styles apply...the styles when first building the website
+1800px + :          Big Screens / Big Desktops
+
+$breakpoint argument choices:
+- phone
+- tab-port
+- tab-land
+- big-desktop
+
+ORDER TO DO MEDIA QUERIES: Base + Tyography > General Layout > Grid > Page Layout > Components
+
+1em = 16px
+
+*/
+
+@mixin respond($breakpoint) {
+  @if $breakpoint == tiny-screen {
+      @media (max-width: 21.875em) { @content}; //350px
+  }
+  @if $breakpoint == tiny-screen2 {
+      @media (max-width: 23.4375em) { @content}; //375px
+  }
+  @if $breakpoint == small-screen {
+      @media (max-width: 25em) { @content}; //400px
+  }
+  @if $breakpoint == small-phone {
+      @media (max-width: 28.125em) { @content}; //450px
+  }
+  @if $breakpoint == small-phone1 {
+      @media (max-width: 31.25em) { @content}; //500px
+  }
+    @if $breakpoint == phone {
+        @media (max-width: 37.5em) { @content}; //600px
+    }
+    @if $breakpoint == phone1 {
+        @media (max-width: 43.75em) { @content}; //700px
+    }
+    @if $breakpoint == big-phone {
+        @media (max-width: 46.875em) { @content}; //750px
+    }
+    @if $breakpoint == big-phone1 {
+        @media (max-width: 50em) { @content}; //800px
+    }
+    @if $breakpoint == big-phone2 {
+        @media (max-width: 53.125em) { @content}; //850px
+    }
+    @if $breakpoint == tab-port {
+        @media (max-width: 56.25em) { @content}; //900px
+    }
+    @if $breakpoint == tab-port1 {
+        @media (max-width: 62.5em) { @content}; //1000px
+    }
+    @if $breakpoint == tab-port2 {
+        @media (max-width: 68.75em) { @content}; //1100px
+    }
+    @if $breakpoint == tab-land {
+        @media (max-width: 75em) { @content}; //1200px
+    }
+    @if $breakpoint == desktop {
+        @media (max-width: 81.25em) { @content}; //1300px
+    }
+    @if $breakpoint == desktop1 {
+        @media (max-width: 84.375em) { @content}; //1350px
+    }
+    @if $breakpoint == desktop2 {
+        @media (max-width: 87.5em) { @content}; //1400px
+    }
+
+    @if $breakpoint == big-desktop {
+        @media (min-width: 112.5em) { @content}; //1800px
+    }
+}

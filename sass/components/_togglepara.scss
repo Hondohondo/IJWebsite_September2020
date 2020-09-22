@@ -1,0 +1,60 @@
+.hidepara .hide{
+
+    //width: 50%;
+  display: table;
+   //height: 10rem; /* any arbitrary height but best at the minimum initial height you would want */
+  overflow: hidden;
+    //background-color: #eee;
+    background-color: #f7f7f7;
+    transition: all .5s ease;
+    // border-left: 1px solid #000;
+    // border-right: 1px solid #000;
+    margin-bottom: 2rem;
+}
+
+.hidepara label h6 {
+  //cursor: pointer;
+  //display: block;
+   &:hover,
+   &:active {
+     //text-decoration: underline;
+    // border-bottom: 1px solid teal;
+   }
+}
+
+.innerpara {
+  padding: 2rem;
+}
+.hidepara input[type="checkbox"]:checked + .hide {
+  height: 0;
+  opacity: 0;
+  display: block;
+}
+
+
+.faq {
+  background-color: $color-white;
+  padding: 1rem 7rem;
+  list-style: none;
+  font-size: 1.5rem;
+ counter-reset: my-awesome-counter;
+
+  li {
+   counter-increment: my-awesome-counter;
+   padding-bottom: 1rem;
+
+    &::before {
+     content: counter(my-awesome-counter) ". ";
+      color: teal;
+      font-weight: bold;
+      padding-right: .5rem;
+    }
+  }
+}
+
+input {
+  //position: absolute;
+  //left: -999rem;
+//  opacity: 0;
+  //display: hidden;
+}

@@ -1,0 +1,164 @@
+//Banner Photos in order...
+.banner {
+    height: 40rem;
+    // height: 35rem;
+    // position: relative;
+    // margin: 1rem 0;
+    margin: 1rem 0 7rem 0;
+
+    @include respond(phone){
+      height: 30rem;
+      margin: 1rem 0 5rem 0;
+    }
+    &-img {
+        // width: calc(100% + 2rem);
+        height: 100%;
+        background-size: cover;
+        background-position: center center;
+        // z-index: 5;
+        // transition: transform 0.5s;
+    }
+}
+#banner-img-lake { background-image: url(../images/pics/lake.jpg); }
+#banner-img-01 { background-image: url(../images/pics/adorable-animal-breed-canine-374906-min.jpg); }
+#banner-img-1 { background-image: url(../images/pics/clouds-daylight-forest-grass-371589.jpg); }
+#banner-img-2 { background-image: url(../images/adventure-alpine-alps-clouds-544067-min.jpg); }
+#banner-img-3 { background-image: url(../images/adventure-autumn-california-country-533881-min.jpg); }
+#banner-img-4 { background-image: url(../images/aerial-shot-of-forest-254770-min.jpg); }
+
+//ABOUT THE METHOD PHOTOS
+#banner-img-5 { background-image: url(../images/alberta-amazing-attraction-banff-417074-min.jpg); }
+#banner-img-6 { background-image: url(../images/animal-animal-photography-blur-close-up-460775-min.jpg); }
+#banner-img-7 { background-image: url(../images/animal-baby-beak-bird-157465-min.jpg); }
+#banner-img-8 { background-image: url(../images/animal-bright-bunny-chamomile-372166-min.jpg); }
+#banner-img-9 { background-image: url(../images/animals-birds-feathers-flamingos-39627-min.jpg); }
+#banner-img-10 { background-image: url(../images/aquatic-bloom-blooming-blossom-158465-min.jpg); } //Meditation
+
+
+#banner-img-11 { background-image: url(../images/arrangement-bloom-blooming-blossom-462402-min.jpg); } //application
+#banner-img-12 { background-image: url(../images/autumn-leaves-calm-waters-clear-sky-dawn-209798-min.jpg); } //sample reading
+#banner-img-13 { background-image: url(../images/background-beautiful-blossom-calm-waters-268533-min.jpg); } //whole life
+
+//GENERAL WORKSHOPS PHOTOS
+#banner-img-14 { background-image: url(../images/back-light-clouds-dawn-dusk-371669-min.jpg); } //WORKSHOP
+#banner-img-15 { background-image: url(../images/backlit-calm-clear-sky-dawn-373447-min.jpg); } //reasons
+#banner-img-16 { background-image: url(../images/beach-beautiful-clouds-coastline-461935-min.jpg); } //faq
+#banner-img-17 { background-image: url(../images/beach-birds-calm-clouds-219998-min.jpg); } //modules
+#banner-img-18 { background-image: url(../images/beach-clouds-dawn-daylight-301494-min.jpg); } //depth-context
+#banner-img-19 { background-image: url(../images/beach-dawn-dusk-hd-wallpaper-292442-min.jpg); } //l-integration
+#banner-img-20 { background-image: url(../images/beach-daylight-geology-idyllic-302549-min.jpg); } //l-experience
+#banner-img-21 { background-image: url(../images/beautiful-beautiful-flowers-bloom-blooming-368742-min.jpg); } //lifestudy
+#banner-img-22 { background-image: url(../images/beautiful-beautiful-flowers-bloom-blooming-694795-min.jpg); } //faqs
+#banner-img-23 { background-image: url(../images/beautiful-bloom-blooming-blossom-109828-min.jpg); } //schedules
+#banner-img-24 { background-image: url(../images/beautiful-bloom-blooming-blossom-268432-min.jpg); } //start
+
+//PRACTICAL LIFE ISSUES PHOTOS
+#banner-img-25 { background-image: url(../images/beautiful-bloom-blooming-blossom-369433-min.jpg); } //MINDfulness
+#banner-img-26 { background-image: url(../images/beautiful-bloom-blooming-blossom-381739-min.jpg); } //mind-benefits
+#banner-img-27 { background-image: url(../images/beautiful-bloom-blooming-blossom-383556-min.jpg); } //mind-endorse
+#banner-img-28 { background-image: url(../images/beautiful-bright-clouds-country-414102-min.jpg); } //p-relations
+#banner-img-29 { background-image: url(../images/beautiful-calm-clouds-dark-206359-min.jpg); } //p-benefits
+#banner-img-30 { background-image: url(../images/beautiful-flowers-bloom-blooming-blossom-165925-min.jpg); } //p-endorse
+#banner-img-31 { background-image: url(../images/bird-flying-zoo-beak-9291-min.jpg); } //p-articles
+#banner-img-32 { background-image: url(../images/bloom-blooming-blossom-blur-462118-min.jpg); } //retirement
+#banner-img-33 { background-image: url(../images/bloom-blossom-doi-inthanon-flora-130167-min.jpg); } //retire-benefits
+#banner-img-34 { background-image: url(../images/blur-close-up-colors-dandelion-133082-min.jpg); } //retire-endorse
+#banner-img-35 { background-image: url(../images/body-of-water-across-sunset-1076429-min.jpg); } //retire-articles
+#banner-img-36 { background-image: url(../images/body-of-water-between-green-leaf-trees-709552-min.jpg); } //sexuaidentity
+#banner-img-37 { background-image: url(../images/bokeh-photo-of-white-and-red-flowers-696996-min.jpg); } //lgbt-benefits
+#banner-img-38 { background-image: url(../images/bright-daylight-environment-forest-240040-min.jpg); } //lgbt-endorse
+#banner-img-39 { background-image: url(../images/brown-and-green-grass-field-during-sunset-1237119-min.jpg); } //lgbt-articles
+
+
+//SPECIALIZED AUDIENCES PHOTOS
+#banner-img-40 { background-image: url(../images/brown-hummingbird-selective-focus-photography-1133957-min.jpg); } //add-recovery
+#banner-img-41 { background-image: url(../images/brown-wooden-dock-on-calm-body-of-water-surrounded-by-165213-min.jpg); } //add-recovery-benefits
+#banner-img-42 { background-image: url(../images/calm-body-of-water-1363876-min.jpg); } //add-recovery-endorse
+#banner-img-43 { background-image: url(../images/calm-ocean-during-sunset-1019478-min.jpg); } //add-recovery-12steps
+#banner-img-44 { background-image: url(../images/cascade-creek-environment-falls-612999-min.jpg); } //add-recovery-articles
+
+#banner-img-45 { background-image: url(../images/clear-body-of-water-between-yellow-and-green-leaved-trees-223022-min.jpg); } //depression
+#banner-img-46 { background-image: url(../images/close-up-of-butterfly-pollinating-on-flower-325967-min.jpg); } //hea-benefits
+#banner-img-47 { background-image: url(../images/close-up-photography-of-a-butterfly-672142-min.jpg); } //hea-endorse
+#banner-img-48 { background-image: url(../images/closeup-photography-of-pink-lotus-flower-1294652-min.jpg); } //hea-articles
+#banner-img-49 { background-image: url(../images/closeup-photography-of-purple-silk-flowers-with-dewdrops-794494-min.jpg); } //trauma
+#banner-img-50 { background-image: url(../images/close-up-photo-of-sunflower-64221-min.jpg); } //tr-benefits
+#banner-img-51 { background-image: url(../images/close-view-of-hornbill-2222452-min.jpg); } //tr-endorse
+#banner-img-52 { background-image: url(../images/colorful-flower-flora-beautiful-39574-min.jpg); } //tr-articles
+#banner-img-53 { background-image: url(../images/colorful-tulips-343957-min.jpg); } //pro-coaching
+#banner-img-54 { background-image: url(../images/crop-field-under-rainbow-and-cloudy-skies-at-dayime-1542495-min.jpg); } //coach-benefits
+#banner-img-55 { background-image: url(../images/daylight-environment-forest-idyllic-459225-min.jpg); } //coach-endorse
+#banner-img-56 { background-image: url(../images/daylight-forest-glossy-lake-443446-min.jpg); } //pro-teaching
+#banner-img-57 { background-image: url(../images/duckling-on-black-soil-during-daytime-162140-min.jpg); } //teach-benefits
+#banner-img-58 { background-image: url(../images/flight-landscape-nature-sky-36717-min.jpg); } //teach-projects
+#banner-img-59 { background-image: url(../images/gray-and-black-butterfly-sniffing-white-flower-91946-min.jpg); } //teach-endorse
+#banner-img-60 { background-image: url(../images/gray-bridge-and-trees-814499-min.jpg); } //pro-writersgen
+#banner-img-61 { background-image: url(../images/green-trees-and-lake-photo-227416-min.jpg); } //gen-writing
+#banner-img-62 { background-image: url(../images/illustration-of-moon-showing-during-sunset-884788-min.jpg); } //writ-edu
+#banner-img-63 { background-image: url(../images/kitten-cat-rush-lucky-cat-45170-min.jpg); } //mem-writing
+#banner-img-64 { background-image: url(../images/love-romantic-flowers-garden-65292.jpg); } //writ-poetry
+#banner-img-65 { background-image: url(../images/macro-photography-of-red-petal-flower-863963.jpg); } //writ-endorse
+#banner-img-66 { background-image: url(../images/nature-flowers-summer-garden-47360.jpg); } //writ-articles
+#banner-img-67 { background-image: url(../images/nature-red-forest-leaves-33109.jpg); } //pro-writerstech
+#banner-img-68 { background-image: url(../images/nature-water-flowers-lake-46231.jpg); } //tech-benefits
+#banner-img-69 { background-image: url(../images/orange-flower-with-butterfly-87452.jpg); } //tech-endorse
+#banner-img-70 { background-image: url(../images/panoramic-view-of-lake-in-forest-248833.jpg); } //resolution
+#banner-img-71 { background-image: url(../images/photo-of-bare-tree-under-cloudy-sky-1126375.jpg); } //res-benefits
+#banner-img-72 { background-image: url(../images/photo-of-lake-during-daytime-2776479.jpg); } //res-endorse
+#banner-img-73 { background-image: url(../images/photo-of-person-walking-near-orange-leafed-trees-2734512.jpg); } //res-articles
+#banner-img-74 { background-image: url(../images/photo-of-waterfalls-during-fall-season-1564655.jpg); } //justice
+#banner-img-75 { background-image: url(../images/pink-flowers-709906.jpg); } //rehabilitation
+#banner-img-76 { background-image: url(../images/pink-flowers-on-trees-981364.jpg); } //researchstudies
+#banner-img-77 { background-image: url(../images/pink-petaled-flowers-860564.jpg); } //j-articles
+#banner-img-78 { background-image: url(../images/red-yellow-orange-flower-63245.jpg); } //jobtraining
+#banner-img-79 { background-image: url(../images/scenic-photo-of-lake-during-dawn-2878019.jpg); } //joboutcomes
+#banner-img-80 { background-image: url(../images/scenic-photo-of-snow-capped-mountains-during-daytime-2808841.jpg); } //jobbenefits
+#banner-img-81 { background-image: url(../images/scenic-view-of-lake-against-sky-during-sunset-258136.jpg); } //jobresearch
+#banner-img-82 { background-image: url(../images/scenic-view-of-rainforest-927414.jpg); } //jobarticles
+#banner-img-83 { background-image: url(../images/scenic-view-of-the-mountains-976994.jpg); } //cont-practice
+#banner-img-84 { background-image: url(../images/seaport-during-daytime-132037.jpg); } //cont-benefits
+#banner-img-85 { background-image: url(../images/sea-sunset-water-clouds-57705.jpg); } //cont-endorse
+#banner-img-86 { background-image: url(../images/selective-focus-photography-of-orange-petaled-flowers-714525.jpg); } //cont-prayer
+#banner-img-87 { background-image: url(../images/shallow-focus-photography-of-yellow-sunflower-field-under-1169084.jpg); } //cont-articles
+#banner-img-88 { background-image: url(../images/silhouette-of-coconut-trees-1539100.jpg); } //edu-ministry
+#banner-img-89 { background-image: url(../images/silhouette-of-grass-field-and-trees-1237132.jpg); } //edum-benefits
+#banner-img-90 { background-image: url(../images/silhouette-of-trees-nearby-water-3484365.jpg); } //edum-endorse
+#banner-img-91 { background-image: url(../images/time-lapse-photography-of-waterfalls-1486902.jpg); } //edum-efmentor
+#banner-img-92 { background-image: url(../images/trees-with-purple-flowers-near-body-of-water-2469234.jpg); } //edum-articles
+#banner-img-93 { background-image: url(../images/two-bare-trees-1102917.jpg); } //sp-direction
+#banner-img-94 { background-image: url(../images/wooden-boat-on-water-under-golden-sky-1463376.jpg); } //sp-benefits
+#banner-img-95 { background-image: url(../images/worms-eyeview-of-green-trees-957024.jpg); } //sp-endorse
+#banner-img-96 { background-image: url(../images/pics/landscape-nature-sky-blue-9283.jpg); } //sp-testimonial
+#banner-img-97 { background-image: url(../images/pics/adventure-alpine-alps-blue-sky-427676.jpg); } //test-catholic
+#banner-img-98 { background-image: url(../images/pics/alpine-conifers-daylight-environment-456710.jpg); } //test-christdis
+#banner-img-99 { background-image: url(../images/pics/backlit-countryside-dawn-daylight-599708.jpg); } //test-episcopal
+#banner-img-100 { background-image: url(../images/pics/beach-calm-clouds-coast-457881.jpg); } //test-methodist
+#banner-img-101 { background-image: url(../images/pics/beautiful-bridge-daylight-environment-234510.jpg); } //test-newthought
+#banner-img-102 { background-image: url(../images/pics/bird-s-eye-view-of-ocean-during-daytime-2707756.jpg); } //test-presby
+#banner-img-103 { background-image: url(../images/pics/green-leafed-tree-surrounded-by-body-of-water-2170816.jpg); } //test-quaker
+#banner-img-104 { background-image: url(../images/pics/green-trees-surrounding-lake-219972.jpg); } //test-unitarian
+#banner-img-105 { background-image: url(../images/pics/iceberg-during-daytime-53389.jpg); } //test-united
+#banner-img-106 { background-image: url(../images/pics/lake-pebbles-under-body-of-water-1574181.jpg); } //test-unity
+
+
+//LEARN MORE PHOTOS
+#banner-img-107 { background-image: url(../images/pics/landscape-photo-of-trees-and-body-of-water-2132354.jpg); } //cont-edu
+#banner-img-108 { background-image: url(../images/pics/long-exposure-photography-of-a-stream-2607956.jpg); } //therapy
+#banner-img-109 { background-image: url(../images/pics/macro-photography-of-pink-flowers-1579413.jpg); } //therapy-credits
+#banner-img-110 { background-image: url(../images/pics/photo-lavender-flower-field-under-pink-sky-1166209.jpg); } //therapy-endorse
+#banner-img-111 { background-image: url(../images/pics/photo-of-woods-with-fogs-1996054.jpg); } //nursing
+#banner-img-112 { background-image: url(../images/pics/scenic-view-of-mountain-under-cloudy-sky-1484282.jpg); } //nursing-benefits
+#banner-img-113 { background-image: url(../images/pics/seashore-under-white-and-blue-sky-during-sunset-210205.jpg); } //nursing-credits
+#banner-img-114 { background-image: url(../images/pics/snow-covered-mountain-during-sunrise-618833.jpg); } //nursing-endorse
+#banner-img-115 { background-image: url(../images/pics/snow-covered-pine-cones-1647248.jpg); } //nursing-article
+#banner-img-116 { background-image: url(../images/pics/time-lapse-photograph-of-river-2153753.jpg); } //nursing-workshop
+#banner-img-117 { background-image: url(../images/pics/two-yellow-labrador-retriever-puppies-1108099.jpg); } //articles
+
+//ABOUT US
+#banner-img-118 { background-image: url(../images/pics/adventure-beautiful-boardwalk-bridge-235734.jpg); } //mission
+#banner-img-119 { background-image: url(../images/pics/nature-photography-of-river-near-trees-1559117.jpg); } //about-praises
+#banner-img-120 { background-image: url(../images/pics/bloom-blooming-country-countryside-145685.jpg); } //about-poem
+
+
+
+#banner-img-121 { background-image: url(../images/pics/architecture-building-countryside-daylight-126271.jpg); } //newsletters

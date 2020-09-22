@@ -1,0 +1,229 @@
+// Home page Button
+// Home page Button
+// Home page Button
+.btan {
+  font-size: 1.6rem;
+
+  @include respond(phone){
+  font-size: 1.5rem;
+  }
+
+  @include respond(small-phone1){
+  font-size: 1.4rem;
+  }
+
+  &:link,
+  &:visited {
+  display: inline-block;
+  padding: 1rem 3rem;
+  // font-weight: 300;
+  text-decoration: none;
+  transition: background-color 0.2s border 0.2s color 0.2s;
+
+  @include respond(phone){
+  padding: .5rem 2.5rem;
+  }
+
+  @include respond(small-phone1){
+    padding: .5rem 2rem;
+  }
+}
+
+  &-full{
+
+    &:link,
+    &:visited {
+    color: $color-white;
+    background-color: $teal-color;
+    // border-radius: 20rem;
+    border: 1px solid $teal-color;
+    margin-right: 1.5rem;
+  }
+
+  &:hover,
+  &:active {
+    border: 1px solid $color-teal;
+  }
+}
+
+  &-ghost {
+
+    &:link,
+    &:visited {
+    border: 1px solid $teal-color;
+    color: $teal-color;
+    // border: 1px solid $color-white;
+    // color: $color-white;
+  }
+
+  &:hover,
+  &:active {
+    border: 1px solid $color-teal;
+    color: $color-white;
+  }
+}
+
+&:hover,
+&:active {
+  background-color: $color-teal;
+}
+
+
+}
+
+
+// Other  Button
+// Other  Button
+// Other  Button
+
+
+.btn {
+
+    &:link,
+    &:visited {
+        text-transform: uppercase;
+        text-decoration: none;
+        padding: 1.5rem 4rem;
+        display: inline-block;
+        border-radius: 10rem;
+        transition: all .2s;
+        position: relative;
+        font-size: $default-font-size;
+    }
+
+    &:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 1rem 2rem rgba($color-black, .2);
+
+        &::after {
+            transform: scaleX(1.5) scaleY(1.6);
+            opacity: 0;
+        }
+    }
+
+    &:active {
+        transform: translateY(-1px);
+        box-shadow: 0 .5rem 1rem rgba($color-black, .2);
+    }
+
+    &--white {
+        background-color: $color-white;
+        color: $color-grey-dark;
+
+        &::after {
+            background-color: $color-white;
+        }
+    }
+
+    &::after {
+        content: "";
+        display: inline-block;
+        height: 100%;
+        width: 100%;
+        border-radius: 10rem;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: -1;
+        transition: all .4s;
+    }
+
+    &--animated {
+        animation: moveInBottom .5s ease-out .75s;
+        animation-fill-mode: backwards;
+    }
+}
+
+.btn-text {
+    &:link,
+    &:visited {
+        font-size: $default-font-size;
+        color: teal;
+        display: inline-block; //display inline block so that we can use the box model property on it like padding, margin...
+        text-decoration: none;
+        border-bottom: 1px solid #008080;
+        padding: 3px;
+        transition: all .2s;
+        margin-left: 4rem;
+        margin-top: 2rem;
+    }
+
+    &:hover {
+        background-color: $teal-color;
+        color: $color-white;
+        box-shadow: 0 1rem 2rem rgba($color-black, .15);
+        transform: translateY(-2px);
+
+
+    }
+
+    &:active {
+        box-shadow: 0 1rem 1rem rgba($color-black, .15);
+        transform: translateY(0);
+    }
+}
+
+
+
+// Form Button
+// Form Button
+// Form Button
+.bton,
+.bton:link,
+.bton:visited {
+    font-size: 1.6rem;
+    padding: 1.4rem 3rem;
+    border-radius: 10rem;
+    text-transform: uppercase;
+    display: inline-block;
+    text-decoration: none;
+    position: relative;
+    -webkit-transition: all 0.4s;
+    transition: all 0.4s;
+    font-weight: 400;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    /*Add later when we use this for the button in form*/
+    border: none;
+    cursor: pointer;
+}
+
+.bton:hover {
+    -webkit-transform: translateY(-3px);
+    transform: translateY(-3px);
+    -webkit-box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.15);
+    box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.15);
+}
+
+.bton:active {
+    -webkit-transform: translateY(-1px);
+    transform: translateY(-1px);
+    -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.bton:focus {
+    outline: none;
+    //background-color: #2e864b;
+    background-color: $color-teal;
+}
+
+.bton--white {
+    background-color: #fff;
+    color: #777;
+}
+
+.bton--white::after {
+    background-color: #fff;
+}
+
+.bton--green {
+    //background-color: #55c57a;
+    background-color: teal;
+    color: #fff;
+}
+
+.bton--green::after {
+    //background-color: #55c57a;
+    background-color: teal;
+}

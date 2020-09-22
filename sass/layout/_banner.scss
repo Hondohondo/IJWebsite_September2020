@@ -1,0 +1,369 @@
+
+.ira__shape {
+    max-width: 45rem;
+    // width: 50%;
+    float: left;
+    text-align: center;
+
+    // @include respond(small-phone1){
+    //       width: 70%;
+    // }
+}
+
+.ira__img {
+
+  width: 90%;
+  // padding-bottom: 1rem;
+}
+
+
+
+hr {
+  display: inline-block;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin-bottom: 5px;
+  border:0px;
+  height: 2px;
+//  border: .5px solid grey;
+  background-image: linear-gradient(90deg, rgba(0,0,0,.05) 0%,
+                                            rgba(0,0,0,.1) 100%);
+}
+
+.trademark-line{
+  display: block;
+  padding: 0;
+  margin-top: 7rem;
+  height: 1px;
+}
+
+.work-hr {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.mod-hr {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.inside-nav-container {
+    text-align: center;
+    // overflow: hidden;
+}
+
+.inside-nav {
+
+  position: relative;
+  display: inline-block;
+
+    li {
+        font-size: $default-font-size;
+        list-style: none;
+        display: inline-block;
+      a {
+
+        &:link,
+        &:visited {
+          text-decoration: none;
+          color: teal;
+          margin-right: 1rem;
+          margin-left: 1rem;
+          padding-bottom: 3px;
+          border-bottom: 1px solid transparent;
+        }
+        &:hover,
+        &:active {
+            border-bottom: 1px solid teal;
+        }
+      }
+
+    }
+
+}
+.vert {
+  font-size: $default-font-size;
+}
+.samplereading {
+  text-align: center;
+
+  .para-sample {
+
+    ol {
+      list-style: none;
+      font-size: 1.5rem;
+    counter-reset: my-awesome-counter;
+
+      li {
+      counter-increment: my-awesome-counter;
+
+        &::before {
+         content: counter(my-awesome-counter) ". ";
+          color: teal;
+          font-weight: bold;
+          padding-right: .5rem;
+        }
+      }
+    }
+    p {
+      text-align: center;
+    }
+  }
+
+}
+
+.ordered-list {
+
+  p {
+    margin-left: 2.5rem;
+  }
+
+  ul {
+    li {
+      margin-left: 2.5rem;
+    }
+  }
+
+      .ordered-green {
+
+     list-style: none;
+     counter-reset: my-awesome-counter;
+           //margin-left: 4rem;
+
+      .list-green {
+    counter-increment: my-awesome-counter;
+          font-weight: 600;
+       font-size: 1.8rem;
+        color: teal;
+//        margin-bottom: 1rem;
+
+       &::before {
+        content: counter(my-awesome-counter) ". ";
+         color: teal;
+         font-weight: bold;
+         padding-right: .5rem;
+       }
+      }
+    }
+
+}
+
+.books-titles {
+  // width: 90%;
+    font-size: $default-font-size;
+    color: teal;
+    background-color: #f7f7f7;
+    // background-color: #fcfcfc;
+    padding: 1rem;
+    border-bottom: 1px solid #e8e8e8;
+    margin-bottom: 1rem;
+    // display: inline-block;
+}
+
+.title-width {
+  width: 85%;
+}
+
+
+table {
+  font-size: $default-font-size;
+    margin-left: 2.5rem;
+
+
+    th {
+       text-align: left;
+      color: teal;
+      background-color: #f7f7f7;
+      padding: 1rem;
+       border-bottom: 1px solid #e8e8e8;
+    //  margin: 5rem;
+    }
+
+    td {
+      padding: 1rem;
+    }
+
+    tr:nth-child(3) {
+      background-color: #fcfcfc;
+    }
+}
+
+.table-credits {
+  margin-left: 0;
+
+  th {
+    text-align: center;
+    padding: 2rem;
+  }
+
+  td {
+    padding: 2rem;
+  }
+}
+
+.table-praises {
+  // border: 1px solid #e8e8e8;
+  border: 1px solid #e8e8e8;
+
+  tr:nth-child(odd) {
+    background-color: #fcfcfc;
+  }
+
+}
+
+.books-table {
+  font-size: 1.5rem;
+margin-left: 0;
+
+
+  th {
+padding: .5rem;
+
+background-color: #f7f7f7;
+// background-color: #f1f1f1;
+// background-color: #fff;
+
+  }
+
+  td {
+
+  }
+}
+
+.cd-img {
+  width: 70%;
+  margin-bottom: 2rem;
+  margin-top: 1rem;
+  border: 1px solid teal;
+  border-radius: 1rem;
+}
+
+.col-1-of-5 .cd-img {
+width: 120%;
+}
+// .quotes:nth-child(even) {
+//   background-color: #f4f4f4;
+// }
+.quotes {
+  padding: 2rem;
+  margin: 2rem;
+  // background-color: #f4f4f4;
+  background-color: #82cdd614;
+
+  p {
+    font-weight: bold;
+
+  }
+}
+
+.article-link {
+  li {
+    a {
+      &:link,
+      &:visited {
+        text-decoration: none;
+        color: teal;
+        margin-right: 1rem;
+        margin-left: 1rem;
+        padding-bottom: 3px;
+        border-bottom: 1px solid transparent;
+      }
+      &:hover,
+      &:active {
+          border-bottom: 1px solid teal;
+      }
+    }
+  }
+}
+
+.page-link {
+
+  margin-left: 0 !important;
+
+  @include page-links;
+
+}
+
+// .poem-img {
+// height: 60rem;
+// position: relative;
+// margin: 8rem 0;
+// }
+//
+// .poem-quote {
+//   position: absolute;
+//   font-size: 2.2rem;
+//   padding: 3rem;
+//   font-style: italic;
+//   top: 9rem;
+//   left: 10%;
+//   max-width: 40rem;
+//   color:#F9FAFA;
+//   z-index: 10;
+//   transition: transform 0.5s;
+// }
+
+
+.poem {
+    height: 120rem;
+    position: relative;
+    // margin: 8rem 0;
+}
+
+
+// .poem:hover .poem__quote { transform: translateX(1.5rem); }
+// .poem:hover .poem__img { transform: translateX(-1.5rem); }
+// .poem:hover .poem__overlay { background-color: rgba(0,0,0,0.3); }
+//
+// .poem__quote:hover + .poem__overlay { background-color: rgba(0,0,0,0.7); }
+
+.poem__quote {
+    position: absolute;
+    font-size: 1.8rem !important;
+    // padding: 3rem;
+    padding: 1rem;
+    font-style: italic;
+    // top: 9rem;
+    top: 5rem;
+    left: 10%;
+    max-width: 40rem;
+    color: #F9FAFA;
+    z-index: 10;
+    transition: transform 0.5s;
+}
+
+.poem__img {
+    // width: calc(100% + 2rem);
+    height: 100%;
+    background-size: cover;
+    // background-position: center center;
+    z-index: 5;
+    // transition: transform 0.5s;
+    background-repeat: no-repeat;
+}
+
+
+// .articles-picture {
+//   background-image: url(../img/green.jpg);
+// }
+
+#poem__img-1 {
+  background-image: url(../img/wisdom.jpg);
+  background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)) , url(../img/wisdom.jpg);
+  // background-image: url(../img/green.jpg);
+ }
+ // .overview-picture {
+ //   background-image: url(../img/overview.jpg);
+ // }
+// #poem__img-2 { background-image: url(img/why-js-back-2.jpeg); }
+
+
+// .poem__overlay {
+//     position: absolute;
+//     top: 0;
+//     left: 0;
+//     background-color: rgba(0,0,0,0.7);
+//     height: 100%;
+//     width: 100%;
+//     z-index: 9;
+//     transition: background-color 0.5s;
+// }

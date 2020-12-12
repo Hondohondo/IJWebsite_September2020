@@ -10,7 +10,8 @@
 <link href="https://fonts.googleapis.com/css?family=Cardo|Lato:300,300i,400,400i&display=swap" rel="stylesheet">
 
     <!-- <link rel="stylesheet" href="css/icon-font.css"> -->
-    <link rel="stylesheet" href="../css/style.css">
+<!--    <link rel="stylesheet" href="../css/style.css?v=1.1">-->
+    <link rel="stylesheet" href="../sass/main.css?v=1.2">
     <!-- <link rel="shortcut icon" type="image/png" href="img/favicon.png"> -->
 
       <title>Progoff Intensive Journal Program | For Self-Development</title>

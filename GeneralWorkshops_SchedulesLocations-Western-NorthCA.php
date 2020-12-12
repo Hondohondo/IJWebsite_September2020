@@ -105,7 +105,8 @@
                         <br>
                         <h5> </h5>
                         <h5> </h5>
-                        <h5>San Francisco - Sacramento:   3-Part Series on February 20-27,  2020</h5>
+                        <h5>San Francisco - Sacramento:   3-Part Series on January 30-February 6,  2021 - online - new
+                            dates</h5>
                         <table class="table-credits table-praises" style="width: 83.0245%;">
                             <tbody>
                                 <tr>
@@ -115,19 +116,19 @@
                                 </tr>
                                 <tr>
                                     <td style="width: 26.5507%;">Life Context</td>
-                                    <td style="width: 42.0737%;">02/20: (9 am-12:30 pm; 2-5 pm) <br>02/21: (9 am-12 pm;
+                                    <td style="width: 42.0737%;">01/30: (9 am-12:30 pm; 2-5 pm) <br>01/31: (9 am-12 pm;
                                         1:30-4:30 pm)</td>
                                     <td style="width: 14.6003%;">$225</td>
                                 </tr>
                                 <tr>
                                     <td style="width: 26.5507%;">Depth Contact</td>
-                                    <td style="width: 42.0737%;">02/23: (9 am-12:30 pm; 2-5 pm) <br>02/24: (9 am-12 pm;
+                                    <td style="width: 42.0737%;">02/02: (9 am-12:30 pm; 2-5 pm) <br>02/03: (9 am-12 pm;
                                         1:30-4:30 pm)</td>
                                     <td style="width: 14.6003%;">$210</td>
                                 </tr>
                                 <tr>
                                     <td style="width: 26.5507%;">Life Integration</td>
-                                    <td style="width: 42.0737%;">02/26: (9 am-12:30 pm; 2-5 pm) <br>02/27: (9 am-12 pm;
+                                    <td style="width: 42.0737%;">02/05: (9 am-12:30 pm; 2-5 pm) <br>02/06: (9 am-12 pm;
                                         1:30-4:30 pm)</td>
                                     <td style="width: 14.6003%;">$210</td>
                                 </tr>
@@ -139,30 +140,32 @@
                             </tbody>
                         </table>
                         <!-- <br><br> -->
-                        <p><sup>* Tuition only.  Workshops are not held on February 22 and 25.  Life Context workshop
+                        <p><sup>* Tuition only.  Workshops are not held on February 1 and 4.    Life Context workshop
                                 includes <em>Intensive Journal</em> workbook. </sup></p>
-                        <table class="table-credits table-praises" style="width: 742px;">
+                        <table class="table-credits table-praises" style="width: 104.074%; height: 702px;">
                             <tbody>
-                                <tr>
-                                    <th style="width: 130px;">Location</th>
-                                    <td style="width: 612px;">Workshops held online through Zoom.</td>
+                                <tr style="height: 116px;">
+                                    <th style="width: 22.4952%; height: 116px;">Location</th>
+                                    <td style="width: 77.2329%; height: 116px;">Workshops held online through Zoom.</td>
                                 </tr>
-                                <tr>
-                                    <th style="width: 130px;">Leader</th>
-                                    <td style="width: 612px;"><strong>Joanne Hackett Ching</strong> began leading <em>Intensive
-                                            Journal</em> workshops in 1980 while she was working at Dialogue House in
-                                        NYC. For 25 years she was an English as a Second Language (ESL) teacher in
-                                        Fresno, CA. She has a MA in Creation Spirituality from Naropa University, is a
-                                        Certified Life Cycle Celebrant® (creating celebrations for significant life
-                                        events) and is an ordained minister with the Universal Life Church.</td>
+                                <tr style="height: 300px;">
+                                    <th style="width: 22.4952%; height: 300px;">Leader</th>
+                                    <td style="width: 77.2329%; height: 300px;"><strong>Joanne Hackett Ching</strong>
+                                        began leading <em>Intensive Journal</em> workshops in 1980 while she was
+                                        working at Dialogue House in NYC. For 25 years she was an English as a Second
+                                        Language (ESL) teacher in Fresno, CA. She has a MA in Creation Spirituality
+                                        from Naropa University, is a Certified Life Cycle Celebrant® (creating
+                                        celebrations for significant life events) and is an ordained minister with the
+                                        Universal Life Church.</td>
                                 </tr>
-                                <tr>
-                                    <th style="width: 130px;">Registration</th>
-                                    <td style="width: 612px;">Call <strong> 330-998-6000 or 800-221-5844 </strong> or
-                                        write to <strong>Dialogue House</strong> , 2245 E Enterprise Pkwy - #B1,
-                                        Twinsburg, OH  44087.   Email: info@intensivejournal.org Credit cards accepted.
-                                        Make checks payable to  Dialogue House.   Minimum non-refundable deposit: 
-                                        $100.   Full payment required at least two weeks in advance of the workshop.</td>
+                                <tr style="height: 286px;">
+                                    <th style="width: 22.4952%; height: 286px;">Registration</th>
+                                    <td style="width: 77.2329%; height: 286px;">Call <strong> 330-998-6000 or
+                                            800-221-5844 </strong> or write to <strong>Dialogue House</strong> , 2245 E
+                                        Enterprise Pkwy - #B1, Twinsburg, OH  44087.   Email: info@intensivejournal.org
+                                        Credit cards accepted. Make checks payable to  Dialogue House.   Minimum
+                                        non-refundable deposit:  $100.   Full payment required at least two weeks in
+                                        advance of the workshop.</td>
                                 </tr>
                             </tbody>
                         </table>

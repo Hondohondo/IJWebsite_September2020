@@ -98,32 +98,5 @@
   color: #fff;
   background-color: teal;
 }
-.table-schedules {
-  // overflow-x: auto;
-  // width: 120rem;
-  // width: 110%;
-  position: relative;
-  // border-collapse: collapse;
-  td,th {
-    padding: 1rem !important;
-  }
-
-  th {
-    position: sticky;
-    top: 0;
-// width: 20rem;
-    &:nth-child(2) {
-      // width: 5rem;
-    }
-  }
-
-  tr {
-    td:nth-child(4) {
-      // width: 100%;
-      // width: 5rem;
-    }
-  }
 
 
-}
-  // <!-- <hr class="trademark-line u-margin-top-small"> -->

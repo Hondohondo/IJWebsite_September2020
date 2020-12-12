@@ -30,7 +30,7 @@
 
                     'timeout'	: -1, // Timeout for keyboard events (keyup, keypress ...)
 
-                    'sort'	: false, // Aplica a função de ordenação das linhas
+                    'sort'	: true, // Aplica a função de ordenação das linhas
 
                     'notFoundElement' : null,
 

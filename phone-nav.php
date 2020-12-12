@@ -1,4 +1,3 @@
-
       <div class="phone-nav">
       <input type="checkbox" class="phone-nav__checkbox" id="navi-toggle">
 
@@ -154,3 +153,7 @@
       <!-- </div> -->
 
       </div>
+
+    <!--  <p class="covid-online">
+          Due to Covid, all of our workshops are offered online. See <a class="covid-link" href="GeneralWorkshops_SchedulesLocations-Schedules.php">our schedule!</a>
+      </p>-->

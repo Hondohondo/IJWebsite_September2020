@@ -12,7 +12,7 @@ $('table').tableFilter({
     },
 
     // case sensitive
-    'caseSensitive' :  true,
+    // 'caseSensitive' : false,
 
     // Timeout for keyboard events (keyup, keypress ...)
     'timeout' : -1,
@@ -22,9 +22,11 @@ $('table').tableFilter({
 
     // not found element
     // e.g. notFoundElement : ".not-found"
-    'notFoundElement' : null,
+    // 'notFoundElement' : null,
 
     // callback
-    'callback'  : function(){}
+    'callback'  : function(){},
+
+    notFoundElement : ".not-found"
 
 });

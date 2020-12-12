@@ -630,6 +630,7 @@ body {
   display: inline-block;
   text-decoration: none;
   position: relative;
+  -webkit-transition: all 0.4s;
   transition: all 0.4s;
   font-weight: 400;
   -webkit-backface-visibility: hidden;
@@ -640,12 +641,16 @@ body {
 }
 
 .bton:hover {
+  -webkit-transform: translateY(-3px);
   transform: translateY(-3px);
+  -webkit-box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.15);
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.15);
 }
 
 .bton:active {
+  -webkit-transform: translateY(-1px);
   transform: translateY(-1px);
+  -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
 }
 
@@ -738,8 +743,10 @@ body {
   background-color: #f2f2f2;
   border-top: 3px solid transparent;
   border-bottom: 3px solid transparent;
+  -webkit-transition: all 0.3s;
   transition: all 0.3s;
   border-radius: 4px;
+  -webkit-box-sizing: border-box;
   box-sizing: border-box;
   /* Pseudo element (a visible thing that isn't really in the DOM).
     Also needs -ms- */
@@ -1078,8 +1085,7 @@ textarea {
 .quote__img {
   width: 100%;
   transform: scale(110%);
-  -webkit-backface-visibility: hidden;
-          backface-visibility: hidden;
+  backface-visibility: hidden;
   transition: all 0.5s;
 }
 .quote__caption {
@@ -1094,8 +1100,7 @@ textarea {
   text-align: center;
   opacity: 0;
   transition: all 0.5s;
-  -webkit-backface-visibility: hidden;
-          backface-visibility: hidden;
+  backface-visibility: hidden;
 }
 .quots {
   background-color: red !important;
@@ -1645,6 +1650,44 @@ hr {
   width: calc( (100% - 4 * 6rem) / 5 );
 }
 
+.area-map {
+  background-color: red;
+}
+.area-map:hover {
+  border: 1px solid teal;
+}
+
+.area-map1:hover {
+  border: 5px solid teal;
+}
+
+.covid-online {
+  background-color: #00aced;
+  position: fixed;
+  z-index: 9999;
+  width: 100%;
+  text-align: center;
+  padding: 5px 0;
+  background: #EF4C24;
+  background: teal;
+  font-weight: 500;
+  color: #fff;
+  background-color: #008080;
+}
+.covid-online a:link,
+.covid-online a:visited {
+  text-decoration: none;
+  color: inherit;
+  font-weight: bold;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s;
+}
+.covid-online a:hover,
+.covid-online a:active {
+  border-bottom: 1px solid white;
+  color: inherit;
+}
+
 .expand {
   background-color: #fff;
   margin: 0 auto;
@@ -1935,7 +1978,6 @@ hr {
   display: inline-block;
   width: 100%;
   padding: 2rem 2rem 2rem 8rem;
-  position: -webkit-sticky;
   position: sticky;
   top: 0;
   left: 0;
@@ -3106,7 +3148,6 @@ table tr:nth-child(3) {
 }
 .table-schedules th {
   text-align: left;
-  position: -webkit-sticky;
   position: sticky;
   z-index: 9999;
   top: 0;
@@ -3180,3 +3221,5 @@ table tr:nth-child(3) {
   margin-bottom: 12px;
   margin-right: 6px;
 }
+
+/*# sourceMappingURL=main.css.map */

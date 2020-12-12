@@ -6,23 +6,48 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.0/css/bulma.min.css"
         integrity="sha512-ADrqa2PY1TZtb/MoLZIZu/Z/LlPaWQeDMBV73EMwjGam43/JJ5fqW38Rq8LJOVGCDfrJeOMS3Q/wRUVzW5DkjQ=="
         crossorigin="anonymous" />
-<!--  <link rel="stylesheet" href="style.css">-->
+<!--  <link rel="stylesheet" href="sass/test/test.css">-->
+<!--  <link rel="stylesheet" href="sass/test/testtwo.scss">-->
+<!--  <link rel="stylesheet" href="css/style.css">-->
 
   <style>
     html {
       /*background: hsl(217, 71%, 53%);*/
       /*background: hsl(217, 11%, 53%);*/
       font-size: 62.5%;
+      /*background: white;*/
+
     }
 
     body {
       font-size: 1.6rem;
       max-width: 100rem;
       margin: 0 auto;
+      background: wheat;
+      padding: 1rem 5rem;
+
+    }
+
+    #sponsor {
+      margin-top: -1.5rem !important;
+      color: teal;
+      font-size: 1.45rem !important;
+      margin-bottom: 1.5rem !important;
+    }
+
+    #party {
+      color: teal;
+      font-size: 1.45rem !important;
     }
 
     .hide {
       display: none;
+    }
+
+    address {
+      text-align: center;
+      color: teal;
+      /*font-weight: bold;*/
     }
 
     .submit .button {
@@ -35,7 +60,8 @@
 
     h1 {
       /*color: white;*/
-      font-size: 2rem;
+      font-size: 2.4rem;
+      color: teal;
       text-align: center;
       font-weight: bold;
       margin-bottom: 1rem;
@@ -52,12 +78,15 @@
 
     span {
       /*font-size: 1.6rem;*/
-
     }
 
     .input {  font-size: 1.3rem;}
     textarea {
       font-size: 1.5rem !important;
+    }
+
+    .teal {
+      color: teal;
     }
 
     #my-container {
@@ -80,27 +109,28 @@
 <body>
 
 <form action="https://formspree.io/xknpnzdq" method="POST">
+<!--<form action="https://getform.io/f/ed36c21c-483d-4173-ad89-bd8600b5331c" method="POST">-->
 
 <!--<div class="container">-->
   <h1><em>Intensive Journal&reg;</em> Program - Evaluation Form</h1>
 
-  <p>
+  <p class="test-para">
     Maintaining a high quality of sponsors and workshop leaders in the Progoff <em>Intensive Journal</em> Program is of prime
     importance to Dialogue House. To accomplish this goal, your input and evaluations are of great value to us.
-    Please complete the evaluation form below.  There are two parts: Zoom Related Questions and the Workshop Leader.
-    <em>Thank you</em>.
+    Please complete the evaluation form below. <span class="teal">Your evaluation is anonymous unless you wish to provide your name.</span>
+    <em> Thank you</em>.
   </p>
 <!--</div>-->
 
 <!--<div id="my-container">-->
 <!--Sample Text-->
 <!--</div>-->
-
-<h2>Zoom Related Questions</h2>
+  <h2>Workshop</h2>
 
   <div class="hide">
-    <input type="text" name="ZOOM RELATED QUESTIONS">
+    <input type="text" name="WORKSHOP">
   </div>
+
 
 <div class="columns">
   <div class="column">
@@ -135,6 +165,54 @@
   </div>
 </div>
 
+<div class="container mt-4">
+
+<!--  <div class="hide">-->
+<!--    <input type="text" name="Please check all modules that you attended at this conference">-->
+<!--  </div>-->
+
+  <div class="columns">
+    <div class="column">
+      Please check all modules that you attended at this conference
+    </div>
+  </div>
+
+    <div class="columns">
+      <label class="checkbox column">
+        <input type="checkbox" value="Life Context (Part 1)" name="Modules Attended">
+        Life Context (Part 1)
+      </label>
+      <label class="checkbox column">
+        <input type="checkbox" value="Depth Contact (Part 2)" name="Modules Attended">
+        Depth Contact (Part 2)
+      </label>
+      <label class="checkbox column">
+        <input type="checkbox" value="Life Integration (Part 3)" name="Modules Attended">
+        Life Integration (Part 3)
+      </label>
+    </div>
+    <div class="columns">
+      <label class="checkbox column">
+        <input type="checkbox" value="Life Study" name="Modules Attended">
+        Life Study
+      </label>
+      <label class="checkbox column">
+        <input type="checkbox" value="Intro Presentation" name="Modules Attended">
+        Intro Presentation
+      </label>
+      <label class="checkbox column">
+        <input type="checkbox" value="Seminar" name="Modules Attended">
+        Seminar
+      </label>
+    </div>
+
+</div>
+
+  <h2>Zoom Related Questions</h2>
+
+  <div class="hide">
+    <input type="text" name="ZOOM RELATED QUESTIONS">
+  </div>
 
 <div class="container mt-4">
   <div class="columns">
@@ -155,11 +233,16 @@
           <input type="radio" name="Please rate your level of experience with Zoom" value="Little / None">
           Little / None
         </label>
+        <label class="radio hide">
+          <input type="radio" name="Please rate your level of experience with Zoom" value="" checked>
+          Little / None
+        </label>
       </div>
     </div>
 
   </div>
 </div>
+
 <div class="container mt-4">
   <div class="columns">
     <div class="column">
@@ -181,13 +264,18 @@
           <input type="radio" name="Were you able to participate in the workshop without interruption in your residence?" value="Somewhat">
           Somewhat
         </label>
+        <label class="radio hide">
+          <input type="radio" name="Were you able to participate in the workshop without interruption in your residence?" value="" checked>
+          Somewhat
+        </label>
       </div>
     </div>
   </div>
 
   <div class="columns">
     <div class="column is-6">
-      <textarea class="textarea" placeholder="" rows="2" name="Comment (If No to previous question)"></textarea>
+      <textarea class="textarea" placeholder="" rows="2" name="Comment 1 (If No to previous question)"></textarea>
+<!--      <input class="input" type="text" placeholder="" name="Comment (If No to previous question)">-->
     </div>
   </div>
 
@@ -197,7 +285,7 @@
   <div class="columns">
     <div class="column">
       Was the setup of your computer and writing area adequate for your needs? <br>
-      If not, please explain
+      If not, please explain.
 <!--      <textarea class="textarea" placeholder="" rows="2"></textarea>-->
     </div>
     <div class="column">
@@ -214,12 +302,16 @@
           <input type="radio" value="Somewhat" name="Was the setup of your computer and writing area adequate for your needs?">
           Somewhat
         </label>
+        <label class="radio hide">
+          <input type="radio" value="" name="Was the setup of your computer and writing area adequate for your needs?" checked>
+          Somewhat
+        </label>
       </div>
     </div>
   </div>
   <div class="columns">
     <div class="column is-6">
-      <textarea class="textarea" placeholder="" rows="2" name="Comment (If No to previous question)"></textarea>
+      <textarea class="textarea" placeholder="" rows="2" name="Comment 2(If No to previous question)"></textarea>
     </div>
   </div>
 </div>
@@ -227,7 +319,7 @@
   <div class="columns">
     <div class="column">
       Were you able to handle the required amount of time in front of the computer screen? <br>
-      If not, please explain
+      If not, please explain.
 <!--      <textarea class="textarea" placeholder="" rows="2"></textarea>-->
     </div>
     <div class="column">
@@ -244,13 +336,17 @@
           <input type="radio" value="Somewhat" name="Were you able to handle the required amount of time in front of the computer screen?">
           Somewhat
         </label>
+        <label class="radio hide">
+          <input type="radio" value="" name="Were you able to handle the required amount of time in front of the computer screen?" checked>
+          Somewhat
+        </label>
       </div>
     </div>
 
   </div>
   <div class="columns">
     <div class="column is-6">
-      <textarea class="textarea" placeholder="" rows="2" name="Comment (If No to previous question)"></textarea>
+      <textarea class="textarea" placeholder="" rows="2" name="Comment 3(If No to previous question)"></textarea>
     </div>
   </div>
 </div>
@@ -260,7 +356,7 @@
       Did you feel a group atmosphere (power of the group)
       to help propel you forward?
       <br>
-      If not, please explain
+      If not, please explain.
 <!--      <textarea class="textarea" placeholder="" rows="2"></textarea>-->
     </div>
     <div class="column">
@@ -280,13 +376,18 @@
       to help propel you forward?">
           Somewhat
         </label>
+        <label class="radio hide">
+          <input type="radio" value="" name="Did you feel a group atmosphere (power of the group)
+      to help propel you forward?" checked>
+          Somewhat
+        </label>
       </div>
     </div>
 
   </div>
   <div class="columns">
     <div class="column is-6">
-      <textarea class="textarea" placeholder="" rows="2" name="Comment (If No to previous question)"></textarea>
+      <textarea class="textarea" placeholder="" rows="2" name="Comment 4(If No to previous question)"></textarea>
     </div>
   </div>
 </div>
@@ -295,7 +396,7 @@
     <div class="column">
       Were you adequately prepared to use Zoom?
       <br>
-      If not, please explain
+      If not, please explain.
 <!--      <textarea class="textarea" placeholder="" rows="2"></textarea>-->
     </div>
     <div class="column">
@@ -312,13 +413,17 @@
           <input type="radio" value="Somewhat" name="Were you adequately prepared to use Zoom?">
           Somewhat
         </label>
+        <label class="radio hide">
+          <input type="radio" value="" name="Were you adequately prepared to use Zoom?" checked>
+          Somewhat
+        </label>
       </div>
     </div>
 
   </div>
   <div class="columns">
     <div class="column is-6">
-      <textarea class="textarea" placeholder="" rows="2" name="Comment (If No to previous question)"></textarea>
+      <textarea class="textarea" placeholder="" rows="2" name="Comment 5(If No to previous question)"></textarea>
     </div>
   </div>
 </div>
@@ -327,7 +432,7 @@
     <div class="column">
       Were you able to hear the leader throughout the workshop?
       <br>
-      If not, please explain
+      If not, please explain.
 <!--      <textarea class="textarea" placeholder="" rows="2"></textarea>-->
     </div>
     <div class="column">
@@ -344,23 +449,27 @@
           <input type="radio" value="Somewhat" name="Were you able to hear the leader throughout the workshop?">
           Somewhat
         </label>
+        <label class="radio hide">
+          <input type="radio" value="" name="Were you able to hear the leader throughout the workshop?" checked>
+          Somewhat
+        </label>
       </div>
     </div>
 
   </div>
   <div class="columns">
     <div class="column is-6">
-      <textarea class="textarea" placeholder="" rows="2" name="Comment (If No to previous question)"></textarea>
+      <textarea class="textarea" placeholder="" rows="2" name="Comment 6(If No to previous question)"></textarea>
     </div>
   </div>
 </div>
 
 <p class="mt-5 mb-3">
-  if you attended an in-person <em>Intensive Journal</em> workshop, please compare the quality of the two experiences.
+  If you attended an in-person <em>Intensive Journal</em> workshop, please compare the quality of the two experiences.
 </p>
 <div class="field">
   <div class="control">
-    <textarea class="textarea" placeholder="" rows="3" name="if you attended an in-person <em>Intensive Journal</em> workshop, please compare the quality of the two experiences"></textarea>
+    <textarea class="textarea" placeholder="" rows="3" name="If you attended an in-person <em>Intensive Journal</em> workshop, please compare the quality of the two experiences"></textarea>
   </div>
 </div>
 
@@ -393,7 +502,17 @@
           <input type="radio" name="Would you attend another <em>Intensive Journal</em> workshop on Zoom?" value="Maybe">
           Maybe
         </label>
+        <label class="radio hide">
+          <input type="radio" name="Would you attend another <em>Intensive Journal</em> workshop on Zoom?" value="" checked>
+          Maybe
+        </label>
       </div>
+    </div>
+  </div>
+  <div class="columns">
+    <div class="column is-12">
+      Additional comments on the Zoom / Online Experience:
+      <textarea class="textarea" placeholder="" rows="3" name="Additional comments on the Zoom / Online Experience"></textarea>
     </div>
   </div>
 </div>
@@ -407,11 +526,11 @@
   <div class="column is-7">
     &nbsp;
   </div>
-  <div class="column">Excellent</div>
-  <div class="column">Good</div>
-  <div class="column">Average</div>
-  <div class="column">Fair</div>
-  <div class="column">Poor</div>
+  <div class="column"><strong>Excellent</strong></div>
+  <div class="column"><strong>Good</strong></div>
+  <div class="column"><strong>Average</strong></div>
+  <div class="column"><strong>Fair</strong></div>
+  <div class="column"><strong>Poor</strong></div>
 </div>
 <div class="columns">
   <div class="column is-7">
@@ -428,6 +547,7 @@
   <div class="column"><input type="radio" name="Overall competence in leading the workshop" value="Average"></div>
   <div class="column"><input type="radio" name="Overall competence in leading the workshop" value="Fair"></div>
   <div class="column"><input type="radio" name="Overall competence in leading the workshop" value="Poor"></div>
+  <div class="column hide"><input type="radio" name="Overall competence in leading the workshop" value="" checked="checked"></div>
 </div>
 <div class="columns">
   <div class="column is-7">
@@ -438,6 +558,7 @@
   <div class="column"><input type="radio" name="Explanation of workbook exercises" value="Average"></div>
   <div class="column"><input type="radio" name="Explanation of workbook exercises" value="Fair"></div>
   <div class="column"><input type="radio" name="Explanation of workbook exercises" value="Poor"></div>
+  <div class="column hide"><input type="radio" name="Explanation of workbook exercises" value="" checked="checked"></div>
 </div>
 <div class="columns">
   <div class="column is-7">
@@ -448,6 +569,7 @@
   <div class="column"><input type="radio" name="Responsiveness to questions and readings" value="Average"></div>
   <div class="column"><input type="radio" name="Responsiveness to questions and readings" value="Fair"></div>
   <div class="column"><input type="radio" name="Responsiveness to questions and readings" value="Poor"></div>
+  <div class="column hide"><input type="radio" name="Responsiveness to questions and readings" value="" checked="checked"></div>
 </div>
 <div class="columns">
   <div class="column is-7">
@@ -458,6 +580,7 @@
   <div class="column"><input type="radio" name="Responsiveness in a <em>non-judgmental way</em>" value="Average"></div>
   <div class="column"><input type="radio" name="Responsiveness in a <em>non-judgmental way</em>" value="Fair"></div>
   <div class="column"><input type="radio" name="Responsiveness in a <em>non-judgmental way</em>" value="Poor"></div>
+  <div class="column hide"><input type="radio" name="Responsiveness in a <em>non-judgmental way</em>" value="" checked="checked"></div>
 </div>
 <div class="columns">
   <div class="column is-7">
@@ -468,6 +591,7 @@
   <div class="column"><input type="radio" name="Interest and empathy in participants" value="Average"></div>
   <div class="column"><input type="radio" name="Interest and empathy in participants" value="Fair"></div>
   <div class="column"><input type="radio" name="Interest and empathy in participants" value="Poor"></div>
+  <div class="column hide"><input type="radio" name="Interest and empathy in participants" value="" checked="checked"></div>
 </div>
 <div class="columns">
   <div class="column is-7">
@@ -478,6 +602,7 @@
   <div class="column"><input type="radio" name="Ability to provide examples or applications of workbook exercises" value="Average"></div>
   <div class="column"><input type="radio" name="Ability to provide examples or applications of workbook exercises" value="Fair"></div>
   <div class="column"><input type="radio" name="Ability to provide examples or applications of workbook exercises" value="Poor"></div>
+  <div class="column hide"><input type="radio" name="Ability to provide examples or applications of workbook exercises" value="" checked="checked"></div>
 </div>
 <div class="columns">
   <div class="column is-7">
@@ -488,6 +613,7 @@
   <div class="column"><input type="radio" name="Ability to maintain a quiet and private workshop setting" value="Average"></div>
   <div class="column"><input type="radio" name="Ability to maintain a quiet and private workshop setting" value="Fair"></div>
   <div class="column"><input type="radio" name="Ability to maintain a quiet and private workshop setting" value="Poor"></div>
+  <div class="column hide"><input type="radio" name="Ability to maintain a quiet and private workshop setting" value="" checked="checked"></div>
 </div>
 <div class="columns">
   <div class="column is-7">
@@ -498,11 +624,12 @@
   <div class="column"><input type="radio" name="Skill in conducting an online workshop using Zoom" value="Average"></div>
   <div class="column"><input type="radio" name="Skill in conducting an online workshop using Zoom" value="Fair"></div>
   <div class="column"><input type="radio" name="Skill in conducting an online workshop using Zoom" value="Poor"></div>
+  <div class="column hide"><input type="radio" name="Skill in conducting an online workshop using Zoom" value="" checked="checked"></div>
 </div>
 <div class="columns">
-  <div class="column is-7">
-    Comments:
-    <textarea class="textarea" placeholder="" rows="3" name="Comments"></textarea>
+  <div class="column is-12">
+    Additional comments about the leader:
+    <textarea class="textarea" placeholder="" rows="3" name="Additional comments about the leader"></textarea>
   </div>
 </div>
 
@@ -515,7 +642,7 @@
 
 
 <div class="columns">
-  <div class="column is-7">
+  <div class="column is-12">
     <p class="mt-5">
       How did you hear about this workshop?
     </p>
@@ -524,7 +651,7 @@
 </div>
 
 <div class="columns">
-  <div class="column is-7">
+  <div class="column is-12">
     <p class="mt-5">
       Why did you attend this workshop?
     </p>
@@ -540,11 +667,15 @@
     <div class="column">
       <div class="control">
         <label class="radio">
-          <input type="radio" name="overHave you attended an <em>Intensive Journal</em> workshop before?" value="Yes">
+          <input type="radio" name="Have you attended an <em>Intensive Journal</em> workshop before?" value="Yes">
           Yes
         </label>
         <label class="radio">
           <input type="radio" name="Have you attended an <em>Intensive Journal</em> workshop before?" value="No">
+          No
+        </label>
+        <label class="radio hide">
+          <input type="radio" name="Have you attended an <em>Intensive Journal</em> workshop before?" value="" checked>
           No
         </label>
 <!--        <label class="radio">-->
@@ -575,6 +706,10 @@
           <input type="radio" name="Was the program helpful to you?" value="Maybe">
           Maybe
         </label>
+        <label class="radio hide">
+          <input type="radio" name="Was the program helpful to you?" value="" checked>
+          Maybe
+        </label>
       </div>
     </div>
   </div>
@@ -590,15 +725,19 @@
     <div class="column">
       <div class="control">
         <label class="radio">
-          <input type="radio" name="Would you attend another workshop?">
+          <input type="radio" name="Would you attend another workshop?" value="Yes">
           Yes
         </label>
         <label class="radio">
-          <input type="radio" name="Would you attend another workshop?">
+          <input type="radio" name="Would you attend another workshop?" value="No">
           No
         </label>
         <label class="radio">
-          <input type="radio" name="Would you attend another workshop?">
+          <input type="radio" name="Would you attend another workshop?" value="Maybe">
+          Maybe
+        </label>
+        <label class="radio hide">
+          <input type="radio" name="Would you attend another workshop?" value="" checked>
           Maybe
         </label>
       </div>
@@ -631,6 +770,10 @@
           <input type="radio" name="Would you recommend the Program to friends?" value="Maybe">
           Maybe
         </label>
+        <label class="radio hide">
+          <input type="radio" name="Would you recommend the Program to friends?" value="" checked>
+          Maybe
+        </label>
       </div>
     </div>
   </div>
@@ -657,6 +800,10 @@
         </label>
         <label class="radio">
           <input type="radio" name="sex" value="Female">
+          Female
+        </label>
+        <label class="radio hide">
+          <input type="radio" name="sex" value="" checked>
           Female
         </label>
       </div>
@@ -717,6 +864,14 @@
       </label>
     </div>
   </div>
+  <div class="column hide">
+    <div class="control">
+      <label class="radio">
+        <input type="radio" name="Age" value="" checked>
+       Over 65
+      </label>
+    </div>
+  </div>
 </div>
 
 <h2 class="mt-6">Sponsor</h2>
@@ -725,14 +880,14 @@
   </div>
 
 <div class="columns mt-4">
-  <div class="column is-7">
+  <div class="column is-8">
     <div class="field is-horizontal">
       <label class="mr-4">Name of Sponsor:</label>
       <div class="field-body">
         <div class="field">
           <input class="input" type="text" placeholder="" name="Name of Sponsor">
-          <p class="help is-info is-size-5">
-            The entity that registered you (i.e Dialogue House or another party)
+          <p id="party" class="help is-info is-size-5">
+            The entity that registered you (e.g. Dialogue House or another party)
           </p>
         </div>
       </div>
@@ -745,11 +900,11 @@
   <div class="column is-7">
     <strong>Sponsor Services</strong>
   </div>
-  <div class="column">Excellent</div>
-  <div class="column">Good</div>
-  <div class="column">Average</div>
-  <div class="column">Fair</div>
-  <div class="column">Poor</div>
+  <div class="column"><strong>Excellent</strong></div>
+  <div class="column"><strong>Good</strong></div>
+  <div class="column"><strong>Average</strong></div>
+  <div class="column"><strong>Fair</strong></div>
+  <div class="column"><strong>Poor</strong></div>
 </div>
 <div class="columns">
   <div class="column is-7">
@@ -766,6 +921,7 @@
   <div class="column"><input type="radio" name="Registration" value="Average"></div>
   <div class="column"><input type="radio" name="Registration" value="Fair"></div>
   <div class="column"><input type="radio" name="Registration" value="Poor"></div>
+  <div class="column hide"><input type="radio" name="Registration" value="" checked="checked"></div>
 </div>
 <div class="columns">
   <div class="column is-7">
@@ -776,6 +932,7 @@
   <div class="column"><input type="radio" name="Information about program" value="Average"></div>
   <div class="column"><input type="radio" name="Information about program" value="Fair"></div>
   <div class="column"><input type="radio" name="Information about program" value="Poor"></div>
+  <div class="column hide"><input type="radio" name="Information about program" value="" checked="checked"></div>
 </div>
 <div class="columns">
   <div class="column is-7">
@@ -786,6 +943,7 @@
   <div class="column"><input type="radio" name="Courtesy of staff" value="Average"></div>
   <div class="column"><input type="radio" name="Courtesy of staff" value="Fair"></div>
   <div class="column"><input type="radio" name="Courtesy of staff" value="Poor"></div>
+  <div class="column hide"><input type="radio" name="Courtesy of staff" value="" checked="checked"></div>
 </div>
 <div class="columns">
   <div class="column is-7">
@@ -796,6 +954,7 @@
   <div class="column"><input type="radio" name="Shipment of materials" value="Average"></div>
   <div class="column"><input type="radio" name="Shipment of materials" value="Fair"></div>
   <div class="column"><input type="radio" name="Shipment of materials" value="Poor"></div>
+  <div class="column hide"><input type="radio" name="Shipment of materials" value="" checked="checked"></div>
 </div>
 <div class="columns">
   <div class="column is-7">
@@ -806,6 +965,7 @@
   <div class="column"><input type="radio" name="Technical support with Zoom" value="Average"></div>
   <div class="column"><input type="radio" name="Technical support with Zoom" value="Fair"></div>
   <div class="column"><input type="radio" name="Technical support with Zoom" value="Poor"></div>
+  <div class="column hide"><input type="radio" name="Technical support with Zoom" value="" checked="checked"></div>
 </div>
 
 
@@ -815,7 +975,7 @@
   Please share our website (www.intensivejournal.org) with your friends and associates. <span class="hide">
   To get them started, you may wish to send them a link to our online store where they can get a copy of Dr. Progoff's book, <em>
   At a Journal Workshop</em>, or one of our audio CDs
-</span> You may also wish to share your workshop experience with your friends on social media - Facebook, Twitter, Instagram, LinkedIn etc.
+</span> You may also wish to share your workshop experience with your friends on social media - Facebook, Twitter, Instagram, LinkedIn, etc.
 </p>
 
 
@@ -830,7 +990,7 @@
 </p>
 
 <p class="mt-3">
- <strong>Do you, or a friend or colleague, know a group that could recruit about 15 people for a workshop?</strong>  Common examples include churches,
+ <strong>Do you, or a friend or colleague, know a group that could recruit about 15 people for a workshop?</strong> &nbsp;  Common examples include churches,
   writing groups, as well as personal growth, counseling, and wellness centers. We also can work with groups within government and social
   service agencies, and private institutions such as health care entities or addiction recovery centers.
 </p>
@@ -843,15 +1003,15 @@
     <div class="column">
       <div class="control">
         <label class="radio">
-          <input type="radio" name="Do you, or a friend or colleague, know a group that could recruit about 15 people for a workshop?">
+          <input value="Yes" type="radio" name="Do you, or a friend or colleague, know a group that could recruit about 15 people for a workshop?">
           Yes
         </label>
         <label class="radio">
-          <input type="radio" name="Do you, or a friend or colleague, know a group that could recruit about 15 people for a workshop?">
+          <input value="No" type="radio" name="Do you, or a friend or colleague, know a group that could recruit about 15 people for a workshop?">
           No
         </label>
         <label class="radio">
-          <input type="radio" name="Do you, or a friend or colleague, know a group that could recruit about 15 people for a workshop?">
+          <input value="Maybe" type="radio" name="Do you, or a friend or colleague, know a group that could recruit about 15 people for a workshop?">
           Maybe
         </label>
       </div>
@@ -945,12 +1105,15 @@
       </div>
     </div>
   </div>
-
 </div>
+
+  <p id="sponsor" class="help is-info is-size-5">
+    Only put down your name, telephone, and email if you have provided organization name OR if you would like to identify yourself.
+  </p>
 
 <p>
   You can put this information on another form to keep your evaluation responses anonymous. Please contact us
-  at <strong>800-221-5844</strong> or <strong>info@intensivejournal.org</strong> for more information,including our sponsor packet.
+  at <strong>800-221-5844</strong> or <strong>info@intensivejournal.org</strong> for more information, including our sponsor packet.
 </p>
 
 <div class="control submit">
@@ -962,17 +1125,6 @@
 </address>
 
 </form>
-
-
-
-
-
-
-
-
-
-
-
 
 </body>
 </html>

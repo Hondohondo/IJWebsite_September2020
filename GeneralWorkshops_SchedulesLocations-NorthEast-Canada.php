@@ -40,97 +40,10 @@
                     <div id="my-content" class="section-inside-content">
                         <h1><em id="victoria">Intensive Journal</em> Workshops - Canada</h1>
                         <!-- <br><br> -->
-                        <h6>Summer - Fall, 2020</h6>
+                        <h6> Winter - Summer, 2021 </h6>
                         <h5> </h5>
-                        <h5 id="toronto">Toronto, Ontario: 3-Part Series on 15-22 August 2020 - online</h5>
-                        <p class="reg-flyer">Please have a copy of our <a class="page-link" href="toronto-0820.pdf"
-                               target="_blank" rel="noopener">Toronto regional brochure   (not ready yet)</a></p>
-                        <table class="table-credits table-praises">
-                            <tbody>
-                                <tr>
-                                    <th>Workshop (12 hrs)</th>
-                                    <th>Schedule</th>
-                                    <th>Tuition<sup>*</sup></th>
-                                </tr>
-                                <tr>
-                                    <td>Life Context</td>
-                                    <td>08/15: (10 am-1:30 pm; 3-6 pm)<br>08/16: (10 am-1 pm; 2:30-5:30 pm)</td>
-                                    <td>$ 305 CN</td>
-                                </tr>
-                                <tr>
-                                    <td>Depth Contact</td>
-                                    <td>08/18: (10 am-1:30  pm; 3-6 pm)<br>08/19: (10 am-1 pm; 2:30-5:30 pm)</td>
-                                    <td>$ 285</td>
-                                </tr>
-                                <tr>
-                                    <td>Life Integration/ <em>Journal Feedback</em> Process</td>
-                                    <td>08/21: (10 am-1:30 pm; 3-6 pm)<br>08/22: (10 am-1 pm; 2:30-5:30 pm)</td>
-                                    <td>$ 285</td>
-                                </tr>
-                                <tr>
-                                    <td>All three workshops</td>
-                                    <td> </td>
-                                    <td>$ 850</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                        <h5>
-                            <!-- <br><br> -->
-                        </h5>
-                        <p><sup>*  Tuition only.  Workshop not held on  August 17 and 20.  Life Context workshop
-                                includes <em>Intensive Journal</em> workbook.  Dialogue House reserves the right to
-                                adjust the tuition rate based upon currency changes.   These rates are roughly the
-                                United States rates converted into Canadian dollars to give you a close estimate of the
-                                cost.  We will charge your credit card LC-225 US; DC:  210 US; LI:  210 US; All 3
-                                workshops:625 US.  </sup><br>+ If your primary language is other than English, then you
-                            can still participate as long as you understand the instructions that will be given in
-                            English. You will write in your <em>Intensive Journal</em> workbook in your native
-                            language. If you read voluntarily from your workbook, you will read in your native
-                            language.</p>
-                        <table class="table-credits table-praises">
-                            <tbody>
-                                <tr>
-                                    <th>Location</th>
-                                    <td>Workshops held online through Zoom.</td>
-                                </tr>
-                                <tr>
-                                    <th>Leaders</th>
-                                    <td>
-                                        <p><strong>Evelyn Wemhoff</strong> (Life Context) is a presenter of retreats
-                                            and workshops at Shalom at the Monastery in Mt Angel, Oregon that offers
-                                            personal and spiritual growth programs. She is a spiritual director,
-                                            retired licensed counselor, and was formerly director of WomanSpirit Center
-                                            in the Seattle area that offered programs for women seeking to develop
-                                            their lives. Evelyn has led <em>Intensive Journal</em> workshops for over
-                                            30 years<strong>.</strong></p>
-                                        <p><strong>Bill Israel </strong>(Depth Contact and Life Integration) is a
-                                            long-time practitioner of the <em>Intensive Journal</em> method, with 40
-                                            years of experience in effecting his own life transitions. Bill worked as
-                                            an ordained pastor, a group and family therapist, and then as a
-                                            professional human resource trainer and consultant. He now conducts a
-                                            private counseling and consulting practice in Victoria, B.C., working as a
-                                            Life Transition Facilitator.</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <th>Registration</th>
-                                    <td>Call <strong> 330-998-6000 or 800-221-5844 </strong> or write to <strong>Dialogue
-                                            House,</strong> 2245 E Enterprise Pkwy - #B1, Twinsburg, OH 44087-2348  
-                                        USA. Email: info@intensivejournal.org Credit cards accepted. Due to currency
-                                        translation, the amount charged to your card may vary slightly from the tuition
-                                        rates. Make cheques payable to Dialogue House.  Full payment required at least
-                                        2 weeks before the workshop. <br><br>Canadians: Payment by credit card is
-                                        accepted. If paying by cheque, you must go to a Canadian bank and purchase a
-                                        money order in United States dollars that is denominated by a United States
-                                        bank. We also accept international money orders in US dollars. NO PERSONAL
-                                        CHEQUES. <br><br>Americans: Pay by credit card or personal check. If you are
-                                        paying by check, please register and you will receive the payment balance owed
-                                        in US dollars.</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                        <h5 id="toronto"><br><br><br><br><br>Calgary, Alberta:  3-Part Series Starts on 24-25 October
-                            2020 -  online - new dates</h5>
+                        <h5 id="toronto">Calgary, Alberta:  3-Part Series Starts on 16-17 January, 2021-  online - new
+                            dates</h5>
                         <p class="reg-flyer">Please have a copy of our <a class="page-link" href="toronto-0820.pdf"
                                target="_blank" rel="noopener">Calgary  brochure   (not ready yet)</a></p>
                         <table class="table-credits table-praises">
@@ -142,17 +55,17 @@
                                 </tr>
                                 <tr>
                                     <td>Life Context</td>
-                                    <td>10/24: (9 am-12:30 pm; 2-5 pm)<br>10/25: (9 am-12 pm; 1:30-4:30 pm)</td>
+                                    <td>01/16: (9 am-12:30 pm; 2-5 pm)<br>01/17: (9 am-12 pm; 1:30-4:30 pm)</td>
                                     <td>$ 305 CN</td>
                                 </tr>
                                 <tr>
                                     <td>Depth Contact</td>
-                                    <td>11/07: (9 am-12:30 pm; 2-5 pm)<br>11/08: (9 am-12 pm; 1:30-4:30 pm)</td>
+                                    <td>01/30: (9 am-12:30 pm; 2-5 pm)<br>01/31: (9 am-12 pm; 1:30-4:30 pm)</td>
                                     <td>$ 285</td>
                                 </tr>
                                 <tr>
                                     <td>Life Integration/ <em>Journal Feedback</em> Process</td>
-                                    <td>12/14: (9 am-12:30 pm; 2-5 pm)<br>12/15: (9 am-12 pm; 1:30-4:30 pm)</td>
+                                    <td>02/20: (9 am-12:30 pm; 2-5 pm)<br>02/21: (9 am-12 pm; 1:30-4:30 pm)</td>
                                     <td>$ 285</td>
                                 </tr>
                                 <tr>
@@ -209,6 +122,153 @@
                             </tbody>
                         </table>
                         <h5> </h5>
+                        <h5> </h5>
+                        <h5> Montreal, QC / Ottawa, ON:   Intro Program on 24-25 April 2021 - online</h5>
+                        <p class="reg-flyer">Please have a copy of our <a class="page-link" href="toronto-0820.pdf"
+                               target="_blank" rel="noopener">  Montreal-Ottawa  brochure   (not ready yet)</a></p>
+                        <table class="table-credits table-praises" style="width: 79.7905%;">
+                            <tbody>
+                                <tr>
+                                    <th style="width: 30.7644%;">Workshop (12 hrs)</th>
+                                    <th style="width: 50.1294%;">Schedule</th>
+                                    <th style="width: 49.8225%;">Tuition<sup>*</sup></th>
+                                </tr>
+                                <tr>
+                                    <td style="width: 30.7644%;">Life Context</td>
+                                    <td style="width: 50.1294%;">04/24: (10 am-1:30 pm; 3-6 pm)<br>04/25: (10 am-1 pm;
+                                        2:30-5:30 pm)</td>
+                                    <td style="width: 49.8225%;">$ 305 CN</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <h5>
+                            <!-- <br><br> -->
+                        </h5>
+                        <p><sup>*  Tuition only.   Life Context workshop includes <em>Intensive Journal</em> workbook. 
+                                Dialogue House reserves the right to adjust the tuition rate based upon currency
+                                changes.   These rates are roughly the United States rates converted into Canadian
+                                dollars to give you a close estimate of the cost.  We will charge your credit card
+                                LC-225 US.   </sup><br>+ If your primary language is other than English, then you can
+                            still participate as long as you understand the instructions that will be given in English.
+                            You will write in your <em>Intensive Journal</em> workbook in your native language. If you
+                            read voluntarily from your workbook, you will read in your native language.</p>
+                        <table class="table-credits table-praises">
+                            <tbody>
+                                <tr>
+                                    <th>Location</th>
+                                    <td>Workshops held online through Zoom.</td>
+                                </tr>
+                                <tr>
+                                    <th>Leaders</th>
+                                    <td>
+                                        <p><strong> </strong></p>
+                                        <p><strong>Bill Israel </strong>is a long-time practitioner of the <em>Intensive
+                                                Journal</em> method, with 40 years of experience in effecting his own
+                                            life transitions. Bill worked as an ordained pastor, a group and family
+                                            therapist, and then as a professional human resource trainer and
+                                            consultant. He now conducts a private counseling and consulting practice in
+                                            Victoria, B.C., working as a Life Transition Facilitator.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th>Registration</th>
+                                    <td>Call <strong> 330-998-6000 or 800-221-5844 </strong> or write to <strong>Dialogue
+                                            House,</strong> 2245 E Enterprise Pkwy - #B1, Twinsburg, OH 44087-2348  
+                                        USA. Email: info@intensivejournal.org Credit cards accepted. Due to currency
+                                        translation, the amount charged to your card may vary slightly from the tuition
+                                        rates. Make cheques payable to Dialogue House.  Full payment required at least
+                                        2 weeks before the workshop. <br><br>Canadians: Payment by credit card is
+                                        accepted. If paying by cheque, you must go to a Canadian bank and purchase a
+                                        money order in United States dollars that is denominated by a United States
+                                        bank. We also accept international money orders in US dollars. NO PERSONAL
+                                        CHEQUES. <br><br>Americans: Pay by credit card or personal check. If you are
+                                        paying by check, please register and you will receive the payment balance owed
+                                        in US dollars.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <h5 id="toronto"><br><br></h5>
+                        <h5 id="toronto">Toronto, Ontario: 3-Part Series on 21-28 August 2021 - online</h5>
+                        <p class="reg-flyer">Please have a copy of our <a class="page-link" href="toronto-0820.pdf"
+                               target="_blank" rel="noopener">Toronto regional brochure   (not ready yet)</a></p>
+                        <table class="table-credits table-praises">
+                            <tbody>
+                                <tr>
+                                    <th>Workshop (12 hrs)</th>
+                                    <th>Schedule</th>
+                                    <th>Tuition<sup>*</sup></th>
+                                </tr>
+                                <tr>
+                                    <td>Life Context</td>
+                                    <td>08/21: (10 am-1:30 pm; 3-6 pm)<br>08/22: (10 am-1 pm; 2:30-5:30 pm)</td>
+                                    <td>$ 305 CN</td>
+                                </tr>
+                                <tr>
+                                    <td>Depth Contact</td>
+                                    <td>08/24: (10 am-1:30  pm; 3-6 pm)<br>08/25: (10 am-1 pm; 2:30-5:30 pm)</td>
+                                    <td>$ 285</td>
+                                </tr>
+                                <tr>
+                                    <td>Life Integration/ <em>Journal Feedback</em> Process</td>
+                                    <td>08/27: (10 am-1:30 pm; 3-6 pm)<br>08/28: (10 am-1 pm; 2:30-5:30 pm)</td>
+                                    <td>$ 285</td>
+                                </tr>
+                                <tr>
+                                    <td>All three workshops</td>
+                                    <td> </td>
+                                    <td>$ 850</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <h5>
+                            <!-- <br><br> -->
+                        </h5>
+                        <p><sup>*  Tuition only.  Workshop not held on  August 23 and 26.  Life Context workshop
+                                includes <em>Intensive Journal</em> workbook.  Dialogue House reserves the right to
+                                adjust the tuition rate based upon currency changes.   These rates are roughly the
+                                United States rates converted into Canadian dollars to give you a close estimate of the
+                                cost.  We will charge your credit card LC-225 US; DC:  210 US; LI:  210 US; All 3
+                                workshops:625 US.  </sup><br>+ If your primary language is other than English, then you
+                            can still participate as long as you understand the instructions that will be given in
+                            English. You will write in your <em>Intensive Journal</em> workbook in your native
+                            language. If you read voluntarily from your workbook, you will read in your native
+                            language.</p>
+                        <table class="table-credits table-praises">
+                            <tbody>
+                                <tr>
+                                    <th>Location</th>
+                                    <td>Workshops held online through Zoom.</td>
+                                </tr>
+                                <tr>
+                                    <th>Leaders</th>
+                                    <td>
+                                        <p><strong> </strong></p>
+                                        <p><strong>Bill Israel </strong>is a long-time practitioner of the <em>Intensive
+                                                Journal</em> method, with 40 years of experience in effecting his own
+                                            life transitions. Bill worked as an ordained pastor, a group and family
+                                            therapist, and then as a professional human resource trainer and
+                                            consultant. He now conducts a private counseling and consulting practice in
+                                            Victoria, B.C., working as a Life Transition Facilitator.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th>Registration</th>
+                                    <td>Call <strong> 330-998-6000 or 800-221-5844 </strong> or write to <strong>Dialogue
+                                            House,</strong> 2245 E Enterprise Pkwy - #B1, Twinsburg, OH 44087-2348  
+                                        USA. Email: info@intensivejournal.org Credit cards accepted. Due to currency
+                                        translation, the amount charged to your card may vary slightly from the tuition
+                                        rates. Make cheques payable to Dialogue House.  Full payment required at least
+                                        2 weeks before the workshop. <br><br>Canadians: Payment by credit card is
+                                        accepted. If paying by cheque, you must go to a Canadian bank and purchase a
+                                        money order in United States dollars that is denominated by a United States
+                                        bank. We also accept international money orders in US dollars. NO PERSONAL
+                                        CHEQUES. <br><br>Americans: Pay by credit card or personal check. If you are
+                                        paying by check, please register and you will receive the payment balance owed
+                                        in US dollars.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <h5 id="toronto"><br><br><br><br><br></h5>
                         <h5 id="victoria">Victoria, British Columbia:   Depth Contact (Part 2) Begins 19 October, 2020 
                             <br>                                                                                     -
                             new dates  - in person</h5>

@@ -45,7 +45,7 @@
                                 Journal</em> program. You cannot get an authorized <em>Intensive Journal</em>
                             experience through him.</p>
                         <!-- <h6>Fall, 2019 - Fall, 2020</h6> -->
-                        <h5 id="london">London , United Kingdom: 14-21 November 2020 - online - new dates</h5>
+                        <h5 id="london">London , United Kingdom:  20-27 February 2021- online - new dates</h5>
                         <table class="table-credits table-praises">
                             <tbody>
                                 <tr>
@@ -55,19 +55,19 @@
                                 </tr>
                                 <tr>
                                     <td>Life Context</td>
-                                    <td>14 Nov 20 (1:30-5 pm; 6-9 pm )<br>15 Nov 20 (2-5 pm; 6-9 pm)                  
+                                    <td>20 Feb 21 (1:30-5 pm; 6-9 pm )<br>21 Feb 21 (2-5 pm; 6-9 pm)                  
                                                                                                                        
                                                        </td>
                                     <td>£ 185 GBP</td>
                                 </tr>
                                 <tr>
                                     <td>Depth Contact</td>
-                                    <td>17 Nov 20 (1:30-5 pm; 6-9 pm )<br>18 Nov 20 (2-5 pm; 6-9 pm)  </td>
+                                    <td>23 Feb 21 (1:30-5 pm; 6-9 pm )<br>24 Feb 21 (2-5 pm; 6-9 pm)  </td>
                                     <td>£ 170 GBP</td>
                                 </tr>
                                 <tr>
                                     <td>Life Integration / Journal Feedback Process</td>
-                                    <td>20 Nov 20 (1:30-5 pm; 6-9 pm )<br>21 Nov 20 (2-5 pm; 6-9 pm)  </td>
+                                    <td>26 Feb 21 (1:30-5 pm; 6-9 pm )<br>27 Feb 21 (2-5 pm; 6-9 pm)  </td>
                                     <td>£ 170 GBP</td>
                                 </tr>
                                 <tr>
@@ -77,7 +77,7 @@
                                 </tr>
                             </tbody>
                         </table>
-                        <p>* Tuition only.    Workshops not held on 16 and 19 November.   Life Context workshop
+                        <p>* Tuition only.    Workshops not held on 22 and 25 February.   Life Context workshop
                             includes<em> Intensive Journal</em> tabs (not binder).   Dialogue House reserves the right
                             to adjust the tuition rate based upon currency changes.  These rates are roughly the United
                             States rates converted into British sterling. </p>

@@ -60,12 +60,12 @@
                                 <tr>
                                     <td>Depth Contact</td>
                                     <td>10/31: (9 am-12:30 pm; 2-5 pm)<br>11/01:  (9 am-12 pm; 1:30-4:30 pm)</td>
-                                    <td>$ 225</td>
+                                    <td>$ 210</td>
                                 </tr>
                                 <tr>
                                     <td>Life Integration</td>
                                     <td>12/05: (9 am-12:30 pm; 2-5 pm)<br>12/06:  (9 am-12 pm; 1:30-4:30 pm)</td>
-                                    <td>$ 225</td>
+                                    <td>$ 210</td>
                                 </tr>
                                 <tr>
                                     <td>All 3 workshops</td>
@@ -103,7 +103,129 @@
                                 </tr>
                             </tbody>
                         </table>
-                        <br><br><br><!-- <table class="table-credits table-praises table-schedules"> -->
+                        <br>
+                        <h5 id="manhattan">New York City (Manhattan): 3-Part Series Begins February 20-21, 2021 -
+                            online<br>                                                                   </h5>
+                        <table class="table-credits table-praises">
+                            <tbody>
+                                <tr>
+                                    <th>Workshop (12 hrs)</th>
+                                    <th>Schedule</th>
+                                    <th>Cost<sup>#</sup></th>
+                                </tr>
+                                <tr>
+                                    <td>Life Context</td>
+                                    <td>02/20: (9 am-12:30 pm; 2-5 pm)<br>02/21: (9 am-12 pm; 1:30-4:30 pm)</td>
+                                    <td>$ 225</td>
+                                </tr>
+                                <tr>
+                                    <td>Depth Contact</td>
+                                    <td>03/06: (9 am-12:30 pm; 2-5 pm)<br>03/07:  (9 am-12 pm; 1:30-4:30 pm)</td>
+                                    <td>$ 210</td>
+                                </tr>
+                                <tr>
+                                    <td>Life Integration</td>
+                                    <td>03/20: (9 am-12:30 pm; 2-5 pm)<br>03/21:  (9 am-12 pm; 1:30-4:30 pm)</td>
+                                    <td>$ 210</td>
+                                </tr>
+                                <tr>
+                                    <td>All 3 workshops</td>
+                                    <td> </td>
+                                    <td>$ 625</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <!-- <br><br> -->
+                        <p><sup>#</sup>Tuition only.   Life Context workshop includes the<em> Intensive Journal</em>
+                            workbook.  </p>
+                        <table class="table-credits table-praises">
+                            <tbody>
+                                <tr>
+                                    <th>Location</th>
+                                    <td>Workshops held online through Zoom.</td>
+                                </tr>
+                                <tr>
+                                    <th>Leader</th>
+                                    <td><strong>Nancy-Elizabeth Nimmich </strong>is a native New Yorker growing up in
+                                        Huntington on Long Island and is a graduate of Manhattanville College in
+                                        Westchester County.  Nancy-Elizabeth is now a clinical social worker in
+                                        Virginia.   Her professional career has been as a psychotherapist, educator,
+                                        hospice social worker and workshop presenter.  She began attending <em>Intensive
+                                            Journal</em> workshops over 35 year ago and has been leading them for the
+                                        past 10 years.</td>
+                                </tr>
+                                <tr>
+                                    <th>Registration</th>
+                                    <td>Call <strong> 330-998-6000 or 800-221-5844 </strong> or write to <strong>Dialogue
+                                            House</strong> , 2245 E Enterprise Pkwy - #B1, Twinsburg, OH  44087-2348.  
+                                        Email: info@intensivejournal.org Credit cards accepted. Make checks payable to
+                                        Dialogue House. Minimum non-refundable deposit:  $100.  Full payment required
+                                        at least two weeks before the workshop.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <h5> </h5>
+                        <h5 id="manhattan">New York City (Manhattan): 3-Part Series  on July 10-17,  2021 - online]
+                                                                            </h5>
+                        <table class="table-credits table-praises">
+                            <tbody>
+                                <tr>
+                                    <th>Workshop (12 hrs)</th>
+                                    <th>Schedule</th>
+                                    <th>Cost<sup>#</sup></th>
+                                </tr>
+                                <tr>
+                                    <td>Life Context</td>
+                                    <td>07/10: (9 am-12:30 pm; 2-5 pm)<br>07/11: (9 am-12 pm; 1:30-4:30 pm)</td>
+                                    <td>$ 225</td>
+                                </tr>
+                                <tr>
+                                    <td>Depth Contact</td>
+                                    <td>07/13: (9 am-12:30 pm; 2-5 pm)<br>07/14:  (9 am-12 pm; 1:30-4:30 pm)</td>
+                                    <td>$ 210</td>
+                                </tr>
+                                <tr>
+                                    <td>Life Integration</td>
+                                    <td>07/16: (9 am-12:30 pm; 2-5 pm)<br>07/17:  (9 am-12 pm; 1:30-4:30 pm)</td>
+                                    <td>$ 210</td>
+                                </tr>
+                                <tr>
+                                    <td>All 3 workshops</td>
+                                    <td> </td>
+                                    <td>$ 625</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <!-- <br><br> -->
+                        <p><sup>#</sup>Tuition only.   No meeting on July 12 and 15.   Life Context workshop includes
+                            the<em> Intensive Journal</em> workbook.  </p>
+                        <table class="table-credits table-praises">
+                            <tbody>
+                                <tr>
+                                    <th>Location</th>
+                                    <td>Workshops held online through Zoom.</td>
+                                </tr>
+                                <tr>
+                                    <th>Leader</th>
+                                    <td><strong>Nancy-Elizabeth Nimmich </strong>is a native New Yorker growing up in
+                                        Huntington on Long Island and is a graduate of Manhattanville College in
+                                        Westchester County.  Nancy-Elizabeth is now a clinical social worker in
+                                        Virginia.   Her professional career has been as a psychotherapist, educator,
+                                        hospice social worker and workshop presenter.  She began attending <em>Intensive
+                                            Journal</em> workshops over 35 year ago and has been leading them for the
+                                        past 10 years.</td>
+                                </tr>
+                                <tr>
+                                    <th>Registration</th>
+                                    <td>Call <strong> 330-998-6000 or 800-221-5844 </strong> or write to <strong>Dialogue
+                                            House</strong> , 2245 E Enterprise Pkwy - #B1, Twinsburg, OH  44087-2348.  
+                                        Email: info@intensivejournal.org Credit cards accepted. Make checks payable to
+                                        Dialogue House. Minimum non-refundable deposit:  $100.  Full payment required
+                                        at least two weeks before the workshop.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <br><br><!-- <table class="table-credits table-praises table-schedules"> -->
                         <!-- <hr class="trademark-line u-margin-top-small"> -->
                     </div>
                 </section>

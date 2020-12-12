@@ -14,508 +14,519 @@
   <?php include "headhtml.php";?>
 
   <div id="content" class="cms-editable">
-    <table class="table-credits table-praises table-schedules table" style="width: 1386px;">
+    <div class="wrapper1">
+      <div class="div1"> </div>
+    </div>
+    <!-- wrapper1 and 2 -----  for horizontal scroll-->
+    <p> </p>
+    <!--    <table id="test-table" class="table-credits table-praises table-schedules table wrapper2">-->
+    <table id="test-table" class="table-credits table-praises table-schedules table" style="width: 59.4582%;">
       <thead>
         <tr>
-          <th style="width: 153px;">State</th>
-          <th style="width: 214px;">City</th>
-          <th style="width: 103px;">Module</th>
-          <th style="width: 88px;" data-tsort-type="date">Begins</th>
-          <th style="width: 88px;">Ends</th>
-          <th style="width: 327px;">Location</th>
-          <th style="width: 240px;">Telephone</th>
-          <th style="width: 173px;">Leader</th>
+          <th style="width: 10.7354%;">State</th>
+          <th style="width: 13.5086%;">City</th>
+          <th style="width: 8.47471%;">Module</th>
+          <th style="width: 10.7275%;">Begins</th>
+          <th style="width: 10.7434%;">Ends</th>
+          <th class="th-type u-center-text" style="width: 10.8323%;">Type</th>
+          <th class="th-sponsor" style="width: 10.8722%;">Sponsor</th>
+          <th class="th-tel" style="width: 12.5448%;">Telephone</th>
+          <th style="width: 11.0115%;">Leader</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td style="width: 153px;">Arizona</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthWest.php#mesa">Phoenix</a></td>
-          <td style="width: 103px;">LC-ONL</td>
-          <td style="width: 88px;">12/05/20</td>
-          <td style="width: 88px;">12/06/20</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Kelley Williams</td>
+          <td style="width: 10.7354%;">Arizona</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthWest.php#mesa">Phoenix-Tucson</a></td>
+          <td style="width: 8.47471%;">LC-ONL</td>
+          <td class="day" style="width: 10.7275%;">December 05, 2020<span id="dayofweek">Saturday</span></td>
+          <td class="day" style="width: 10.7434%;">December 06, 2020<span id="dayofweek">Sunday</span></td>
+          <td style="width: 10.8323%;">Weekend / Solo</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Kelley Williams</td>
         </tr>
         <tr>
-          <td style="width: 153px;">Arizona</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthWest.php#carefree">Phoenix</a></td>
-          <td style="width: 103px;">LC-ONL</td>
-          <td style="width: 88px;">03/20/21</td>
-          <td style="width: 88px;">03/21/21</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Kelley Williams</td>
+          <td style="width: 10.7354%;">Arizona</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthWest.php#carefree">Phoenix-Tucson</a></td>
+          <td style="width: 8.47471%;">LC-ONL</td>
+          <td class="day" style="width: 10.7275%;">March 20, 2021<span id="dayofweek">Saturday</span></td>
+          <td class="day" style="width: 10.7434%;">March 21, 2021<span id="dayofweek">Sunday</span></td>
+          <td style="width: 10.8323%;">Weekend / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Kelley Williams</td>
         </tr>
         <tr>
-          <td style="width: 153px;">Arizona</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthWest.php#carefree">Phoenix</a></td>
-          <td style="width: 103px;">No Meeting</td>
-          <td style="width: 88px;">03/22/21</td>
-          <td style="width: 88px;">03/22/21</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Kelley Williams</td>
+          <td style="width: 10.7354%;">Arizona</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthWest.php#carefree">Phoenix-Tucson</a></td>
+          <td style="width: 8.47471%;">No Meeting</td>
+          <td class="day" style="width: 10.7275%;">March 22, 2021<span id="dayofweek">Monday</span></td>
+          <td class="day" style="width: 10.7434%;">March 22, 2021<span id="dayofweek">Monday</span></td>
+          <td style="width: 10.8323%;">Weekday / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Kelley Williams</td>
         </tr>
         <tr>
-          <td style="width: 153px;">Arizona</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthWest.php#carefree">Phoenix</a></td>
-          <td style="width: 103px;">DC-ONL</td>
-          <td style="width: 88px;">03/23/21</td>
-          <td style="width: 88px;">03/24/21</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Kelley Williams</td>
+          <td style="width: 10.7354%;">Arizona</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthWest.php#carefree">Phoenix-Tucson</a></td>
+          <td style="width: 8.47471%;">DC-ONL</td>
+          <td class="day" style="width: 10.7275%;">March 23, 2021<span id="dayofweek">Tuesday</span></td>
+          <td class="day" style="width: 10.7434%;">March 24, 2021<span id="dayofweek">Wednesday</span></td>
+          <td style="width: 10.8323%;">Weekday / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Kelley Williams</td>
         </tr>
         <tr>
-          <td style="width: 153px;">Arizona</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthWest.php#carefree">Phoenix</a></td>
-          <td style="width: 103px;">No Meeting</td>
-          <td style="width: 88px;">03/25/21</td>
-          <td style="width: 88px;">03/25/21</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Kelley Williams</td>
+          <td style="width: 10.7354%;">Arizona</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthWest.php#carefree">Phoenix-Tucson</a></td>
+          <td style="width: 8.47471%;">No Meeting</td>
+          <td class="day" style="width: 10.7275%;">March 25, 2021<span id="dayofweek">Thursday</span></td>
+          <td class="day" style="width: 10.7434%;">March 25, 2021<span id="dayofweek">Thursday</span></td>
+          <td style="width: 10.8323%;">Weekday / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Kelley Williams</td>
         </tr>
         <tr>
-          <td style="width: 153px;">Arizona</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthWest.php#carefree">Phoenix</a></td>
-          <td style="width: 103px;">LI-ONL</td>
-          <td style="width: 88px;">03/26/21</td>
-          <td style="width: 88px;">03/27/21</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Kelley Williams</td>
+          <td style="width: 10.7354%;">Arizona</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthWest.php#carefree">Phoenix-Tucson</a></td>
+          <td style="width: 8.47471%;">LI-ONL</td>
+          <td class="day" style="width: 10.7275%;">March 26, 2021<span id="dayofweek">Friday</span></td>
+          <td class="day" style="width: 10.7434%;">March 27, 2021<span id="dayofweek">Saturday</span></td>
+          <td style="width: 10.8323%;">Weekend / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Kelley Williams</td>
         </tr>
         <tr>
-          <td style="width: 153px;">California - North</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthCA.php#sanfran">San
+          <td style="width: 10.7354%;">California - North</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthCA.php#sanfran">San
               Francisco-Sacramento</a></td>
-          <td style="width: 103px;">LC-ONL</td>
-          <td style="width: 88px;">07/17/21</td>
-          <td style="width: 88px;">07/18/21</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Joanne Hackett Ching</td>
+          <td style="width: 8.47471%;">LC-ONL</td>
+          <td class="day" style="width: 10.7275%;">July 17, 2021<span id="dayofweek">Saturday</span></td>
+          <td class="day" style="width: 10.7434%;">July 18, 2021<span id="dayofweek">Sunday</span></td>
+          <td style="width: 10.8323%;">Weekend / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Joanne Hackett Ching</td>
         </tr>
         <tr>
-          <td style="width: 153px;">California - North</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthCA.php#sanfran">San
+          <td style="width: 10.7354%;">California - North</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthCA.php#sanfran">San
               Francisco-Sacramento</a></td>
-          <td style="width: 103px;">No Meeting</td>
-          <td style="width: 88px;">07/19/21</td>
-          <td style="width: 88px;">07/19/21</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Joanne Hackett Ching</td>
+          <td style="width: 8.47471%;">No Meeting</td>
+          <td class="day" style="width: 10.7275%;">July 19, 2021<span id="dayofweek">Monday</span></td>
+          <td class="day" style="width: 10.7434%;">July 19, 2021<span id="dayofweek">Monday</span></td>
+          <td style="width: 10.8323%;">Weekday / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Joanne Hackett Ching</td>
         </tr>
         <tr>
-          <td style="width: 153px;">California - North</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthCA.php#sanfran">San
+          <td style="width: 10.7354%;">California - North</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthCA.php#sanfran">San
               Francisco-Sacramento</a></td>
-          <td style="width: 103px;">DC-ONL</td>
-          <td style="width: 88px;">07/20/21</td>
-          <td style="width: 88px;">07/21/21</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Joanne Hackett Ching</td>
+          <td style="width: 8.47471%;">DC-ONL</td>
+          <td class="day" style="width: 10.7275%;">July 20, 2021<span id="dayofweek">Tuesday</span></td>
+          <td class="day" style="width: 10.7434%;">July 21, 2021<span id="dayofweek">Wednesday</span></td>
+          <td style="width: 10.8323%;">Weekday / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Joanne Hackett Ching</td>
         </tr>
         <tr>
-          <td style="width: 153px;">California - North</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthCA.php#sanfran">San
+          <td style="width: 10.7354%;">California - North</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthCA.php#sanfran">San
               Francisco-Sacramento</a></td>
-          <td style="width: 103px;">No Meeting</td>
-          <td style="width: 88px;">07/22/21</td>
-          <td style="width: 88px;">07/22/21</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Joanne Hackett Ching</td>
+          <td style="width: 8.47471%;">No Meeting</td>
+          <td class="day" style="width: 10.7275%;">July 22, 2021<span id="dayofweek">Thursday</span></td>
+          <td class="day" style="width: 10.7434%;">July 22, 2021<span id="dayofweek">Thursday</span></td>
+          <td style="width: 10.8323%;">Weekday / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Joanne Hackett Ching</td>
         </tr>
         <tr>
-          <td style="width: 153px;">California - North</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthCA.php#sanfran">San
+          <td style="width: 10.7354%;">California - North</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthCA.php#sanfran">San
               Francisco-Sacramento</a></td>
-          <td style="width: 103px;">LI-ONL</td>
-          <td style="width: 88px;">07/23/21</td>
-          <td style="width: 88px;">07/24/21</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Joanne Hackett Ching</td>
+          <td style="width: 8.47471%;">LI-ONL</td>
+          <td class="day" style="width: 10.7275%;">July 23, 2021<span id="dayofweek">Friday</span></td>
+          <td class="day" style="width: 10.7434%;">July 24, 2021<span id="dayofweek">Saturday</span></td>
+          <td style="width: 10.8323%;">Weekend / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Joanne Hackett Ching</td>
         </tr>
         <tr>
-          <td style="width: 153px;">California - North</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthCA.php#sanfran">San
+          <td style="width: 10.7354%;">California - North</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthCA.php#sanfran">San
               Francisco-Sacramento</a></td>
-          <td style="width: 103px;">LS</td>
-          <td style="width: 88px;">TBA</td>
-          <td style="width: 88px;">TBA</td>
-          <td style="width: 327px;">D.H. at San Damiano Retreat Center</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Joanne Hackett Ching</td>
+          <td style="width: 8.47471%;">LS</td>
+          <td class="day" style="width: 10.7275%;">TBA<span id="dayofweek">TBA</span></td>
+          <td class="day" style="width: 10.7434%;">TBA<span id="dayofweek">TBA</span></td>
+          <td style="width: 10.8323%;">TBA</td>
+          <td style="width: 10.8722%;">D.H. at San Damiano Retreat Center</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Joanne Hackett Ching</td>
         </tr>
         <tr>
-          <td style="width: 153px;">California - North</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthCA.php#sacramento">San
+          <td style="width: 10.7354%;">California - North</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthCA.php#sacramento">San
               Francisco-Sacramento</a></td>
-          <td style="width: 103px;">LC-ONL</td>
-          <td style="width: 88px;">02/20/21</td>
-          <td style="width: 88px;">02/21/21</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Joanne Hackett Ching</td>
+          <td style="width: 8.47471%;">LC-ONL</td>
+          <td class="day" style="width: 10.7275%;">January 30, 2021<span id="dayofweek">Saturday</span></td>
+          <td class="day" style="width: 10.7434%;">January 31, 2021<span id="dayofweek">Sunday</span></td>
+          <td style="width: 10.8323%;">Weekend / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Joanne Hackett Ching</td>
         </tr>
         <tr>
-          <td style="width: 153px;">California - North</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthCA.php#sacramento">San
+          <td style="width: 10.7354%;">California - North</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthCA.php#sacramento">San
               Francisco-Sacramento</a></td>
-          <td style="width: 103px;">No Meeting</td>
-          <td style="width: 88px;">02/22/21</td>
-          <td style="width: 88px;">02/22/21</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Joanne Hackett Ching</td>
+          <td style="width: 8.47471%;">No Meeting</td>
+          <td class="day" style="width: 10.7275%;">February 1, 2021<span id="dayofweek">Monday</span></td>
+          <td class="day" style="width: 10.7434%;">February 1, 2021<span id="dayofweek">Monday</span></td>
+          <td style="width: 10.8323%;">Weekday / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Joanne Hackett Ching</td>
         </tr>
         <tr>
-          <td style="width: 153px;">California - North</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthCA.php#sacramento">San
+          <td style="width: 10.7354%;">California - North</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthCA.php#sacramento">San
               Francisco-Sacramento</a></td>
-          <td style="width: 103px;">DC-ONL</td>
-          <td style="width: 88px;">02/23/21</td>
-          <td style="width: 88px;">02/24/21</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Joanne Hackett Ching</td>
+          <td style="width: 8.47471%;">DC-ONL</td>
+          <td class="day" style="width: 10.7275%;">February 2, 2021<span id="dayofweek">Tuesday</span></td>
+          <td class="day" style="width: 10.7434%;">February 3, 2021<span id="dayofweek">Wednesday</span></td>
+          <td style="width: 10.8323%;">Weekday / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Joanne Hackett Ching</td>
         </tr>
         <tr>
-          <td style="width: 153px;">California - North</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthCA.php#sacramento">San
+          <td style="width: 10.7354%;">California - North</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthCA.php#sacramento">San
               Francisco-Sacramento</a></td>
-          <td style="width: 103px;">No Meeting</td>
-          <td style="width: 88px;">02/25/21</td>
-          <td style="width: 88px;">02/25/21</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Joanne Hackett Ching</td>
+          <td style="width: 8.47471%;">No Meeting</td>
+          <td class="day" style="width: 10.7275%;">February 4, 2021<span id="dayofweek">Thursday</span></td>
+          <td class="day" style="width: 10.7434%;">February 4, 2021<span id="dayofweek">Thursday</span></td>
+          <td style="width: 10.8323%;">Weekday / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Joanne Hackett Ching</td>
         </tr>
         <tr>
-          <td style="width: 153px;">California - North</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthCA.php#sacramento">San
+          <td style="width: 10.7354%;">California - North</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthCA.php#sacramento">San
               Francisco-Sacramento</a></td>
-          <td style="width: 103px;">LI-ONL</td>
-          <td style="width: 88px;">02/26/21</td>
-          <td style="width: 88px;">02/27/21</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Joanne Hackett Ching</td>
+          <td style="width: 8.47471%;">LI-ONL</td>
+          <td class="day" style="width: 10.7275%;">February 5, 2021<span id="dayofweek">Friday</span></td>
+          <td class="day" style="width: 10.7434%;">February 6, 2021<span id="dayofweek">Saturday</span></td>
+          <td style="width: 10.8323%;">Weekend / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Joanne Hackett Ching</td>
         </tr>
         <tr>
-          <td style="width: 153px;">California - Central</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthCA.php#fresno">Fresno</a></td>
-          <td style="width: 103px;">LC-10</td>
-          <td style="width: 88px;">TBA</td>
-          <td style="width: 88px;">TBA</td>
-          <td style="width: 327px;">A location in Fresno. Call sponsor for details.</td>
-          <td style="width: 240px;">559-477-4221</td>
-          <td style="width: 173px;">Joanne Hackett Ching</td>
+          <td style="width: 10.7354%;">California - Central</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthCA.php#fresno">Fresno</a></td>
+          <td style="width: 8.47471%;">LC-10</td>
+          <td class="day" style="width: 10.7275%;">TBA<span id="dayofweek">TBA</span></td>
+          <td class="day" style="width: 10.7434%;">TBA<span id="dayofweek">TBA</span></td>
+          <td style="width: 10.8323%;">TBA</td>
+          <td style="width: 10.8722%;">A location in Fresno. Call sponsor for details.</td>
+          <td style="width: 12.5448%;">559-477-4221</td>
+          <td style="width: 11.0115%;">Joanne Hackett Ching</td>
         </tr>
         <tr>
-          <td style="width: 153px;">California - South</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthCA.php#la">Los
+          <td style="width: 10.7354%;">California - South</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthCA.php#la">Los
               Angeles </a></td>
-          <td style="width: 103px;">LC-ONL</td>
-          <td style="width: 88px;">08/21/21</td>
-          <td style="width: 88px;">08/22/21</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Joanne Hackett Ching</td>
+          <td style="width: 8.47471%;">LC-ONL</td>
+          <td class="day" style="width: 10.7275%;">August 21, 2021<span id="dayofweek">Saturday</span></td>
+          <td class="day" style="width: 10.7434%;">August 22, 2021<span id="dayofweek">Sunday</span></td>
+          <td style="width: 10.8323%;">Weekend / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Joanne Hackett Ching</td>
         </tr>
         <tr>
-          <td style="width: 153px;">California - South</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthCA.php#la">Los
+          <td style="width: 10.7354%;">California - South</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthCA.php#la">Los
               Angeles </a></td>
-          <td style="width: 103px;">No Meeting</td>
-          <td style="width: 88px;">08/23/21</td>
-          <td style="width: 88px;">08/23/21</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Joanne Hackett Ching</td>
+          <td style="width: 8.47471%;">No Meeting</td>
+          <td class="day" style="width: 10.7275%;">August 23, 2021<span id="dayofweek">Monday</span></td>
+          <td class="day" style="width: 10.7434%;">August 23, 2021<span id="dayofweek">Monday</span></td>
+          <td style="width: 10.8323%;">Weekday / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Joanne Hackett Ching</td>
         </tr>
         <tr>
-          <td style="width: 153px;">California - South</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthCA.php#la">Los
+          <td style="width: 10.7354%;">California - South</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthCA.php#la">Los
               Angeles </a></td>
-          <td style="width: 103px;">DC-ONL</td>
-          <td style="width: 88px;">08/24/21</td>
-          <td style="width: 88px;">08/25/21</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Joanne Hackett Ching</td>
+          <td style="width: 8.47471%;">DC-ONL</td>
+          <td class="day" style="width: 10.7275%;">August 24, 2021<span id="dayofweek">Tuesday</span></td>
+          <td class="day" style="width: 10.7434%;">August 25, 2021<span id="dayofweek">Wednesday</span></td>
+          <td style="width: 10.8323%;">Weekday / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Joanne Hackett Ching</td>
         </tr>
         <tr>
-          <td style="width: 153px;">California - South</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthCA.php#la">Los
+          <td style="width: 10.7354%;">California - South</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthCA.php#la">Los
               Angeles </a></td>
-          <td style="width: 103px;">No Meeting</td>
-          <td style="width: 88px;">08/26/21</td>
-          <td style="width: 88px;">08/26/21</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Joanne Hackett Ching</td>
+          <td style="width: 8.47471%;">No Meeting</td>
+          <td class="day" style="width: 10.7275%;">August 26, 2021<span id="dayofweek">Thursday</span></td>
+          <td class="day" style="width: 10.7434%;">August 26, 2021<span id="dayofweek">Thursday</span></td>
+          <td style="width: 10.8323%;">Weekday / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Joanne Hackett Ching</td>
         </tr>
         <tr>
-          <td style="width: 153px;">California - South</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthCA.php#la">Los
+          <td style="width: 10.7354%;">California - South</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthCA.php#la">Los
               Angeles </a></td>
-          <td style="width: 103px;">LI-ONL</td>
-          <td style="width: 88px;">08/27/21</td>
-          <td style="width: 88px;">08/28/21</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Joanne Hackett Ching</td>
+          <td style="width: 8.47471%;">LI-ONL</td>
+          <td class="day" style="width: 10.7275%;">August 27, 2021<span id="dayofweek">Friday</span></td>
+          <td class="day" style="width: 10.7434%;">August 28, 2021<span id="dayofweek">Saturday</span></td>
+          <td style="width: 10.8323%;">Weekend / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Joanne Hackett Ching</td>
         </tr>
         <tr>
-          <td style="width: 153px;">California - South</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthCA.php#sandiego">San
+          <td style="width: 10.7354%;">California - South</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthCA.php#sandiego">San
               Diego</a></td>
-          <td style="width: 103px;">LC-ONL</td>
-          <td style="width: 88px;">11/07/20</td>
-          <td style="width: 88px;">11/08/20</td>
-          <td style="width: 327px;">Joseph Jeffers</td>
-          <td style="width: 240px;">619-987-0735</td>
-          <td style="width: 173px;">Joseph Jeffers</td>
+          <td style="width: 8.47471%;">LC-ONL</td>
+          <td class="day" style="width: 10.7275%;">November 07, 2020<span id="dayofweek">Saturday</span></td>
+          <td class="day" style="width: 10.7434%;">November 08, 2020<span id="dayofweek">Sunday</span></td>
+          <td style="width: 10.8323%;">Weekend / Weekly</td>
+          <td style="width: 10.8722%;">Joseph Jeffers</td>
+          <td style="width: 12.5448%;">619-987-0735</td>
+          <td style="width: 11.0115%;">Joseph Jeffers</td>
         </tr>
         <tr>
-          <td style="width: 153px;">California - South</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthCA.php#sandiego">San
+          <td style="width: 10.7354%;">California - South</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthCA.php#sandiego">San
               Diego</a></td>
-          <td style="width: 103px;">DC-ONL</td>
-          <td style="width: 88px;">11/14/20</td>
-          <td style="width: 88px;">11/15/20</td>
-          <td style="width: 327px;">Joseph Jeffers</td>
-          <td style="width: 240px;">619-987-0735</td>
-          <td style="width: 173px;">Joseph Jeffers</td>
+          <td style="width: 8.47471%;">DC-ONL</td>
+          <td class="day" style="width: 10.7275%;">November 14, 2020<span id="dayofweek">Saturday</span></td>
+          <td class="day" style="width: 10.7434%;">November 15, 2020<span id="dayofweek">Sunday</span></td>
+          <td style="width: 10.8323%;">Weekend / Weekly</td>
+          <td style="width: 10.8722%;">Joseph Jeffers</td>
+          <td style="width: 12.5448%;">619-987-0735</td>
+          <td style="width: 11.0115%;">Joseph Jeffers</td>
         </tr>
         <tr>
-          <td style="width: 153px;">California - South</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthCA.php#sandiego">San
+          <td style="width: 10.7354%;">California - South</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthCA.php#sandiego">San
               Diego</a></td>
-          <td style="width: 103px;">LI-ONL</td>
-          <td style="width: 88px;">12/05/20</td>
-          <td style="width: 88px;">12/06/20</td>
-          <td style="width: 327px;">Joseph Jeffers</td>
-          <td style="width: 240px;">619-987-0735</td>
-          <td style="width: 173px;">Joseph Jeffers</td>
+          <td style="width: 8.47471%;">LI-ONL</td>
+          <td class="day" style="width: 10.7275%;">December 05, 2020<span id="dayofweek">Saturday</span></td>
+          <td class="day" style="width: 10.7434%;">December 06, 2020<span id="dayofweek">Sunday</span></td>
+          <td style="width: 10.8323%;">Weekend / Weekly</td>
+          <td style="width: 10.8722%;">Joseph Jeffers</td>
+          <td style="width: 12.5448%;">619-987-0735</td>
+          <td style="width: 11.0115%;">Joseph Jeffers</td>
         </tr>
         <tr>
-          <td style="width: 153px;">Colorado</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthWest.php#denver">Denver</a></td>
-          <td style="width: 103px;">LC-ONL</td>
-          <td style="width: 88px;">09/19/20</td>
-          <td style="width: 88px;">09/20/20</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Joanne Hackett Ching</td>
+          <td style="width: 10.7354%;">Colorado</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthWest.php#denver">Denver</a></td>
+          <td style="width: 8.47471%;">LC-ONL</td>
+          <td class="day" style="width: 10.7275%;">June 5, 2021<span id="dayofweek">Saturday</span></td>
+          <td class="day" style="width: 10.7434%;">June 6, 2021<span id="dayofweek">Sunday</span></td>
+          <td style="width: 10.8323%;">Weekend / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Joanne Hackett Ching</td>
         </tr>
         <tr>
-          <td style="width: 153px;">Colorado</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthWest.php#denver">Denver</a></td>
-          <td style="width: 103px;">No Meeting</td>
-          <td style="width: 88px;">09/21/20</td>
-          <td style="width: 88px;">09/21/20</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Joanne Hackett Ching</td>
+          <td style="width: 10.7354%;">Colorado</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthWest.php#denver">Denver</a></td>
+          <td style="width: 8.47471%;">No Meeting</td>
+          <td class="day" style="width: 10.7275%;">June 7, 2021<span id="dayofweek">Monday</span></td>
+          <td class="day" style="width: 10.7434%;">June 7, 2021<span id="dayofweek">Monday</span></td>
+          <td style="width: 10.8323%;">Weekday / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Joanne Hackett Ching</td>
         </tr>
         <tr>
-          <td style="width: 153px;">Colorado</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthWest.php#denver">Denver</a></td>
-          <td style="width: 103px;">DC-ONL</td>
-          <td style="width: 88px;">09/22/20</td>
-          <td style="width: 88px;">09/23/20</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Joanne Hackett Ching</td>
+          <td style="width: 10.7354%;">Colorado</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthWest.php#denver">Denver</a></td>
+          <td style="width: 8.47471%;">DC-ONL</td>
+          <td class="day" style="width: 10.7275%;">June 8, 2021 <span id="dayofweek">Tuesday</span></td>
+          <td class="day" style="width: 10.7434%;">June 9, 2021<span id="dayofweek">Wednesday</span></td>
+          <td style="width: 10.8323%;">Weekday / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Joanne Hackett Ching</td>
         </tr>
         <tr>
-          <td style="width: 153px;">Colorado</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthWest.php#denver">Denver</a></td>
-          <td style="width: 103px;">No Meeting</td>
-          <td style="width: 88px;">09/24/20</td>
-          <td style="width: 88px;">09/24/20</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Joanne Hackett Ching</td>
+          <td style="width: 10.7354%;">Colorado</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthWest.php#denver">Denver</a></td>
+          <td style="width: 8.47471%;">No Meeting</td>
+          <td class="day" style="width: 10.7275%;">June 10, 2021<span id="dayofweek">Thursday</span></td>
+          <td class="day" style="width: 10.7434%;">June 10, 2021<span id="dayofweek">Thursday</span></td>
+          <td style="width: 10.8323%;">Weekday / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Joanne Hackett Ching</td>
         </tr>
         <tr>
-          <td style="width: 153px;">Colorado</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthWest.php#denver">Denver</a></td>
-          <td style="width: 103px;">LI-ONL</td>
-          <td style="width: 88px;">09/25/20</td>
-          <td style="width: 88px;">09/26/20</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Joanne Hackett Ching</td>
+          <td style="width: 10.7354%;">Colorado</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthWest.php#denver">Denver</a></td>
+          <td style="width: 8.47471%;">LI-ONL</td>
+          <td class="day" style="width: 10.7275%;">June 11, 2021<span id="dayofweek">Friday</span></td>
+          <td class="day" style="width: 10.7434%;">June 12, 2021<span id="dayofweek">Saturday</span></td>
+          <td style="width: 10.8323%;">Weekend / Week-long</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Joanne Hackett Ching</td>
         </tr>
         <tr>
-          <td style="width: 153px;">Hawaii</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthCA.php#honolulu">Honolulu</a></td>
-          <td style="width: 103px;">LC-10</td>
-          <td style="width: 88px;">TBA</td>
-          <td style="width: 88px;">TBA</td>
-          <td style="width: 327px;">TBA</td>
-          <td style="width: 240px;">808-538-7276</td>
-          <td style="width: 173px;">Joanne Hackett Ching</td>
+          <td style="width: 10.7354%;">Hawaii</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthCA.php#honolulu">Honolulu</a></td>
+          <td style="width: 8.47471%;">LC-10</td>
+          <td class="day" style="width: 10.7275%;">TBA<span id="dayofweek">TBA</span></td>
+          <td class="day" style="width: 10.7434%;">TBA<span id="dayofweek">TBA</span></td>
+          <td style="width: 10.8323%;"> </td>
+          <td style="width: 10.8722%;">TBA</td>
+          <td style="width: 12.5448%;">808-538-7276</td>
+          <td style="width: 11.0115%;">Joanne Hackett Ching</td>
         </tr>
         <tr>
-          <td style="width: 153px;">Idaho</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthWest.php#boise">Boise</a></td>
-          <td style="width: 103px;">LC</td>
-          <td style="width: 88px;">04/19/20</td>
-          <td style="width: 88px;">04/20/20</td>
-          <td style="width: 327px;">D.H. at Nazareth Retreat Center</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Evelyn Wemhoff</td>
+          <td style="width: 10.7354%;">New Mexico</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-SouthWest.php#mesa">Albuquerque-Santa
+              Fe </a></td>
+          <td style="width: 8.47471%;">LC-ONL</td>
+          <td class="day" style="width: 10.7275%;">February  06, 2021<span id="dayofweek">Saturday</span></td>
+          <td class="day" style="width: 10.7434%;">February 07, 2021<span id="dayofweek">Sunday</span></td>
+          <td style="width: 10.8323%;">Weekend / Solo</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Kelley Williams</td>
         </tr>
         <tr>
-          <td style="width: 153px;">Idaho</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthWest.php#boise">Boise</a></td>
-          <td style="width: 103px;">DC</td>
-          <td style="width: 88px;">04/21/20</td>
-          <td style="width: 88px;">04/22/20</td>
-          <td style="width: 327px;">D.H. at Nazareth Retreat Center</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Evelyn Wemhoff</td>
+          <td style="width: 10.7354%;">Oregon</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthWest.php#salem">Portland</a></td>
+          <td style="width: 8.47471%;">LC-ONL</td>
+          <td class="day" style="width: 10.7275%;">January 20, 2021<span id="dayofweek">Wednesday</span></td>
+          <td class="day" style="width: 10.7434%;">January, 21 2021<span id="dayofweek">Thursday</span></td>
+          <td style="width: 10.8323%;">Weekday / Weekly</td>
+          <td style="width: 10.8722%;">Evelyn Wemhoff</td>
+          <td style="width: 12.5448%;">971-273-0700</td>
+          <td style="width: 11.0115%;">Evelyn Wemhoff</td>
         </tr>
         <tr>
-          <td style="width: 153px;">Idaho</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthWest.php#boise">Boise</a></td>
-          <td style="width: 103px;">LI</td>
-          <td style="width: 88px;">04/23/20</td>
-          <td style="width: 88px;">04/24/20</td>
-          <td style="width: 327px;">D.H. at Nazareth Retreat Center</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Evelyn Wemhoff</td>
+          <td style="width: 10.7354%;">Oregon</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthWest.php#salem">Portland</a></td>
+          <td style="width: 8.47471%;">DC-ONL</td>
+          <td class="day" style="width: 10.7275%;">January 27, 2021<span id="dayofweek">Wednesday</span></td>
+          <td class="day" style="width: 10.7434%;">January 28, 2021<span id="dayofweek">Thursday</span></td>
+          <td style="width: 10.8323%;">Weekday / Weekly</td>
+          <td style="width: 10.8722%;">Evelyn Wemhoff</td>
+          <td style="width: 12.5448%;">971-273-0700</td>
+          <td style="width: 11.0115%;">Evelyn Wemhoff</td>
         </tr>
         <tr>
-          <td style="width: 153px;">Oregon</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthWest.php#salem">Portland</a></td>
-          <td style="width: 103px;">LC-ONL</td>
-          <td style="width: 88px;">07/29/20</td>
-          <td style="width: 88px;">07/30/20</td>
-          <td style="width: 327px;">Evelyn Wemhoff</td>
-          <td style="width: 240px;">971-273-0700</td>
-          <td style="width: 173px;">Evelyn Wemhoff</td>
+          <td style="width: 10.7354%;">Oregon</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthWest.php#salem">Portland</a></td>
+          <td style="width: 8.47471%;">LI-ONL</td>
+          <td class="day" style="width: 10.7275%;">February 3, 2021<span id="dayofweek">Wednesday</span></td>
+          <td class="day" style="width: 10.7434%;">February 4, 2021<span id="dayofweek">Thursday</span></td>
+          <td style="width: 10.8323%;">Weekday / Weekly</td>
+          <td style="width: 10.8722%;">Evelyn Wemhoff</td>
+          <td style="width: 12.5448%;">971-273-0700</td>
+          <td style="width: 11.0115%;">Evelyn Wemhoff</td>
         </tr>
         <tr>
-          <td style="width: 153px;">Oregon</td>
-          <td style="width: 214px;">Portland</td>
-          <td style="width: 103px;">DC-ONL</td>
-          <td style="width: 88px;">08/05/20</td>
-          <td style="width: 88px;">08/06/20</td>
-          <td style="width: 327px;">Evelyn Wemhoff</td>
-          <td style="width: 240px;">971-273-0700</td>
-          <td style="width: 173px;">Evelyn Wemhoff</td>
+          <td style="width: 10.7354%;">Oregon</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthWest.php#salem">Portland</a></td>
+          <td style="width: 8.47471%;">LC-ONL</td>
+          <td class="day" style="width: 10.7275%;">October 14, 2020<span id="dayofweek">Wednesday</span></td>
+          <td class="day" style="width: 10.7434%;">October 15, 2020<span id="dayofweek">Thursday</span></td>
+          <td style="width: 10.8323%;">Weekday / Weekly</td>
+          <td style="width: 10.8722%;">Evelyn Wemhoff</td>
+          <td style="width: 12.5448%;">971-273-0700</td>
+          <td style="width: 11.0115%;">Evelyn Wemhoff</td>
         </tr>
         <tr>
-          <td style="width: 153px;">Oregon</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthWest.php#salem">Portland</a></td>
-          <td style="width: 103px;">LI-ONL</td>
-          <td style="width: 88px;">08/12/20</td>
-          <td style="width: 88px;">08/13/20</td>
-          <td style="width: 327px;">Evelyn Wemhoff</td>
-          <td style="width: 240px;">971-273-0700</td>
-          <td style="width: 173px;">Evelyn Wemhoff</td>
+          <td style="width: 10.7354%;">Oregon</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthWest.php#salem">Portland</a></td>
+          <td style="width: 8.47471%;">DC-ONL</td>
+          <td class="day" style="width: 10.7275%;">October 21, 2020<span id="dayofweek">Friday</span></td>
+          <td class="day" style="width: 10.7434%;">October 22, 2020<span id="dayofweek">Friday</span></td>
+          <td style="width: 10.8323%;">Weekend / Weekly</td>
+          <td style="width: 10.8722%;">Evelyn Wemhoff</td>
+          <td style="width: 12.5448%;">971-273-0700</td>
+          <td style="width: 11.0115%;">Evelyn Wemhoff</td>
         </tr>
         <tr>
-          <td style="width: 153px;">Oregon</td>
-          <td style="width: 214px;">Portland</td>
-          <td style="width: 103px;">LC-ONL</td>
-          <td style="width: 88px;">10/14/20</td>
-          <td style="width: 88px;">10/15/20</td>
-          <td style="width: 327px;">Evelyn Wemhoff</td>
-          <td style="width: 240px;">971-273-0700</td>
-          <td style="width: 173px;">Evelyn Wemhoff</td>
+          <td style="width: 10.7354%;">Oregon</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthWest.php#salem">Portland</a></td>
+          <td style="width: 8.47471%;">LI-ONL</td>
+          <td class="day" style="width: 10.7275%;">October 28, 2020<span id="dayofweek">Wednesday</span></td>
+          <td class="day" style="width: 10.7434%;">October 29, 2020<span id="dayofweek">Thursday</span></td>
+          <td style="width: 10.8323%;">Weekend / Weekly</td>
+          <td style="width: 10.8722%;">Evelyn Wemhoff</td>
+          <td style="width: 12.5448%;">971-273-0700</td>
+          <td style="width: 11.0115%;">Evelyn Wemhoff</td>
         </tr>
         <tr>
-          <td style="width: 153px;">Oregon</td>
-          <td style="width: 214px;">Portland</td>
-          <td style="width: 103px;">DC-ONL</td>
-          <td style="width: 88px;">10/21/20</td>
-          <td style="width: 88px;">10/22/20</td>
-          <td style="width: 327px;">Evelyn Wemhoff</td>
-          <td style="width: 240px;">971-273-0700</td>
-          <td style="width: 173px;">Evelyn Wemhoff</td>
+          <td style="width: 10.7354%;">Oregon</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthWest.php#salem2">Portland</a></td>
+          <td style="width: 8.47471%;">LS-ONL</td>
+          <td class="day" style="width: 10.7275%;">November 16, 2020<span id="dayofweek">Monday</span></td>
+          <td class="day" style="width: 10.7434%;">November 17, 2020<span id="dayofweek">Tuesday</span></td>
+          <td style="width: 10.8323%;">Weekday / Weekly</td>
+          <td style="width: 10.8722%;">Evelyn Wemhoff</td>
+          <td style="width: 12.5448%;">971-273-0700</td>
+          <td style="width: 11.0115%;">Evelyn Wemhoff</td>
         </tr>
         <tr>
-          <td style="width: 153px;">Oregon</td>
-          <td style="width: 214px;">Portland</td>
-          <td style="width: 103px;">LI-ONL</td>
-          <td style="width: 88px;">10/28/20</td>
-          <td style="width: 88px;">10/29/20</td>
-          <td style="width: 327px;">Evelyn Wemhoff</td>
-          <td style="width: 240px;">971-273-0700</td>
-          <td style="width: 173px;">Evelyn Wemhoff</td>
+          <td style="width: 10.7354%;">Washington</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthWest.php#seattle">Seattle</a></td>
+          <td style="width: 8.47471%;">LC-ONL</td>
+          <td class="day" style="width: 10.7275%;">September 19, 2020<span id="dayofweek">Saturday</span></td>
+          <td class="day" style="width: 10.7434%;">September 20, 2020<span id="dayofweek">Sunday</span></td>
+          <td style="width: 10.8323%;">Weekend / Weekly</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Carol Ladas-Gaskin</td>
         </tr>
         <tr>
-          <td style="width: 153px;">Oregon</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthWest.php#salem2">Portland</a></td>
-          <td style="width: 103px;">LS-ONL</td>
-          <td style="width: 88px;">11/16/20</td>
-          <td style="width: 88px;">11/17/20</td>
-          <td style="width: 327px;">Evelyn Wemhoff</td>
-          <td style="width: 240px;">971-273-0700</td>
-          <td style="width: 173px;">Evelyn Wemhoff</td>
+          <td style="width: 10.7354%;">Washington</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthWest.php#seattle">Seattle</a></td>
+          <td style="width: 8.47471%;">DC-ONL</td>
+          <td class="day" style="width: 10.7275%;">October 10, 2020<span id="dayofweek">Thursday</span></td>
+          <td class="day" style="width: 10.7434%;">October 11, 2020<span id="dayofweek">Thursday</span></td>
+          <td style="width: 10.8323%;">Weekday / Weekly</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Carol Ladas- Gaskin</td>
         </tr>
         <tr>
-          <td style="width: 153px;">Oregon</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthWest.php#bend">Bend</a></td>
-          <td style="width: 103px;">LC</td>
-          <td style="width: 88px;">06/26/19</td>
-          <td style="width: 88px;">06/27/19</td>
-          <td style="width: 327px;">Evelyn Wemhoff</td>
-          <td style="width: 240px;">971-273-0700</td>
-          <td style="width: 173px;">Evelyn Wemhoff</td>
-        </tr>
-        <tr>
-          <td style="width: 153px;">Oregon</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthWest.php#bend">Bend</a></td>
-          <td style="width: 103px;">DC</td>
-          <td style="width: 88px;">06/28/19</td>
-          <td style="width: 88px;">06/29/19</td>
-          <td style="width: 327px;">Evelyn Wemhoff</td>
-          <td style="width: 240px;">971-273-0700</td>
-          <td style="width: 173px;">Evelyn Wemhoff</td>
-        </tr>
-        <tr>
-          <td style="width: 153px;">Washington</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthWest.php#seattle">Seattle</a></td>
-          <td style="width: 103px;">LC-ONL</td>
-          <td style="width: 88px;">09/19/20</td>
-          <td style="width: 88px;">09/20/20</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Carol Ladas-Gaskin</td>
-        </tr>
-        <tr>
-          <td style="width: 153px;">Washington</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthWest.php#seattle">Seattle</a></td>
-          <td style="width: 103px;">DC-ONL</td>
-          <td style="width: 88px;">10/10/20</td>
-          <td style="width: 88px;">10/11/20</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Carol Ladas- Gaskin</td>
-        </tr>
-        <tr>
-          <td style="width: 153px;">Washington</td>
-          <td style="width: 214px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthWest.php#seattle">Seattle</a></td>
-          <td style="width: 103px;">LI-ONL</td>
-          <td style="width: 88px;">11/07/20</td>
-          <td style="width: 88px;">11/08/20</td>
-          <td style="width: 327px;">Dialogue House</td>
-          <td style="width: 240px;">330-998-6000 / 800-221-5844</td>
-          <td style="width: 173px;">Carol Ladas- Gaskin</td>
+          <td style="width: 10.7354%;">Washington</td>
+          <td style="width: 13.5086%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-Western-NorthWest.php#seattle">Seattle</a></td>
+          <td style="width: 8.47471%;">LI-ONL</td>
+          <td class="day" style="width: 10.7275%;">November 07, 2020<span id="dayofweek">Saturday</span></td>
+          <td class="day" style="width: 10.7434%;">November 08, 2020<span id="dayofweek">Sunday</span></td>
+          <td style="width: 10.8323%;">Weekday / Weekly</td>
+          <td style="width: 10.8722%;">Dialogue House</td>
+          <td style="width: 12.5448%;">330-998-6000 / 800-221-5844</td>
+          <td style="width: 11.0115%;">Carol Ladas- Gaskin</td>
         </tr>
       </tbody>
     </table>

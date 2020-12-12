@@ -79,7 +79,7 @@
               </tr>
               <tr>
                 <td>PRE</td>
-                <td><a>Intro Course</a></td>
+                <td><a>Intro Presentation</a></td>
                 <td>Experience a sampling of <em>Intensive Journal</em> exercises - Prerequisite - None</td>
               </tr>
             </tbody>
@@ -244,8 +244,8 @@
                 <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-International-UK.php#london">London
                   </a></td>
                 <td>LC-ONL</td>
-                <td>14 Nov 20</td>
-                <td>15 Nov 20</td>
+                <td>20 Feb 21</td>
+                <td>21 Feb 21</td>
                 <td>English</td>
                 <td>Dialogue House / 001-330-998-6000 / info@intensivejournal.org</td>
                 <td>Joanne Hackett Ching</td>
@@ -255,8 +255,8 @@
                 <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-International-UK.php#london">London
                   </a></td>
                 <td>No Meeting</td>
-                <td>16 Nov 20</td>
-                <td>16 Nov 20</td>
+                <td>22 Feb 21</td>
+                <td>22 Feb 21</td>
                 <td>English</td>
                 <td>Dialogue House / 001-330-998-6000 / info@intensivejournal.org</td>
                 <td>Joanne Hackett Ching</td>
@@ -266,8 +266,8 @@
                 <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-International-UK.php#london">London
                   </a></td>
                 <td>DC-ONL</td>
-                <td>17 Nov 20</td>
-                <td>18 Nov 20</td>
+                <td>23 Feb 21</td>
+                <td>24 Feb 21</td>
                 <td>English</td>
                 <td>Dialogue House / 001-330-998-6000 / info@intensivejournal.org</td>
                 <td>Joanne Hackett Ching</td>
@@ -277,8 +277,8 @@
                 <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-International-UK.php#london">London
                   </a></td>
                 <td>No Meeting</td>
-                <td>19 Nov 20</td>
-                <td>19 Nov 20</td>
+                <td>25 Feb 21</td>
+                <td>25 Feb 21</td>
                 <td>English</td>
                 <td>Dialogue House / 001-330-998-6000 / info@intensivejournal.org</td>
                 <td>Joanne Hackett Ching</td>
@@ -288,8 +288,8 @@
                 <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-International-UK.php#london">London
                   </a></td>
                 <td>LI-ONL</td>
-                <td>20 Nov 20</td>
-                <td>21 Nov 20</td>
+                <td>26 Feb 21</td>
+                <td>27 Feb 21</td>
                 <td>English</td>
                 <td>Dialogue House / 001-330-998-6000 / info@intensivejournal.org</td>
                 <td>Joanne Hackett Ching</td>

@@ -164,51 +164,7 @@ hr {
 }
 
 
-table {
-  font-size: $default-font-size;
-    margin-left: 2.5rem;
 
-
-    th {
-       text-align: left;
-      color: teal;
-      background-color: #f7f7f7;
-      padding: 1rem;
-       border-bottom: 1px solid #e8e8e8;
-    //  margin: 5rem;
-    }
-
-    td {
-      padding: 1rem;
-    }
-
-    tr:nth-child(3) {
-      background-color: #fcfcfc;
-    }
-}
-
-.table-credits {
-  margin-left: 0;
-
-  th {
-    text-align: center;
-    padding: 2rem;
-  }
-
-  td {
-    padding: 2rem;
-  }
-}
-
-.table-praises {
-  // border: 1px solid #e8e8e8;
-  border: 1px solid #e8e8e8;
-
-  tr:nth-child(odd) {
-    background-color: #fcfcfc;
-  }
-
-}
 
 .books-table {
   font-size: 1.5rem;

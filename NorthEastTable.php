@@ -1,327 +1,406 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include "headhtml.php";?>
+<head>
+    <title>Progoff Intensive Journal Program | For Self-Development</title>
+    <meta charset="utf-8">
+    <meta name="description" content>
+    <meta property="og:title" content="Progoff Intensive Journal Program | For Self-Development">
+    <meta property="og:description" content>
+    <meta property="og:image" content>
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.intensivejournal.org/NorthEastTable.php">
+</head>
 <body>
-<div id="content" class="cms-editable">
-    <!-- Everything inside is editable -->
+    <?php include "headhtml.php"; ?>
 
-<table class="table-credits table-praises table-schedules">
-    <tbody>
-    <tr>
-        <th>State</th>
-        <th>City</th>
-        <th>Module</th>
-        <th>Begins</th>
-        <th>Ends</th>
-        <th>Location</th>
-        <th>Telephone</th>
-        <th>Leader</th>
-    </tr>
-    <tr>
-        <td>Massachusetts</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewEngland.php#boston">Boston</a></td>
-        <td>LC-ONL</td>
-        <td>08/22/20</td>
-        <td>08/23/20</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>Dave Arbogast</td>
-    </tr>
-    <tr>
-        <td>Massachusetts</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewEngland.php#boston">Boston</a></td>
-        <td>No Meeting</td>
-        <td>08/24/20</td>
-        <td>08/24/20</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>Dave Arbogast</td>
-    </tr>
-    <tr>
-        <td>Massachusetts</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewEngland.php#boston">Boston</a></td>
-        <td>DC-ONL</td>
-        <td>08/25/20</td>
-        <td>08/26/20</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>Dave Arbogast</td>
-    </tr>
-    <tr>
-        <td>Massachusetts</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewEngland.php#boston">Boston</a></td>
-        <td>No Meeting</td>
-        <td>06/27/20</td>
-        <td>08/27/20</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>Dave Arbogast</td>
-    </tr>
-    <tr>
-        <td>Massachusetts</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewEngland.php#boston">Boston</a></td>
-        <td>LI-ONL</td>
-        <td>08/28/20</td>
-        <td>08/29/20</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>Dave Arbogast</td>
-    </tr>
-    <tr>
-        <td>New Jersey</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewJersey.php#morristown">Morristown</a></td>
-        <td>LC</td>
-        <td>12/04/20</td>
-        <td>12/05/20</td>
-        <td>DH at Loyola Center</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>New Jersey</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewJersey.php#morristown">Morristown</a></td>
-        <td>DC</td>
-        <td>12/06/20</td>
-        <td>12/07/20</td>
-        <td>DH at Loyola Center</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>New York</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewJersey.php#westchester">New
-                York City</a></td>
-        <td>LC-ONL</td>
-        <td>10/17/20</td>
-        <td>10/18/20</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>Nancy-Elizabeth Nimmich</td>
-    </tr>
-    <tr>
-        <td>New York</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewJersey.php#westchester">New
-                York City</a></td>
-        <td>DC-ONL</td>
-        <td>10/31/20</td>
-        <td>11/01/20</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>Nancy-Elizabeth Nimmich</td>
-    </tr>
-    <tr>
-        <td>New York</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewJersey.php#westchester">New
-                York City </a></td>
-        <td>LI-ONL</td>
-        <td>
-            <p>12/05/20</p>
-        </td>
-        <td>
-            <p>12/06/20</p>
-        </td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>Nancy-Elizabeth<br>Nimmich</td>
-    </tr>
-    <tr>
-        <td>New York</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewJersey.php#manhattan">Manhattan</a></td>
-        <td>LC-ONL</td>
-        <td>Winter 2021 TBA</td>
-        <td>Winter 2021 TBA</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>New York</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewJersey.php#manhattan">Manhattan</a></td>
-        <td>DC-ONL</td>
-        <td>Winter 2021 TBA</td>
-        <td>Winter<br>2021<br>TBA</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>New York</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewJersey.php#rochester">Rochester/Palmyra</a></td>
-        <td>LC</td>
-        <td>09/20/19</td>
-        <td>09/21/19</td>
-        <td>ACCC</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>New York / Quebec</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-Canada.php#montreal">Montreal</a></td>
-        <td>LC</td>
-        <td>TBA</td>
-        <td>TBA</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>TBA</td>
-    </tr>
-    <tr>
-        <td>New York / Ontario</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-Canada.php#toronto">Toronto
-            </a></td>
-        <td>LC-ONL</td>
-        <td>08/15/20</td>
-        <td>08/16/20</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>Evelyn Wemhoff</td>
-    </tr>
-    <tr>
-        <td>New York / Ontario</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-Canada.php#toronto">Toronto
-            </a></td>
-        <td>No Meeting</td>
-        <td>08/17/20</td>
-        <td>08/17/20</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>Bill Israel</td>
-    </tr>
-    <tr>
-        <td>New York / Ontario</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-Canada.php#toronto">Toronto
-            </a></td>
-        <td>DC-ONL</td>
-        <td>08/18/20</td>
-        <td>08/19/20</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>Bill Israel</td>
-    </tr>
-    <tr>
-        <td>New York / Ontario</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-Canada.php#toronto">Toronto
-            </a></td>
-        <td>No Meeting</td>
-        <td>08/20/20</td>
-        <td>08/20/20</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>Bill Israel</td>
-    </tr>
-    <tr>
-        <td>New York / Ontario</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-Canada.php#toronto">Toronto
-            </a></td>
-        <td>LI-ONL</td>
-        <td>08/21/20</td>
-        <td>08/22/20</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>Bill Israel</td>
-    </tr>
-    <tr>
-        <td>Pennsylvania</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php#philly">Philadelphia</a></td>
-        <td>LC-ONL</td>
-        <td>09/19/20</td>
-        <td>09/20/20</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>Dave <br>Arbogast</td>
-    </tr>
-    <tr>
-        <td>Pennsylvania</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php#philly">Philadelphia</a></td>
-        <td>No Meeting</td>
-        <td>09/21/20</td>
-        <td>09/21/20</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>Dave Arbogast</td>
-    </tr>
-    <tr>
-        <td>Pennsylvania</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php#philly">Philadelphia</a></td>
-        <td>DC-ONL</td>
-        <td>09/22/20</td>
-        <td>09/23/20</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>Dave Arbogast</td>
-    </tr>
-    <tr>
-        <td>Pennsylvania</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php#philly">Philadelphia</a></td>
-        <td>No Meeting</td>
-        <td>09/24/20</td>
-        <td>09/25/20</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>Dave Arbogast</td>
-    </tr>
-    <tr>
-        <td>Pennsylvania</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php#philly">Philadelphia</a></td>
-        <td>LI-ONL</td>
-        <td>09/25/20</td>
-        <td>09/26/20</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>Dave Arbogast</td>
-    </tr>
-    <tr>
-        <td>Virginia</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php#richmond">Richmond</a></td>
-        <td>LC-0NL</td>
-        <td>08/08/20</td>
-        <td>08/09/20</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>Dave Arbogast</td>
-    </tr>
-    <tr>
-        <td>Virginia</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php#richmond">Richmond</a></td>
-        <td>No Meeting</td>
-        <td>08/10/20</td>
-        <td>08/10/20</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>Dave Arbogast</td>
-    </tr>
-    <tr>
-        <td>Virginia</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php#richmond">Richmond</a></td>
-        <td>DC-ONL</td>
-        <td>08/11/20</td>
-        <td>08/12/20</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>Nancy-Elizabeth Nimmich</td>
-    </tr>
-    <tr>
-        <td>Virginia</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php#richmond">Richmond</a></td>
-        <td>No Meeting</td>
-        <td>08/13/20</td>
-        <td>08/13/20</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>Nancy-Elizabeth Nimmich</td>
-    </tr>
-    <tr>
-        <td>Virginia</td>
-        <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php#richmond">Richmond</a></td>
-        <td>LI-ONL</td>
-        <td>08/14/20</td>
-        <td>08/15/20</td>
-        <td>Dialogue House</td>
-        <td>330-998-6000 / 800-221-5844</td>
-        <td>Nancy-Elizabeth Nimmich</td>
-    </tr>
-    </tbody>
-</table>
-</div>
+    <div id="content" class="cms-editable">
+        <table class="table-credits table-praises table-schedules" style="width: 76.9822%;">
+            <tbody>
+                <tr>
+                    <th style="width: 11.0771%;">State</th>
+                    <th style="width: 9.91432%;">City</th>
+                    <th style="width: 7.52754%;">Module</th>
+                    <th style="width: 10.5875%;">Begins</th>
+                    <th style="width: 10.5875%;">Ends</th>
+                    <th class="th-type u-center-text" style="width: 13.2191%;">Type</th>
+                    <th class="th-sponsor" style="width: 13.2191%;">Sponsor</th>
+                    <th class="th-tel" style="width: 10.5875%;">Telephone</th>
+                    <th style="width: 11.9951%;">Leader</th>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">District of Columbia</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php#philly">Baltimore-Washington</a></td>
+                    <td style="width: 7.52754%;">LC-ONL</td>
+                    <td class="day" style="width: 10.5875%;">April 17, 2021<span id="dayofweek">Saturday</span></td>
+                    <td class="day" style="width: 10.5875%;">April 18, 2021<span id="dayofweek">Sunday</span></td>
+                    <td style="width: 13.2191%;">Weekend / Weekly</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Dave <br>Arbogast</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">District of Columbia</td>
+                    <td style="width: 9.91432%;">Baltimore-<br>Washington</td>
+                    <td style="width: 7.52754%;">DC-ONL</td>
+                    <td class="day" style="width: 10.5875%;">May 1, 2021<span id="dayofweek">Monday</span></td>
+                    <td class="day" style="width: 10.5875%;">May 2, 2021<span id="dayofweek">Monday</span></td>
+                    <td style="width: 13.2191%;">Weekend / Weekly</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Dave Arbogast</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">Massachusetts</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewEngland.php#boston">Boston</a></td>
+                    <td style="width: 7.52754%;">LC-ONL</td>
+                    <td class="day" style="width: 10.5875%;">May 15, 2021<span id="dayofweek">Saturday</span></td>
+                    <td class="day" style="width: 10.5875%;">May 16, 2021<span id="dayofweek">Sunday</span></td>
+                    <td style="width: 13.2191%;">Weekend / <br>Week-long</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Dave Arbogast</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">Massachusetts</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewEngland.php#boston">Boston</a></td>
+                    <td style="width: 7.52754%;">No Meeting</td>
+                    <td class="day" style="width: 10.5875%;">May 17, 2021<span id="dayofweek">Monday</span></td>
+                    <td class="day" style="width: 10.5875%;">May 17, 2021<span id="dayofweek">Monday</span></td>
+                    <td style="width: 13.2191%;">Weekday / <br>Week-long</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Dave Arbogast</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">Massachusetts</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewEngland.php#boston">Boston</a></td>
+                    <td style="width: 7.52754%;">DC-ONL</td>
+                    <td class="day" style="width: 10.5875%;">May 18, 2021<span id="dayofweek">Tuesday</span></td>
+                    <td class="day" style="width: 10.5875%;">May 19, 2021<span id="dayofweek">Wednesday</span></td>
+                    <td style="width: 13.2191%;">Weekday / <br>Week-long</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Dave Arbogast</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">Massachusetts</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewEngland.php#boston">Boston</a></td>
+                    <td style="width: 7.52754%;">No Meeting</td>
+                    <td class="day" style="width: 10.5875%;">May 20, 2021<span id="dayofweek">Thursday</span></td>
+                    <td class="day" style="width: 10.5875%;">May 20, 2021<span id="dayofweek">Thursday</span></td>
+                    <td style="width: 13.2191%;">Weekday / <br>Week-long</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Dave Arbogast</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">Massachusetts</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewEngland.php#boston">Boston</a></td>
+                    <td style="width: 7.52754%;">LI-ONL</td>
+                    <td class="day" style="width: 10.5875%;">May 21, 2021<span id="dayofweek">Friday</span></td>
+                    <td class="day" style="width: 10.5875%;">May 22, 2021<span id="dayofweek">Saturday</span></td>
+                    <td style="width: 13.2191%;">Weekend / <br>Week-long</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Dave Arbogast</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">New York</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewJersey.php#westchester">New
+                            York City </a></td>
+                    <td style="width: 7.52754%;">LI-ONL</td>
+                    <td class="day" style="width: 10.5875%;">December 05, 2020<span id="dayofweek">Saturday</span></td>
+                    <td class="day" style="width: 10.5875%;">December 06, 2020<span id="dayofweek">Sunday</span></td>
+                    <td style="width: 13.2191%;">Weekend / Weekly</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Nancy-Elizabeth<br>Nimmich</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">New York</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewJersey.php#westchester">New
+                            York City</a></td>
+                    <td style="width: 7.52754%;">LC-ONL</td>
+                    <td class="day" style="width: 10.5875%;">February 20, 2021<span id="dayofweek">Saturday</span></td>
+                    <td class="day" style="width: 10.5875%;">February 21, 2021<span id="dayofweek">Sunday</span></td>
+                    <td style="width: 13.2191%;">Weekend / Weekly</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Nancy-Elizabeth Nimmich</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">New York</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewJersey.php#westchester">New
+                            York City</a></td>
+                    <td style="width: 7.52754%;">DC-ONL</td>
+                    <td class="day" style="width: 10.5875%;">March 6, 2021<span id="dayofweek">Saturday</span></td>
+                    <td class="day" style="width: 10.5875%;">March  7, 2021<span id="dayofweek">Sunday</span></td>
+                    <td style="width: 13.2191%;">Weekend / Weekly</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Nancy-Elizabeth Nimmich</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">New York</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewJersey.php#westchester">New
+                            York City </a></td>
+                    <td style="width: 7.52754%;">LI-ONL</td>
+                    <td class="day" style="width: 10.5875%;">March 20, 2021<span id="dayofweek">Saturday</span></td>
+                    <td class="day" style="width: 10.5875%;">March 21,, 2021<span id="dayofweek">Sunday</span></td>
+                    <td style="width: 13.2191%;">Weekend / Weekly</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Nancy-Elizabeth<br>Nimmich</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">New York</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewJersey.php#manhattan">Manhattan</a></td>
+                    <td style="width: 7.52754%;">LC-ONL</td>
+                    <td class="day" style="width: 10.5875%;">July 10, 2021<span id="dayofweek">Saturday</span></td>
+                    <td class="day" style="width: 10.5875%;">July 11, 2021<span id="dayofweek">Sunday</span></td>
+                    <td style="width: 13.2191%;">Weekend / <br>Week-long</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Nancy-Elizabeth<br>Nimmich</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">New York</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewJersey.php#manhattan">Manhattan</a></td>
+                    <td style="width: 7.52754%;">No Meeting</td>
+                    <td class="day" style="width: 10.5875%;">July 12, 2021<span id="dayofweek">Monday</span></td>
+                    <td class="day" style="width: 10.5875%;">July 12, 2021<span id="dayofweek">Monday</span></td>
+                    <td style="width: 13.2191%;">Weekend / <br>Week-long</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Nancy-Elizabeth<br>Nimmich</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">New York</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewJersey.php#manhattan">Manhattan</a></td>
+                    <td style="width: 7.52754%;">DC-ONL</td>
+                    <td class="day" style="width: 10.5875%;">July 13, 2021<span id="dayofweek">Tuesday</span></td>
+                    <td class="day" style="width: 10.5875%;">July  14, 2021<span id="dayofweek">Wednesday</span></td>
+                    <td style="width: 13.2191%;">Weekday / <br>Week-long</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Nancy-Elizabeth<br>Nimmich</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">New York</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewJersey.php#manhattan">Manhattan</a></td>
+                    <td style="width: 7.52754%;">No Meeting</td>
+                    <td class="day" style="width: 10.5875%;">July 15, 2021<span id="dayofweek">Thursday</span></td>
+                    <td class="day" style="width: 10.5875%;">July 15, 2021<span id="dayofweek">Thursday</span></td>
+                    <td style="width: 13.2191%;">Weekend / <br>Week-long</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Nancy-Elizabeth<br>Nimmich</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">New York</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-NewJersey.php#manhattan">Manhattan</a></td>
+                    <td style="width: 7.52754%;">LI-ONL</td>
+                    <td class="day" style="width: 10.5875%;">July 16, 2021<span id="dayofweek">Tuesday</span></td>
+                    <td class="day" style="width: 10.5875%;">July  17, 2021<span id="dayofweek">Wednesday</span></td>
+                    <td style="width: 13.2191%;">Weekday / <br>Week-long</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Nancy-Elizabeth<br>Nimmich</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">New York / Quebec</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-Canada.php#montreal">Montreal-Ottawa</a></td>
+                    <td style="width: 7.52754%;">LC-ONL</td>
+                    <td class="day" style="width: 10.5875%;">April 24, 2021<span id="dayofweek">Saturday</span></td>
+                    <td class="day" style="width: 10.5875%;">April 25, 2021<span id="dayofweek">Sunday</span></td>
+                    <td style="width: 13.2191%;">Weekend / <br>Solo</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Nancy-Elizabeth Nimmich</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">New York / Ontario</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-Canada.php#toronto">Toronto
+                        </a></td>
+                    <td style="width: 7.52754%;">LC-ONL</td>
+                    <td class="day" style="width: 10.5875%;">August 21, 2021<span id="dayofweek">Saturday</span></td>
+                    <td class="day" style="width: 10.5875%;">August 22, 2021<span id="dayofweek">Sunday</span></td>
+                    <td style="width: 13.2191%;">Weekend / <br>Week-long</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Bill Israel </td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">New York / Ontario</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-Canada.php#toronto">Toronto
+                        </a></td>
+                    <td style="width: 7.52754%;">No Meeting</td>
+                    <td class="day" style="width: 10.5875%;">August 23, 2021<span id="dayofweek">Monday</span></td>
+                    <td class="day" style="width: 10.5875%;">August 23, 2021<span id="dayofweek">Monday</span></td>
+                    <td style="width: 13.2191%;">Weekday / <br>Week-long</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Bill Israel</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">New York / Ontario</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-Canada.php#toronto">Toronto
+                        </a></td>
+                    <td style="width: 7.52754%;">DC-ONL</td>
+                    <td class="day" style="width: 10.5875%;">August 24, 2021<span id="dayofweek">Tuesday</span></td>
+                    <td class="day" style="width: 10.5875%;">August 25, 2021<span id="dayofweek">Wednesday</span></td>
+                    <td style="width: 13.2191%;">Weekday / <br>Week-long</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Bill Israel</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">New York / Ontario</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-Canada.php#toronto">Toronto
+                        </a></td>
+                    <td style="width: 7.52754%;">No Meeting</td>
+                    <td class="day" style="width: 10.5875%;">August 26, 2021<span id="dayofweek">Thursday</span></td>
+                    <td class="day" style="width: 10.5875%;">August 26, 2021<span id="dayofweek">Thursday</span></td>
+                    <td style="width: 13.2191%;">Weekday / <br>Week-long</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Bill Israel</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">New York / Ontario</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-Canada.php#toronto">Toronto
+                        </a></td>
+                    <td style="width: 7.52754%;">LI-ONL</td>
+                    <td class="day" style="width: 10.5875%;">August 27, 2021<span id="dayofweek">Friday</span></td>
+                    <td class="day" style="width: 10.5875%;">August 28, 2021<span id="dayofweek">Saturday</span></td>
+                    <td style="width: 13.2191%;">Weekend / <br>Week-long</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Bill Israel</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">Pennsylvania</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php#philly">Philadelphia</a></td>
+                    <td style="width: 7.52754%;">LC-ONL</td>
+                    <td class="day" style="width: 10.5875%;">September 18, 2021<span id="dayofweek">Saturday</span></td>
+                    <td class="day" style="width: 10.5875%;">September 19, 2021<span id="dayofweek">Sunday</span></td>
+                    <td style="width: 13.2191%;">Weekend / <br>Week-long</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Dave <br>Arbogast</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">Pennsylvania</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php#philly">Philadelphia</a></td>
+                    <td style="width: 7.52754%;">No Meeting</td>
+                    <td class="day" style="width: 10.5875%;">September 20, 2021<span id="dayofweek">Monday</span></td>
+                    <td class="day" style="width: 10.5875%;">September 20, 2021<span id="dayofweek">Monday</span></td>
+                    <td style="width: 13.2191%;">
+                        <p>Weekday /</p>
+                        <p>Week-long</p>
+                    </td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Dave Arbogast</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">Pennsylvania</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php#philly">Philadelphia</a></td>
+                    <td style="width: 7.52754%;">DC-ONL</td>
+                    <td class="day" style="width: 10.5875%;">September 21, 2021<span id="dayofweek">Tuesday</span></td>
+                    <td class="day" style="width: 10.5875%;">September 22, 2021<span id="dayofweek">Wednesday</span></td>
+                    <td style="width: 13.2191%;">
+                        <p>Weekday /</p>
+                        <p>Week-long</p>
+                    </td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Dave Arbogast</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">Pennsylvania</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php#philly">Philadelphia</a></td>
+                    <td style="width: 7.52754%;">No Meeting</td>
+                    <td class="day" style="width: 10.5875%;">September 23, 2021<span id="dayofweek">Thursday</span></td>
+                    <td class="day" style="width: 10.5875%;">September 23, 2021<span id="dayofweek">Thursday</span></td>
+                    <td style="width: 13.2191%;">Weekday / <br>Week-long</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Dave Arbogast</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">Pennsylvania</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php#philly">Philadelphia</a></td>
+                    <td style="width: 7.52754%;">LI-ONL</td>
+                    <td class="day" style="width: 10.5875%;">September 24, 2021<span id="dayofweek">Friday</span></td>
+                    <td class="day" style="width: 10.5875%;">September 25, 2021<span id="dayofweek">Saturday</span></td>
+                    <td style="width: 13.2191%;">Weekend / <br>Week-long</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Dave Arbogast</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">Virginia</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php#richmond">Richmond</a></td>
+                    <td style="width: 7.52754%;">LC-0NL</td>
+                    <td class="day" style="width: 10.5875%;">August 14, 2021<span id="dayofweek">Saturday</span></td>
+                    <td class="day" style="width: 10.5875%;">August 15, 2021<span id="dayofweek">Sunday</span></td>
+                    <td style="width: 13.2191%;">Weekend / <br>Week-long</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Dave Arbogast</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">Virginia</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php#richmond">Richmond</a></td>
+                    <td style="width: 7.52754%;">No Meeting</td>
+                    <td class="day" style="width: 10.5875%;">August 16, 2021<span id="dayofweek">Monday</span></td>
+                    <td class="day" style="width: 10.5875%;">August 16, 2021<span id="dayofweek">Monday</span></td>
+                    <td style="width: 13.2191%;">Weekday / <br>Week-long</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Dave Arbogast</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">Virginia</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php#richmond">Richmond</a></td>
+                    <td style="width: 7.52754%;">DC-ONL</td>
+                    <td class="day" style="width: 10.5875%;">August 17, 2021<span id="dayofweek">Tuesday</span></td>
+                    <td class="day" style="width: 10.5875%;">August 18, 2021<span id="dayofweek">Wednesday</span></td>
+                    <td style="width: 13.2191%;">Weekday / <br>Week-long</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Nancy-Elizabeth Nimmich</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">Virginia</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php#richmond">Richmond</a></td>
+                    <td style="width: 7.52754%;">No Meeting</td>
+                    <td class="day" style="width: 10.5875%;">August 19, 2021<span id="dayofweek">Thursday</span></td>
+                    <td class="day" style="width: 10.5875%;">August 19, 2021<span id="dayofweek">Thursday</span></td>
+                    <td style="width: 13.2191%;">Weekday / <br>Week-long</td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Nancy-Elizabeth Nimmich</td>
+                </tr>
+                <tr>
+                    <td style="width: 11.0771%;">Virginia</td>
+                    <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php#richmond">Richmond</a></td>
+                    <td style="width: 7.52754%;">LI-ONL</td>
+                    <td class="day" style="width: 10.5875%;">August 20, 2021<span id="dayofweek">Friday</span></td>
+                    <td class="day" style="width: 10.5875%;">August 21, 2021<span id="dayofweek">Saturday</span></td>
+                    <td style="width: 13.2191%;">
+                        <p>Weekend /</p>
+                        <p>Week-long</p>
+                    </td>
+                    <td style="width: 13.2191%;">Dialogue House</td>
+                    <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
+                    <td style="width: 11.9951%;">Nancy-Elizabeth Nimmich</td>
+                </tr>
+            </tbody>
+        </table>
+        <p> </p>
+    </div>
 
 </body>
 </html>

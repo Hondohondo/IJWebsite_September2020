@@ -44,7 +44,7 @@
 
                 <div id="my-content" class="section-inside-content cms-editable">
 
-                <h1>About Ira Progoff, PHD...</h1>
+                <h1>About Ira Progoff, PHD</h1>
 
                 <p>
                   Since the 1950's, Dr. Progoff has devoted his life to the exploration of new ways to encourage creativity and to enhance individual growth.

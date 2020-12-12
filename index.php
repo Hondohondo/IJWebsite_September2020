@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -9,12 +11,20 @@
 
   <?php include "phone-nav.php";?>
 
+  <p class="covid-online">
+          Due to Covid,practically all of our workshops are offered online. See <a class="covid-link" href="GeneralWorkshops_SchedulesLocations-Schedules.php">our schedule! &rarr;</a>
+      </p>
+
 
         <div class="expand">
+
+
 
               <?php include "navigation.php";?>
 
             <div class="col-3-of-3">
+
+
 
               <header class="header-main">
 

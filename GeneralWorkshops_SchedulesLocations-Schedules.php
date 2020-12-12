@@ -40,40 +40,26 @@
 <br><br>
   <h6>United States</h6>
 <!-- <p align="center"> -->
-<p class="u-center-text">
-<map name="FPMap0">
 
-<area href="GeneralWorkshops_SchedulesLocations-NorthEast.php" shape="polygon" coords="354, 68, 367, 52, 393, 40, 428, 20, 446, 25, 445, 44, 431, 62, 396, 105, 348, 105, 357, 84">
-
-<area href="GeneralWorkshops_SchedulesLocations-SouthEast.php" shape="polygon" coords="217, 104, 218, 140, 198, 144, 235, 196, 289, 192, 338, 164, 351, 197, 366, 198, 355, 156, 394, 108, 345, 106">
-
-<area href="GeneralWorkshops_SchedulesLocations-MidWest.php" coords="208, 10, 210, 73, 219, 75, 219, 103, 344, 107, 350, 88, 357, 85, 356, 68, 353, 12" shape="polygon">
-
-<area href="GeneralWorkshops_SchedulesLocations-Western.php" shape="polygon" coords="5, 5, 205, 7, 205, 61, 212, 70, 216, 88, 212, 89, 213, 140, 193, 140, 142, 200, 7, 152">
-
-
-</map>
-
-
-<img polygon="(208,10) (210,73) (219,75) (219,103) (344,107) (350,88) (357,85) (356,68) (353,12)" src="img/US_map.jpg" alt="US_map.jpg (14621 bytes)" usemap="#FPMap0" border="0" height="203" width="460">
-<!--
-<img polygon="(208,10) (210,73) (219,75) (219,103) (344,107) (350,88) (357,85) (356,68) (353,12) info/Midwest.htm" src="img/US_map.jpg" alt="US_map.jpg (14621 bytes)" usemap="#FPMap0" border="0" height="203" width="460"> -->
-
-</p>
 
 <!-- <br><br><br> -->
 <br>
+
+                    <?php include "map.php";?>
+
+                    <br><br> <br>
+
 <h6>Canada</h6>
 <br>
 <p class="u-center-text">
-	<a href="GeneralWorkshops_SchedulesLocations-Canada.php"><img src="img/canada.jpg" height="140" width="189"></a>
+<!--	<a href="GeneralWorkshops_SchedulesLocations-Canada.php"><img src="img/canada.jpg" height="140" width="189"></a>-->
 </p>
 <br><br>
 
 <h6>International</h6>
 <br>
 <p class="u-center-text">
-	<a href="GeneralWorkshops_SchedulesLocations-International.php"><img src="img/worldMap.jpg" height="178" width="339"></a>
+<!--	<a href="GeneralWorkshops_SchedulesLocations-International.php"><img src="img/worldMap.jpg" height="178" width="339"></a>-->
 </p>
 
                 </div>

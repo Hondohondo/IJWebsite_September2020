@@ -86,7 +86,7 @@
                                 </tr>
                                 <tr>
                                     <td>PRE</td>
-                                    <td><a>Intro Course</a></td>
+                                    <td><a>Intro Presentation</a></td>
                                     <td>Experience a sampling of <em>Intensive Journal</em> exercises - Prerequisite -
                                         None</td>
                                 </tr>

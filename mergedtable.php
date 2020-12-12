@@ -80,7 +80,7 @@
 
                         <tr>
                             <td>PRE</td>
-                            <td> <a>Intro Course</a></td>
+                            <td> <a>Intro Presentation</a></td>
                             <td>Experience a sampling of <em>Intensive Journal</em> exercises - Prerequisite - None</td>
                         </tr>
 
@@ -105,19 +105,27 @@
                     <h1>Merged Table (Filtering)</h1>
                     <p class="u-margin-bottom-small-1">
                         The following table is a combination of all the US regions and Canada. Use the filtering search box to filter
-                        for the data that you want you can filter by a specific leader, by month, etc.
+                        for the data that you want. <em>You can filter by a specific leader, by month, city, state, day
+                            of the week,
+                            type of the workshop etc.</em>
+                    </p>
+                    <p>
+                       <strong>For example:</strong>  If I want to search for all the workshops that are going to be in December. I will just type
+                        <strong style="font-family:'Lucida Console', monospace">december</strong> in the search box
+                        As soon as I start typing the table will start filtering, hence there is no reason to type the whole word.
                     </p>
 
                     <div class="form__group">
-                        <input type="search" placeholder="Filter the table by leader, month, etc." class="form__input" required>
+                        <input type="search" placeholder="Filter the table by leader, month, city, etc." class="form__input" required>
                     </div>
 
                     <h2 class="orange">Western Region </h2>
-                    <?php include "WesternTable.php";?>
+
+                    <?php include "TableTest.php";?>
 
                     <br>
-                    <h2 class="orange">Midwest Region</h2>
-                    <?php include "MidWestTable.php";?>
+<!--                    <h2 class="orange">Midwest Region</h2>-->
+<!--                    --><?php //include "MidWestTable.php";?>
 
 <!--                    --><?php //include "NorthEastTable.php";?>
 
@@ -143,8 +151,8 @@
 
 <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="tablefilter.js"></script>
-<!--<script src="table.js"></script>-->
-<script src="table2.js"></script>
+<script src="table.js"></script>
+<!--<script src="table2.js"></script>-->
 <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
 
 </body>

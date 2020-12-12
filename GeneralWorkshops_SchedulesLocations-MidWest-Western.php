@@ -38,12 +38,104 @@
                         <div id="banner-img-14" class="banner-img"> </div>
                     </div>
                     <div id="my-content" class="section-inside-content">
-                        <h1><em>Intensive Journal</em> Workshops - Western Region of Midwest</h1>
+                        <h1><em id="louis">Intensive Journal</em> Workshops - Western Region of Midwest</h1>
                         <!-- <br><br> -->
-                        <h6>Fall, 2020</h6>
+                        <h6>Fall, 2020 - Summer, 2021</h6>
                         <p class="reg-flyer">Please have a copy of our <a class="page-link" href="midwest-chicago-3p-1219.pdf"
                                target="_blank" rel="noopener">Midwest-western regional flyer </a></p>
-                        <h5 id="chicago">Chicago, Illinois: 3-Part Series on July 24-31, 2021 - online</h5>
+                        <h5 id="louis">Kansas City - St Louis, Missouri:  Intro Program on February 27-28, 2021 -
+                            online</h5>
+                        <table class="table-credits table-praises" style="width: 83.2854%;">
+                            <tbody>
+                                <tr>
+                                    <th style="width: 31.2904%; text-align: left;">Workshop (12 hrs)</th>
+                                    <th style="width: 50.9928%; text-align: left;">Schedule</th>
+                                    <th style="width: 29.587%; text-align: left;">Tuition<sup>*</sup></th>
+                                </tr>
+                                <tr>
+                                    <td style="width: 31.2904%;">Life Context</td>
+                                    <td style="width: 50.9928%;">02/27: (9 am-12:30 pm;  2-5 pm)<br>02/28: (9 am-12 pm;
+                                        1:30-4:30 pm)</td>
+                                    <td style="width: 29.587%;">$ 225</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <h5>
+                            <!-- <br><br> -->
+                        </h5>
+                        <p><sup>*</sup>Tuition only .</p>
+                        <table class="table-credits table-praises">
+                            <tbody>
+                                <tr>
+                                    <th>Location</th>
+                                    <td>Workshops held online through Zoom.</td>
+                                </tr>
+                                <tr>
+                                    <th>Leader</th>
+                                    <td><strong>Carolyn (Kelley) Williams </strong>has led <em>Intensive Journal</em>
+                                        workshops for over 25 years primarily in the Midwest. Prior to relocating to
+                                        the greater Phoenix area, Kelley served as Senior Editor of Publications in
+                                        Obstetrics and Gynecology at Northwestern University Medical School in Chicago.
+                                        Kelley is a published poet and former president of the American Medical
+                                        Writers&apos; Association.</td>
+                                </tr>
+                                <tr>
+                                    <th>Registration</th>
+                                    <td>Call <strong> 330-998-6000 or 800-221-5844 </strong> or write to <strong>Dialogue
+                                            House</strong> , 2245 E Enterprise Pkwy - #B1, Twinsburg, OH 44087-2348.  
+                                        Email: info@intensivejournal.org  Credit cards accepted. Make checks payable to
+                                        Dialogue House.  Minimum non-refundable deposit:  $100.  Full payment is
+                                        required at least 2 weeks in advance.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <h5> </h5>
+                        <h5 id="louis">Minneapolis - St Paul, Missouri:  Intro Program on April 17-18, 2021 - online</h5>
+                        <table class="table-credits table-praises" style="width: 83.2854%;">
+                            <tbody>
+                                <tr>
+                                    <th style="width: 31.2904%; text-align: left;">Workshop (12 hrs)</th>
+                                    <th style="width: 50.9928%; text-align: left;">Schedule</th>
+                                    <th style="width: 29.587%; text-align: left;">Tuition<sup>*</sup></th>
+                                </tr>
+                                <tr>
+                                    <td style="width: 31.2904%;">Life Context</td>
+                                    <td style="width: 50.9928%;">04/17: (9 am-12:30 pm;  2-5 pm)<br>04/18: (9 am-12 pm;
+                                        1:30-4:30 pm)</td>
+                                    <td style="width: 29.587%;">$ 225</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <h5>
+                            <!-- <br><br> -->
+                        </h5>
+                        <p><sup>*</sup>Tuition only .</p>
+                        <table class="table-credits table-praises">
+                            <tbody>
+                                <tr>
+                                    <th>Location</th>
+                                    <td>Workshops held online through Zoom.</td>
+                                </tr>
+                                <tr>
+                                    <th>Leader</th>
+                                    <td><strong>Carolyn (Kelley) Williams </strong>has led <em>Intensive Journal</em>
+                                        workshops for over 25 years primarily in the Midwest. Prior to relocating to
+                                        the greater Phoenix area, Kelley served as Senior Editor of Publications in
+                                        Obstetrics and Gynecology at Northwestern University Medical School in Chicago.
+                                        Kelley is a published poet and former president of the American Medical
+                                        Writers&apos; Association.</td>
+                                </tr>
+                                <tr>
+                                    <th>Registration</th>
+                                    <td>Call <strong> 330-998-6000 or 800-221-5844 </strong> or write to <strong>Dialogue
+                                            House</strong> , 2245 E Enterprise Pkwy - #B1, Twinsburg, OH 44087-2348.  
+                                        Email: info@intensivejournal.org  Credit cards accepted. Make checks payable to
+                                        Dialogue House.  Minimum non-refundable deposit:  $100.  Full payment is
+                                        required at least 2 weeks in advance.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <h5 id="chicago"><br><br>Chicago, Illinois: 3-Part Series on July 24-31, 2021 - online</h5>
                         <table class="table-credits table-praises">
                             <tbody>
                                 <tr>
@@ -106,65 +198,7 @@
                                 </tr>
                             </tbody>
                         </table>
-                        <br><br><br>
-                        <h5 id="louis">St Louis, Missouri: 3-Part Series Begins September 12-13, 2020 - online</h5>
-                        <table class="table-credits table-praises">
-                            <tbody>
-                                <tr>
-                                    <th>Workshop (12 hrs)</th>
-                                    <th>Schedule</th>
-                                    <th>Tuition<sup>*</sup></th>
-                                </tr>
-                                <tr>
-                                    <td>Life Context</td>
-                                    <td>09/12: (9 am-12:30 pm;  2-5 pm)<br>09/13: (9 am-12 pm; 1:30-4:30 pm)</td>
-                                    <td>$ 225</td>
-                                </tr>
-                                <tr>
-                                    <td>Depth Contact</td>
-                                    <td>09/26: (9 am-12:30 pm;  2-5 pm)<br>09/27: (9 am-12 pm; 1:30-4:30 pm)</td>
-                                    <td>$ 210</td>
-                                </tr>
-                                <tr>
-                                    <td>Life Integration</td>
-                                    <td>10/10: (9 am-12:30 pm;  2-5 pm)<br>10/11: (9 am-12 pm; 1:30-4:30 pm)</td>
-                                    <td>$ 210</td>
-                                </tr>
-                                <tr>
-                                    <td>All three workshops</td>
-                                    <td> </td>
-                                    <td>$ 625<sup>*</sup></td>
-                                </tr>
-                            </tbody>
-                        </table>
-                        <!-- <br><br> -->
-                        <p><sup>*</sup>Tuition only .</p>
-                        <table class="table-credits table-praises">
-                            <tbody>
-                                <tr>
-                                    <th>Location</th>
-                                    <td>Workshops held online through Zoom.</td>
-                                </tr>
-                                <tr>
-                                    <th>Leader</th>
-                                    <td><strong>Carolyn (Kelley) Williams </strong>has led <em>Intensive Journal</em>
-                                        workshops for over 25 years primarily in the Midwest. Prior to relocating to
-                                        the greater Phoenix area, Kelley served as Senior Editor of Publications in
-                                        Obstetrics and Gynecology at Northwestern University Medical School in Chicago.
-                                        Kelley is a published poet and former president of the American Medical
-                                        Writers&apos; Association.</td>
-                                </tr>
-                                <tr>
-                                    <th>Registration</th>
-                                    <td>Call <strong> 330-998-6000 or 800-221-5844 </strong> or write to <strong>Dialogue
-                                            House</strong> , 2245 E Enterprise Pkwy - #B1, Twinsburg, OH 44087-2348.  
-                                        Email: info@intensivejournal.org  Credit cards accepted. Make checks payable to
-                                        Dialogue House.  Minimum non-refundable deposit:  $100.  Full payment is
-                                        required at least 2 weeks in advance.</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                        <br><br><br>
+                        <br><br><br><br><br>
                         <h5 id="madison"> </h5>
                         <!-- <br><br> -->
                         <p><br><br></p>

@@ -6,6 +6,86 @@
 <svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="us-map" preserveAspectRatio="xMinYMin meet" sodipodi:docname="Republican_Party_presidential_primaries_results,_2016.svg" inkscape:version="0.91 r13725" x="0px" y="0px" width="959px" height="593px" viewBox="174 100 959 593" enable-background="new 174 100 959 593" xml:space="preserve">
 <sodipodi:namedview bordercolor="#666666" objecttolerance="10" pagecolor="#ffffff" borderopacity="1" gridtolerance="10" guidetolerance="10" inkscape:cx="509.19152" inkscape:cy="282.2353" inkscape:zoom="1.2137643" showgrid="false" id="namedview71" inkscape:current-layer="g5" inkscape:window-maximized="1" inkscape:window-y="-8" inkscape:window-x="-8" inkscape:pageopacity="0" inkscape:window-height="1017" inkscape:window-width="1920" inkscape:pageshadow="2">
 	</sodipodi:namedview>
+
+
+
+    <style>
+        #us-map{
+            display: block;
+            /*position: absolute;*/
+            /*top: 0;*/
+            /*left: 0;*/
+            width: 100%;
+            height: 100%;
+        }
+        path:hover, circle:hover {
+         /*   !*stroke: #002868 !important;*!
+            stroke: teal !important;
+            stroke-width:2px;
+            stroke-linejoin: round;
+            !*fill: #002868 !important;*!
+            fill: teal !important;
+            cursor: pointer;*/
+        }
+
+        /*#HI:hover {
+          fill: green !important;
+        }
+
+        #AK:hover {
+          fill: green !important;
+        }*/
+
+
+        #path67 {
+            fill: none !important;
+            stroke: #A9A9A9 !important;
+            cursor: default;
+        }
+        #info-box {
+            display: none;
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            z-index: 1;
+            background-color: #ffffff;
+            /*border: 2px solid #BF0A30;*/
+            border: 3px solid darkorange;
+            border-radius: 5px;
+            padding: 5px;
+            font-family: arial;
+            font-size: 20px;
+        }
+
+
+    </style>
+
+    <script>
+        $("path, circle").hover(function(e) {
+            $('#info-box').css('display','block');
+            $('#info-box').html($(this).data('info'));
+        });
+
+        $("path, circle").mouseleave(function(e) {
+            $('#info-box').css('display','none');
+        });
+
+        $(document).mousemove(function(e) {
+            $('#info-box').css('top',e.pageY-$('#info-box').height()-30);
+            $('#info-box').css('left',e.pageX-($('#info-box').width())/2);
+        }).mouseover();
+
+        var ios = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+        if(ios) {
+            $('a').on('click touchend', function() {
+                var link = $(this).attr('href');
+                window.open(link,'_blank');
+                return false;
+            });
+        }
+
+    </script>
+
 <g id="g5">
 
     <a href="GeneralWorkshops_SchedulesLocations-Western.php">
@@ -88,4 +168,4 @@ M531.1,433.4l22.7,1.1l31.1,1.1l-2.3,23.5l-0.3,18.2l0.1,2.1l4.3,3.8l1.7,0.8l1.8,0
 <!--<a href="https://websitebeaver.com/how-to-make-an-interactive-and-responsive-svg-map-of-us-states-capitals" target="_blank" style="position: absolute; bottom: 0px; right: 0px; text-decoration: none; color: #8a8787">Tutorial is on Website Beaver</a>-->
 
 <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
-<script src="main.js"></script>
+<!--<script src="main.js"></script>-->

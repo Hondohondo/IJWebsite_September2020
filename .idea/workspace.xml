@@ -23,93 +23,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea4563f3-2394-4209-90fa-029c0a868a1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TableTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deletedmap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canada-map.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main-canada.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutUs_iraprogoff.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutUs_iraprogoff.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CanadaTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/CanadaTable.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Canada.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Canada.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International-UK.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International-UK.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-MidWest-Eastern.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-MidWest-Eastern.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-MidWest-Western.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-MidWest-Western.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-MidWest.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-MidWest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast-Canada.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast-Canada.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast-NewEngland.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast-NewEngland.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast-NewJersey.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast-NewJersey.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Schedules.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Schedules.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-SouthEast-SouthAtlantic.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-SouthEast-SouthAtlantic.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-SouthEast-SouthCentral.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-SouthEast-SouthCentral.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-SouthEast.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-SouthEast.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western-NorthCA.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western-NorthCA.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western-NorthWest.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western-NorthWest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western-SouthWest.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western-SouthWest.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intensive_quick-summary.php" beforeDir="false" afterPath="$PROJECT_DIR$/Intensive_quick-summary.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidWestTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/MidWestTable.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NorthEastTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/NorthEastTable.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PreProsFTPSettings.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SouthEastTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/SouthEastTable.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WesternTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/WesternTable.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/base/_utilities.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/components/_contact.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/components/_togglepara.css" beforeDir="false" afterPath="$PROJECT_DIR$/sass/abstracts/functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/components/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/sass/pages/newtables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/pages/_photos.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style-dist.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/evaluation.html" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headhtml.php" beforeDir="false" afterPath="$PROJECT_DIR$/headhtml.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headhtml2.php" beforeDir="false" afterPath="$PROJECT_DIR$/headhtml2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mergedtable.php" beforeDir="false" afterPath="$PROJECT_DIR$/mergedtable.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phone-nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/phone-nav.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prepros-6.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prepros.config" beforeDir="false" afterPath="$PROJECT_DIR$/prepros.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/abstracts/_functions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/abstracts/mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/abstracts/variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/base/_animations.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/animations.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/base/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/base.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/base/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/utilities.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/components/button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/components/_contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/components/contact.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/components/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/components/footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/components/_pop.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/components/pop.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/components/_togglepara.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/components/togglepara.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/layout/_banner.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/banner.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/layout/_content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/content.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/layout/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/layout/_navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/navigation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/layout/_navigationcopy.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/navigationcopy.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/layout/_phonenav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/phonenav.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/pages/home.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/pages/_photos.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/pages/photos.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp-testimonial0.php" beforeDir="false" afterPath="$PROJECT_DIR$/sp-testimonial0.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/table.js" beforeDir="false" afterPath="$PROJECT_DIR$/table.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablefilter.js" beforeDir="false" afterPath="$PROJECT_DIR$/tablefilter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Catholic.php" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Catholic.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-DisciplesChrist.php" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-DisciplesChrist.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Episcopal.php" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Episcopal.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Methodist.php" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Methodist.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-NewThought.php" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-NewThought.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Presbyterian.php" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Presbyterian.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Quaker.php" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Quaker.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Unitarian.php" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Unitarian.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-United.php" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-United.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Unity.php" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Unity.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.css" beforeDir="false" afterPath="$PROJECT_DIR$/map.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.php" beforeDir="false" afterPath="$PROJECT_DIR$/map.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,8 +126,17 @@
       <workItem from="1605035582746" duration="2403000" />
       <workItem from="1607634256259" duration="205000" />
       <workItem from="1607634499262" duration="6639000" />
-      <workItem from="1607799338256" duration="4551000" />
+      <workItem from="1607799338256" duration="6131000" />
+      <workItem from="1608059717921" duration="5617000" />
     </task>
+    <task id="LOCAL-00001" summary="Added new map">
+      <created>1607815536605</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607815536606</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +156,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added new map" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new map" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

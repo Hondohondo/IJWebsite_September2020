@@ -40,6 +40,7 @@
                     <div class="banner">
                         <div id="banner-img-2" class="banner-img"> </div>
                     </div>
+
                     <div id="my-content" class="section-inside-content">
                         <h1>Western Region</h1>
                         <!-- <h6>Using Dreams and Imagery to Develop Your Life</h6> -->

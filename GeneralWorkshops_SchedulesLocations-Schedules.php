@@ -53,6 +53,7 @@
 <br>
 <p class="u-center-text">
 <!--	<a href="GeneralWorkshops_SchedulesLocations-Canada.php"><img src="img/canada.jpg" height="140" width="189"></a>-->
+    <?php include "canada-map.php";?>
 </p>
 <br><br>
 

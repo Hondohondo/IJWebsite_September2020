@@ -38,13 +38,66 @@
                         <div id="banner-img-8" class="banner-img"> </div>
                     </div>
                     <div id="my-content" class="section-inside-content">
-                        <h1><em>Intensive Journal</em> Workshops - Southern California and Hawaii Region</h1>
+                        <h1><em id="sandiego">Intensive Journal</em> Workshops - Southern California and Hawaii Region</h1>
                         <!-- <br><br> -->
-                        <h6> Fall 2020 - Summer, 2021</h6>
+                        <h6> Winter - Summer, 2021</h6>
                         <p class="reg-flyer">Please have a copy of our <a class="page-link" href="scal-3p-1219.pdf"
                                target="_blank" rel="noopener">Southern California regional flyer              ( Not
                                 ready yet)</a></p>
-                        <h5 id="la">Los Angeles, California: 3-Part Series on August 21-28, 2021 - online</h5>
+                        <h5> </h5>
+                        <h5 id="sandiego">Los Angeles - San Diego, CA:  Introductory (Life Context) workshop <br>                                                         
+                            on May 1-2, 2021 - online</h5>
+                        <table class="table-credits table-praises" style="width: 81.7809%;">
+                            <tbody>
+                                <tr>
+                                    <th style="width: 33.7654%; text-align: left;">Workshop (12 hours)</th>
+                                    <th style="width: 49.6385%; text-align: left;">Schedule</th>
+                                    <th style="width: 18.7439%; text-align: left;">Tuition<sup>*</sup></th>
+                                </tr>
+                                <tr>
+                                    <td style="width: 33.7654%;">Life Context</td>
+                                    <td style="width: 49.6385%;">5/01: (9 am-12:30 pm; 2-5 pm)<br>5/02: (9 am-12 pm;
+                                        1:30-4:30 pm)</td>
+                                    <td style="width: 18.7439%;">$ 225</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <h5>
+                            <!-- <br><br> -->
+                        </h5>
+                        <p><sup>*</sup>Tuition only.   Life Context workshop includes <em>Intensive Journal</em>
+                            workbook. </p>
+                        <table class="table-credits table-praises">
+                            <tbody>
+                                <tr>
+                                    <th>Location</th>
+                                    <td>Workshops held online through Zoom.</td>
+                                </tr>
+                                <tr>
+                                    <th>Leader</th>
+                                    <td><strong>Joanne Hackett Ching </strong>began leading <em>Intensive Journal</em>
+                                        workshops in 1980 while she was working at Dialogue House in NYC. For 25 years
+                                        she was an English as a Second Language (ESL) teacher in Fresno, CA. She has a
+                                        MA in Creation Spirituality from Naropa University, is a Certified Life Cycle
+                                        Celebrant® (creating celebrations for significant life events) and is an
+                                        ordained minister with the Universal Life Church<strong>.</strong></td>
+                                </tr>
+                                <tr>
+                                    <th>Registration</th>
+                                    <td>.
+                                        <p>Call <strong> 330-998-6000 or 800-221-5844 </strong> or write to <strong>Dialogue
+                                                House</strong> , 2245 E Enterprise Pkwy - #B1, Twinsburg, OH 
+                                            40087-2348  </p>
+                                        <p>Email: info@intensivejournal.org Credit cards accepted. Make checks payable
+                                            to Dialogue House.  Minimum non-refundable deposit:  $100.  Full payment
+                                            required at least 2 weeks in advance of workshop.</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <h5> </h5>
+                        <h5> </h5>
+                        <h5> Los Angeles-San Diego, California: 3-Part Series on August 21-28, 2021 - online</h5>
                         <table class="table-credits table-praises">
                             <tbody>
                                 <tr>
@@ -105,66 +158,7 @@
                                 </tr>
                             </tbody>
                         </table>
-                        <br><br><br>
-                        <h5 id="sandiego">San Diego, CA: 3-Part Series Begins November 7-8, 2020 - online</h5>
-                        <table class="table-credits table-praises">
-                            <tbody>
-                                <tr>
-                                    <th>Workshop (12 hrs each)</th>
-                                    <th>Schedule</th>
-                                    <th>Tuition<sup>*</sup></th>
-                                </tr>
-                                <tr>
-                                    <td>Life Context</td>
-                                    <td>11/07: (9 am-12:30 pm; 2-5 pm)<br>11/08: (9 am-12 pm; 1:30-4:30 pm)</td>
-                                    <td>$ 225</td>
-                                </tr>
-                                <tr>
-                                    <td>Depth Contact</td>
-                                    <td>11/14: (9 am-12:30 pm; 2-5 pm)<br>11/15: (9 am-12 pm; 1:30-4:30 pm)</td>
-                                    <td>$ 210</td>
-                                </tr>
-                                <tr>
-                                    <td>Life Integration</td>
-                                    <td>12/05: (9 am-12:30 pm; 2-5 pm)<br>12/06: (9 am-12 pm; 1:30-4:30 pm)</td>
-                                    <td>$ 210</td>
-                                </tr>
-                                <tr>
-                                    <td>All three workshops</td>
-                                    <td> </td>
-                                    <td>$ 625</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                        <!-- <br><br> -->
-                        <p><sup>*</sup>Tuition only.   Life Context workshop includes <em>Intensive Journal</em>
-                            workbook. </p>
-                        <table class="table-credits table-praises">
-                            <tbody>
-                                <tr>
-                                    <th>Location</th>
-                                    <td>Workshops held online through Zoom.</td>
-                                </tr>
-                                <tr>
-                                    <th>Leader</th>
-                                    <td><strong>Joseph Jeffers, MFT </strong> is a Marriage &amp; Family Therapist with
-                                        a longtime private practice in the Hillcrest neighborhood of San Diego.
-                                        Personal growth, couplesâ€™ work, life transitions, depression and anxiety,
-                                        LGBTQ, issues, domestic violence, and substance abuse are some areas of focus.
-                                        He attended his first <em>Intensive Journal</em> workshop in the late seventies
-                                        in New Orleans and has used it as a personal and professional tool since then.</td>
-                                </tr>
-                                <tr>
-                                    <th>Registration</th>
-                                    <td>Call <strong> Call 619-987-0735 </strong> or write to Joseph Jeffers, 1807
-                                        Robinson Avenue - Suite 206, San Diego, CA 92103 Email: jjeffers52@aol.com Web:
-                                        www.josephjeffersmft.com.  Check payable to Joseph Jeffers. Credit Cards
-                                        accepted.  Minimum non-refundable deposit:  $100.   Full payment required at
-                                        least 2 weeks in advance of workshop.</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                        <br><br><br>
+                        <br><br><br><br><br><br>
                         <h5 id="fresno">Fresno, California: Introductory Workshop</h5>
                         <table class="table-credits table-praises">
                             <tbody>

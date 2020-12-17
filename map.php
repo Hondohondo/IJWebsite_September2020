@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="map.css" />
+<!--<link rel="stylesheet" type="text/css" href="map.css" />-->
 <div id="info-box"></div>
 
 <?/*xml version="1.0" encoding="utf-8"*/?>
@@ -24,8 +24,9 @@
             stroke-width:2px;
             stroke-linejoin: round;
             !*fill: #002868 !important;*!
-            fill: teal !important;
+
             cursor: pointer;*/
+            fill: teal !important;
         }
 
         /*#HI:hover {

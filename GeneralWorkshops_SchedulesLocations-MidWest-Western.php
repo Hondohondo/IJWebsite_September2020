@@ -40,9 +40,9 @@
                     <div id="my-content" class="section-inside-content">
                         <h1><em id="louis">Intensive Journal</em> Workshops - Western Region of Midwest</h1>
                         <!-- <br><br> -->
-                        <h6>Fall, 2020 - Summer, 2021</h6>
+                        <h6>Winter - Summer, 2021</h6>
                         <p class="reg-flyer">Please have a copy of our <a class="page-link" href="midwest-chicago-3p-1219.pdf"
-                               target="_blank" rel="noopener">Midwest-western regional flyer </a></p>
+                               target="_blank" rel="noopener">Midwest-western regional flyer  (not ready)</a></p>
                         <h5 id="louis">Kansas City - St Louis, Missouri:  Intro Program on February 27-28, 2021 -
                             online</h5>
                         <table class="table-credits table-praises" style="width: 83.2854%;">
@@ -89,6 +89,51 @@
                                 </tr>
                             </tbody>
                         </table>
+                        <h5> </h5>
+                        <br>
+                        <h5 id="louis">Chicago, Illinois:  Presentation on March 14, 2021 - online</h5>
+                        <table class="table-credits table-praises" style="width: 83.2854%;">
+                            <tbody>
+                                <tr>
+                                    <th style="width: 31.2904%; text-align: left;">Workshop (3 hrs)</th>
+                                    <th style="width: 50.9928%; text-align: left;">Schedule</th>
+                                    <th style="width: 29.587%; text-align: left;">Tuition<sup>*</sup></th>
+                                </tr>
+                                <tr>
+                                    <td style="width: 31.2904%;">Presentation</td>
+                                    <td style="width: 50.9928%;">03/14: (1-4 pm)<br><br></td>
+                                    <td style="width: 29.587%;">$ 65</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <h5>
+                            <!-- <br><br> -->
+                        </h5>
+                        <p><sup>*</sup>Tuition only.</p>
+                        <table class="table-credits table-praises">
+                            <tbody>
+                                <tr>
+                                    <th>Location</th>
+                                    <td>Workshops held online through Zoom.</td>
+                                </tr>
+                                <tr>
+                                    <th>Leader</th>
+                                    <td><strong>Carolyn (Kelley) Williams </strong>has led <em>Intensive Journal</em>
+                                        workshops for over 25 years primarily in the Midwest. Prior to relocating to
+                                        the greater Phoenix area, Kelley served as Senior Editor of Publications in
+                                        Obstetrics and Gynecology at Northwestern University Medical School in Chicago.
+                                        Kelley is a published poet and former president of the American Medical
+                                        Writers&apos; Association.</td>
+                                </tr>
+                                <tr>
+                                    <th>Registration</th>
+                                    <td>Register at cgjungcenter.org </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <h5> </h5>
+                        <h5> </h5>
+                        <h5> </h5>
                         <h5> </h5>
                         <h5 id="louis">Minneapolis - St Paul, Missouri:  Intro Program on April 17-18, 2021 - online</h5>
                         <table class="table-credits table-praises" style="width: 83.2854%;">

@@ -160,7 +160,10 @@
           <td>Bill Israel</td>
         </tr>
         <tr>
-          <td>Quebec</td>
+          <td>
+            <p>Quebec-Ontario</p>
+            <p> </p>
+          </td>
           <td><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-Canada.php#montreal">Montreal -
               <br>Ottawa</a></td>
           <td>LC</td>

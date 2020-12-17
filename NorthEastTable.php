@@ -208,7 +208,7 @@
                     <td style="width: 11.9951%;">Nancy-Elizabeth<br>Nimmich</td>
                 </tr>
                 <tr>
-                    <td style="width: 11.0771%;">New York / Quebec</td>
+                    <td style="width: 11.0771%;">New York / Quebec-Ontario</td>
                     <td style="width: 9.91432%;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-NorthEast-Canada.php#montreal">Montreal-Ottawa</a></td>
                     <td style="width: 7.52754%;">LC-ONL</td>
                     <td class="day" style="width: 10.5875%;">April 24, 2021<span id="dayofweek">Saturday</span></td>
@@ -228,7 +228,7 @@
                     <td style="width: 13.2191%;">Weekend / <br>Week-long</td>
                     <td style="width: 13.2191%;">Dialogue House</td>
                     <td style="width: 10.5875%;">330-998-6000 / 800-221-5844</td>
-                    <td style="width: 11.9951%;">Bill Israel </td>
+                    <td style="width: 11.9951%;">Bill Israel</td>
                 </tr>
                 <tr>
                     <td style="width: 11.0771%;">New York / Ontario</td>

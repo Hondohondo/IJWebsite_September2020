@@ -50,7 +50,7 @@
                     <br><br> <br>
 
 <h6>Canada</h6>
-<br>
+<!--<br>-->
 <p class="u-center-text">
 <!--	<a href="GeneralWorkshops_SchedulesLocations-Canada.php"><img src="img/canada.jpg" height="140" width="189"></a>-->
     <?php include "canada-map.php";?>
@@ -60,6 +60,8 @@
 <h6>International</h6>
 <br>
 <p class="u-center-text">
+
+    <?php include "world.php";?>
 <!--	<a href="GeneralWorkshops_SchedulesLocations-International.php"><img src="img/worldMap.jpg" height="178" width="339"></a>-->
 </p>
 

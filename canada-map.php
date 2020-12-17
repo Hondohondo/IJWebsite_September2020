@@ -14,8 +14,8 @@
 
     <style type="text/css">
         path{
-            stroke-linejoin:round;
-            stroke-linecap:round;
+            /*stroke-linejoin:round;*/
+            /*stroke-linecap:round;*/
         }
 
         #canada-map {
@@ -23,8 +23,15 @@
             /*position: absolute;*/
             /*top: 0;*/
             /*left: 0;*/
-            width: 100%;
-            height: 100%;
+            /*width: 100%;*/
+
+            width: 70%;
+            height: 40%;
+
+            /*margin: 0 auto;*/
+            margin: -2rem auto 0 auto;
+
+            /*height: 100%;*/
         }
 
         .canada {
@@ -37,7 +44,8 @@
         }
 
         a.canada:hover > * {
-            fill: #cc7832 !important;
+            /*fill: #cc7832 !important;*/
+            fill: teal !important;
         }
 
         #canada-box {
@@ -90,7 +98,7 @@
     </g>
     <path id="path67" fill="none" stroke="#A9A9A9" stroke-width="2" d="M385,593v55l36,45 M174,525h144l67,68h86l53,54v46"/>-->
 
-    <a class="canada" href="canada.php">
+    <a class="canada" href="GeneralWorkshops_SchedulesLocations-Canada.php">
 
         <defs id="defs1">
             <mask id="all">

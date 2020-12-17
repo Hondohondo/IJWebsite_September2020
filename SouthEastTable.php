@@ -106,7 +106,7 @@
           <td style="width: 14.1495%; height: 131px;">Nancy-Elizabeth Nimmich</td>
         </tr>
         <tr style="height: 131px;">
-          <td style="width: 8.57702%; height: 131px;">Georgia </td>
+          <td style="width: 8.57702%; height: 131px;">Georgia</td>
           <td style="width: 15.2521%; height: 131px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-SouthEast-SouthAtlantic.php#raleigh">Atlanta-Asheville</a></td>
           <td style="width: 7.46149%; height: 131px;">LI-ONL</td>
           <td class="day" style="width: 10.8379%; height: 131px;">January 29, 2021<span id="dayofweek">Friday</span></td>
@@ -118,6 +118,18 @@
           <td style="width: 11.6606%; height: 131px;">Dialogue House</td>
           <td style="width: 9.32848%; height: 131px;">330-998-6000 / 800-221-5844</td>
           <td style="width: 14.1495%; height: 131px;">Nancy-Elizabeth Nimmich</td>
+        </tr>
+        <tr style="height: 99px;">
+          <td style="width: 8.57702%; height: 99px;">Louisiana</td>
+          <td style="width: 15.2521%; height: 99px;"><a class="page-link" href="GeneralWorkshops_SchedulesLocations-SouthEast-SouthCentral.php#dallas">New
+              Orleans</a></td>
+          <td style="width: 7.46149%; height: 99px;">LC-ONL</td>
+          <td class="day" style="width: 10.8379%; height: 99px;"><br>April 9, 2021<span id="dayofweek">Friday</span></td>
+          <td class="day" style="width: 10.8988%; height: 99px;"><br>April 10,  2021<span id="dayofweek">Saturday</span></td>
+          <td style="width: 11.6606%; height: 99px;">Weekend / <br>Solo</td>
+          <td style="width: 11.6606%; height: 99px;">Dialogue House</td>
+          <td style="width: 9.32848%; height: 99px;">800-221-5844</td>
+          <td style="width: 14.1495%; height: 99px;">Dave Arbogast</td>
         </tr>
         <tr style="height: 131px;">
           <td style="width: 8.57702%; height: 131px;">Tennessee</td>

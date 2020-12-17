@@ -39,9 +39,57 @@
                     <div id="my-content" class="section-inside-content">
                         <h1><em>Intensive Journal</em> Workshops - Southcentral Region</h1>
                         <!-- <br><br> -->
-                        <h6>Fall, 2020 - Summer, 2021</h6>
+                        <h6>Winter - Summer, 2021</h6>
                         <p class="reg-flyer">Please have a copy of our <a class="page-link" href="southcentral-3p-1219.pdf"
                                target="_blank" rel="noopener">Southcentral regional flyer   - not ready</a></p>
+                        <h5>New Orleans, Louisiana:  Part 1 (Life Context) on April  9-10, 2021 - online</h5>
+                        <table class="table-credits table-praises" style="width: 79.3411%;">
+                            <tbody>
+                                <tr>
+                                    <th style="width: 31.9058%;">Workshops</th>
+                                    <th style="width: 50.5361%;">Schedule</th>
+                                    <th style="width: 22.2416%;">Tuition<sup>*</sup></th>
+                                </tr>
+                                <tr>
+                                    <td style="width: 31.9058%;">Life Context</td>
+                                    <td style="width: 50.5361%;">04/09: (1:30 -4:30 pm; 6-9 pm) <br>04/10: (9 am-12 pm;
+                                        1:30-4:30 pm)</td>
+                                    <td style="width: 22.2416%;">$ 225</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <h5>
+                            <!-- <br><br> -->
+                        </h5>
+                        <p>*  Includes <em>Intensive Journal</em> workbook.</p>
+                        <table class="table-credits table-praises">
+                            <tbody>
+                                <tr>
+                                    <th>Location</th>
+                                    <td>Workshops held online through Zoom. </td>
+                                </tr>
+                                <tr>
+                                    <th>Leader</th>
+                                    <td><strong><strong class>Dave Arbogast</strong> r</strong>ecently retired as an
+                                        English Curriculum and Digital Resources Specialist for the Loudoun County
+                                        Public School District in Northern Virginia.  Previously, he was a high school
+                                        English teacher and a cross country coach. Dave is affiliated with the National
+                                        Writing Project and is active in 12-Step recovery programs in Northern
+                                        Virginia.  Dave has led <i class>Intensive Journal </i>workshops in the
+                                        Mid-Atlantic region for six years.<strong><br></strong><strong><br></strong></td>
+                                </tr>
+                                <tr>
+                                    <th>Registration</th>
+                                    <td>Call <strong> 330-998-6000 or 800-221-5844 </strong> or write to <strong>Dialogue
+                                            House</strong> , 2245 E Enterprise Pkwy - #B1, Twinsburg, OH  44087-2348.
+                                        Email: info@intensivejournal.org Credit cards accepted. Make checks payable to
+                                        Dialogue House.  Minimum non-refundable deposit:  $100.  Full payment required
+                                        at least two weeks before the workshop.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <h5> </h5>
+                        <h5>  </h5>
                         <h5>Dallas-Houston-Austin, Texas: 3-Part Series on April  24-May 1, 2021 - online</h5>
                         <table class="table-credits table-praises">
                             <tbody>

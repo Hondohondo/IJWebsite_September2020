@@ -40,7 +40,7 @@
                     <div id="my-content" class="section-inside-content">
                         <h1><em>Intensive Journal</em> Workshops - Northern California Region</h1>
                         <!-- <br><br> -->
-                        <h6>Fall, 2020-Summer, 2021</h6>
+                        <h6>Winter-Summer, 2021</h6>
                         <p class="reg-flyer">Please have a copy of our <a class="page-link" href="ncal-3p-1219.pdf"
                                target="_blank" rel="noopener">Northern California regional flyer  (not ready yet)</a></p>
                         <br><br><br>
@@ -170,26 +170,25 @@
                             </tbody>
                         </table>
                         <br><br>
-                        <h5>San Francisco - East Bay (Danville): Life-Study (Advanced) Module - October 16-17, 2017</h5>
-                        <table class="table-credits table-praises">
+                        <h5>San Francisco -Sacramento: Life-Study (Advanced) Module - <br>                     
+                            November 13-14, 2021 - Advanced Preparation Required</h5>
+                        <table class="table-credits table-praises" style="width: 82.8245%;">
                             <tbody>
                                 <tr>
-                                    <th>Workshop (12 hrs)</th>
-                                    <th>Schedule</th>
-                                    <th>Commuters<sup>#</sup></th>
-                                    <th>Resident<sup>*</sup></th>
+                                    <th style="width: 38.0928%;">Workshop (12 hrs)</th>
+                                    <th style="width: 52.9301%; text-align: left;">Schedule</th>
+                                    <th style="width: 33.3751%; text-align: left;"><sup>Tuition*</sup></th>
                                 </tr>
                                 <tr>
-                                    <td>Life Study+</td>
-                                    <td>10/16: (1:30-5:30 pm; 7-9 pm) <br>10/17: (9 am-12 pm; 1:30-5 pm)</td>
-                                    <td>$ 305</td>
-                                    <td>$ 365</td>
+                                    <td style="width: 38.0928%;">Life Study+</td>
+                                    <td style="width: 52.9301%;">11/13: (9 am-12:30 pm; 2-5 pm) <br>11/14: (9 am-12 pm;
+                                        1:30-4:30 pm)</td>
+                                    <td style="width: 33.3751%;">$ 225</td>
                                 </tr>
                             </tbody>
                         </table>
                         <!-- <br><br> -->
-                        <p><sup>#</sup> Includes tuition and one meal daily. <br><sup>*</sup>Includes tuition, single
-                            bedroom (private bath) and 3 meals daily.</p>
+                        <p><sup>*</sup>Includes Intensive Journal workbook.  </p>
                         <p>+ Life-Study module is distinct from the first three modules. In the first three modules,
                             you are learning how to use the <em>Intensive Journal</em> method in your own life. In
                             Life-study, you are first studying the life of a person whose life has meaning for you and
@@ -205,9 +204,7 @@
                             <tbody>
                                 <tr>
                                     <th>Location</th>
-                                    <td><strong> San Damiano Retreat Center</strong> is located in Danville in the East
-                                        Bay in the hills of the San Ramon Valley and is accessible from I-680. The
-                                        center has beautiful gardens. Bedrooms have private bath.</td>
+                                    <td><strong>Workshop held online through Zoom</strong>.</td>
                                 </tr>
                                 <tr>
                                     <th>Leader</th>
@@ -221,9 +218,10 @@
                                 <tr>
                                     <th>Registration</th>
                                     <td>Call <strong> 330-998-6000 or 800-221-5844 </strong> or write to <strong>Dialogue
-                                            House</strong> , 23400 Mercantile Road, Suite 2, Beachwood, OH 44122.
-                                        Email: info@intensivejournal.org Credit cards accepted. Make checks payable to
-                                        Dialogue House. Minimum non-refundable deposit: commuters: $50; residents: $100</td>
+                                            House</strong> , 2245 E Enterprise Pkwy - #B1, Twinsburg, OH  44087.  
+                                        Email: info@intensivejournal.org Credit cards accepted. Make checks payable to 
+                                        Dialogue House.   Minimum non-refundable deposit:  $100.   Full payment
+                                        required at least two weeks in advance of the workshop.</td>
                                 </tr>
                             </tbody>
                         </table>

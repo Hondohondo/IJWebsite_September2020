@@ -131,7 +131,7 @@
                             </tbody>
                         </table>
                         <br><br>
-                        <h5 id="carefree">Phoenix-Carefree, Arizona: 3-Part Series - March 20-27, 2021 - online</h5>
+                        <h5 id="carefree">Phoenix-Tucson, Arizona: 3-Part Series - March 20-27, 2021 - online</h5>
                         <table class="table-credits table-praises" style="width: 92.0662%;">
                             <tbody>
                                 <tr>

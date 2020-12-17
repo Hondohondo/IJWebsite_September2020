@@ -44,18 +44,18 @@
                         <p class="reg-flyer">Please have a copy of our <a class="page-link" href="midwest-east-3p-1219.pdf"
                                target="_blank" rel="noopener">Midwest-East regional flyer</a>(Not Ready Yet)</p>
                         <h5 id="chicago">Detroit - Grand Rapids, Michigan:  Intro Workshop on May 15-16, 2021 Online</h5>
-                        <table class="table-credits table-praises" style="width: 74.4627%;">
+                        <table class="table-credits table-praises" style="width: 77.705%;">
                             <tbody>
                                 <tr>
-                                    <th style="width: 31.2606%;">Workshop (12 hrs)</th>
-                                    <th style="width: 50.9442%;">Schedule</th>
-                                    <th style="width: 17.7103%;">Tuition*</th>
+                                    <th style="width: 33.4994%; text-align: left;">Workshop (12 hrs)</th>
+                                    <th style="width: 48.7054%; text-align: left;">Schedule</th>
+                                    <th style="width: 22.0635%;">Tuition*</th>
                                 </tr>
                                 <tr>
-                                    <td style="width: 31.1302%;">Life Context</td>
-                                    <td style="width: 50.7351%;">11/07: (9 am-12:30 pm; 2-5 pm)<br>11/08: (9 am-12 pm;
+                                    <td style="width: 33.4994%;">Life Context</td>
+                                    <td style="width: 48.7054%;">5/15: (9 am-12:30 pm; 2-5 pm)<br>5/16: (9 am-12 pm;
                                         1:30-4:30 pm)</td>
-                                    <td style="width: 17.6378%;">$ 225</td>
+                                    <td style="width: 22.0635%;">$ 225</td>
                                 </tr>
                             </tbody>
                         </table>

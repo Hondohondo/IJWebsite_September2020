@@ -40,7 +40,7 @@
                     <div id="my-content" class="section-inside-content">
                         <h1><em id="victoria">Intensive Journal</em> Workshops - Canada</h1>
                         <!-- <br><br> -->
-                        <h6> Winter - Summer, 2021 </h6>
+                        <h6> Winter - Summer, 2021</h6>
                         <h5> </h5>
                         <h5 id="toronto">Calgary, Alberta:  3-Part Series Starts on 16-17 January, 2021-  online - new
                             dates</h5>
@@ -162,12 +162,11 @@
                                     <th>Leaders</th>
                                     <td>
                                         <p><strong> </strong></p>
-                                        <p><strong>Bill Israel </strong>is a long-time practitioner of the <em>Intensive
-                                                Journal</em> method, with 40 years of experience in effecting his own
-                                            life transitions. Bill worked as an ordained pastor, a group and family
-                                            therapist, and then as a professional human resource trainer and
-                                            consultant. He now conducts a private counseling and consulting practice in
-                                            Victoria, B.C., working as a Life Transition Facilitator.</p>
+                                        <p><strong> Nancy-Elizabeth Nimmich is a clinical social worker in Virginia.
+                                                Her professional career has been as a psychotherapist, educator,
+                                                hospice social worker and workshop presenter. She began attending <em>Intensive
+                                                    Journal</em> workshops over 35 year ago and has been leading them
+                                                for the past 10 years.</strong></p>
                                     </td>
                                 </tr>
                                 <tr>

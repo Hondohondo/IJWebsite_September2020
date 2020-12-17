@@ -41,10 +41,10 @@
         <div id="my-content" class="section-inside-content cms-editable">
           <h1><em>Intensive Journal</em> Workshops - Northwest Region</h1>
           <!-- <br><br> -->
-          <h6>Fall, 2020 - Spring, 2021</h6>
+          <h6>Winter - Spring, 2021</h6>
           <p class="reg-flyer">Please have a copy of our <a class="page-link" href="northwest-3p-1119.pdf" target="_blank"
                rel="noopener">Northwest regional flyer      (not ready yet)</a></p>
-          <h5 id="seattle">Seattle, Washington: 3-Part Series Begins September 19-20, 2020 - Online</h5>
+          <h5 id="seattle">Seattle, Washington: 3-Part Series  Starts on March 6-7,  2021 - Online</h5>
           <!-- <br><br> -->
           <table class="table-credits table-praises">
             <tbody>
@@ -55,17 +55,17 @@
               </tr>
               <tr>
                 <td>Life Context</td>
-                <td>09/19: (9 am-12:30 pm; 2-5 pm) <br>09/20: (9 am-12 pm; 1:30-4:30 pm)</td>
+                <td>03/06:  (9 am-12:30 pm; 2-5 pm) <br>03/07:  (9 am-12 pm; 1:30-4:30 pm)</td>
                 <td>$225</td>
               </tr>
               <tr>
                 <td>Depth Contact</td>
-                <td>10/10: (9 am-12:30 pm; 2-5 pm) <br>10/11: (9 am-12 pm; 1:30-4:30 pm)</td>
+                <td>03/27:  (9 am-12:30 pm; 2-5 pm) <br>03/28:  (9 am-12 pm; 1:30-4:30 pm)</td>
                 <td>$210</td>
               </tr>
               <tr>
                 <td>Life Integration</td>
-                <td>11/07: (9 am-12:30 pm; 2-5 pm) <br>11/08: (9 am-12 pm; 1:30-4:30 pm)</td>
+                <td>04/17:  (9 am-12:30 pm; 2-5 pm) <br>04/18:  (9 am-12 pm; 1:30-4:30 pm)</td>
                 <td>$210</td>
               </tr>
               <tr>
@@ -153,7 +153,7 @@
             </tbody>
           </table>
           <p><br><br><br></p>
-          <h5 id="salem2">Portland, Oregon: 3 -Part Series Starts on October 14, 2020 - online</h5>
+          <h5 id="salem2">Portland, Oregon: 3 -Part Series Starts on March 17, 2021 - online</h5>
           <table class="table-credits table-praises">
             <tbody>
               <tr>
@@ -163,17 +163,17 @@
               </tr>
               <tr>
                 <td>Life Context</td>
-                <td>10/14: (9 am-12:30 pm; 2-5 pm) <br>10/15: (9 am-12 pm; 1:30-4:30 pm)</td>
+                <td>03/17: (9 am-12:30 pm; 2-5 pm) <br>03/18: (9 am-12 pm; 1:30-4:30 pm)</td>
                 <td>$225</td>
               </tr>
               <tr>
                 <td>Depth Contact</td>
-                <td>10/21: (9 am-12:30 pm; 2-5 pm) <br>10/22: (9 am-12 pm; 1:30-4:30 pm)</td>
+                <td>03/24: (9 am-12:30 pm; 2-5 pm) <br>03/25: (9 am-12 pm; 1:30-4:30 pm)</td>
                 <td>$210</td>
               </tr>
               <tr>
                 <td>Life Integration</td>
-                <td>10/28: (9 am-12:30 pm; 2-5 pm) <br>10/29: (9 am-12 pm; 1:30-4:30 pm)</td>
+                <td>03/31: (9 am-12:30 pm; 2-5 pm) <br>04/01: (9 am-12 pm; 1:30-4:30 pm)</td>
                 <td>$210</td>
               </tr>
               <tr>
@@ -207,8 +207,64 @@
               </tr>
             </tbody>
           </table>
-          <p><br><br><br></p>
-          <h5 id="salem3">Portland, Oregon: Life Study Workshop on November 16-17, 2020 - online<br>                                                       
+          <p><br><br></p>
+          <h5 id="salem2">Portland, Oregon: 3 -Part Series Starts on May 5, 2021 - online</h5>
+          <table class="table-credits table-praises">
+            <tbody>
+              <tr>
+                <th>Workshops</th>
+                <th>Schedule</th>
+                <th>Tuition<sup>*</sup></th>
+              </tr>
+              <tr>
+                <td>Life Context</td>
+                <td>05/05: (9 am-12:30 pm; 2-5 pm) <br>05/06: (9 am-12 pm; 1:30-4:30 pm)</td>
+                <td>$225</td>
+              </tr>
+              <tr>
+                <td>Depth Contact</td>
+                <td>05/12: (9 am-12:30 pm; 2-5 pm) <br>05/13: (9 am-12 pm; 1:30-4:30 pm)</td>
+                <td>$210</td>
+              </tr>
+              <tr>
+                <td>Life Integration</td>
+                <td>05/19: (9 am-12:30 pm; 2-5 pm) <br>05/20: (9 am-12 pm; 1:30-4:30 pm)</td>
+                <td>$210</td>
+              </tr>
+              <tr>
+                <td>All Three Workshops</td>
+                <td> </td>
+                <td>$625</td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            <!-- <br><br> -->
+          </p>
+          <p>* Tuition only.  Life Context workshop includes the<em> Intensive Journal</em> workbook.</p>
+          <table class="table-credits table-praises">
+            <tbody>
+              <tr>
+                <th>Location</th>
+                <td>Online workshops through Zoom.</td>
+              </tr>
+              <tr>
+                <th>Leader</th>
+                <td><strong>Evelyn Wemhoff</strong> is a presenter of retreats and workshops at Shalom at the Monastery
+                  in Mt Angel, Oregon that offers personal and spiritual growth programs. She is a spiritual director,
+                  retired licensed counselor, and was formerly director of WomanSpirit Center in the Seattle area that
+                  offered programs for women seeking to develop their lives. Evelyn has led <em>Intensive Journal</em>
+                  workshops for over 30 years.</td>
+              </tr>
+              <tr>
+                <th>Registration</th>
+                <td>Call <strong>971-273-0700 </strong>or write to: Evelyn Wemhoff, PO Box 21083, Keizer, OR 97303.
+                  Make check payable to Evelyn Wemhoff. email: evelynhwemhoff@comcast.net.  Minimum non-refundable
+                  deposit:  $100.  Full payment required at least 2 weeks in advance of workshop.</td>
+              </tr>
+            </tbody>
+          </table>
+          <h5 id="salem3"><br><br>Portland, Oregon: Life Study Workshop  TBA - online<br>                                                       
             Advanced Preparation Required</h5>
           <table class="table-credits table-praises">
             <tbody>
@@ -219,7 +275,7 @@
               </tr>
               <tr>
                 <td>Life Study</td>
-                <td>11/16:  (9 am-12:30 pm; 2-5 pm)<br>11/17:  (9 am-12 pm; 1:30-4:30  pm)</td>
+                <td>TBA:  (9 am-12:30 pm; 2-5 pm)<br>TBA:  (9 am-12 pm; 1:30-4:30  pm)</td>
                 <td>$225</td>
               </tr>
             </tbody>

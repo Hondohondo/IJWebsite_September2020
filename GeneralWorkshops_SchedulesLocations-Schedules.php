@@ -21,9 +21,9 @@
 
                 <div class="section-inside-content schedules">
 
-                  <h1>Schedules and Locations</h1>
+                  <h1>2 Simple Steps to Find a Workshop</h1>
 
-                  <h2 class="orange">Important message about online workshops</h2>
+                <!--  <h2 class="orange">Important message about online workshops</h2>
 
                   <p class="u-margin-bottom-small-1">
                   We are offering online workshops through the Zoom teleconferencing service.  We list the "location" because we are encouraging you  to sign up for a program in your geographic area.   This policy will help to create a local feel for the program that exists in an in-person program.  Naturally, if you do not live in an area where a workshop is offered, or the dates in your area do not work for you, then sign up for a program that does.
@@ -35,7 +35,27 @@
 
                   <p class="u-margin-bottom-small-1">
                     Please register early.  We have to ship you the Intensive Journal workbook prior to the conference. Thank you for your cooperation.
-                  </p>
+                  </p>-->
+
+<!--                    <p class="u-margin-bottom-small-1">-->
+<!--                       <b>1.</b> Learn how to select an online workshop-->
+<!--                    </p>-->
+
+                    <p class="u-margin-bottom-small-1 orange strong">
+                       <b>1.</b>   Click on the region that you want to investigate. You will then see a calendar listing of workshops by location with the dates, sponsor, telephone number to register, and leader.
+<!--                       <b>1.</b>   Click on the <b>region</b>  that you want to investigate. You will then see a calendar listing of workshops by location with the dates, sponsor, telephone number to register, and leader.-->
+                    </p>
+
+                    <p class="u-margin-bottom-small-1 orange strong">
+                       <strong>2.</strong>   Click on the city of the workshop that is of interest.  This will take you to the detail page with the dates, hours, description of the leader, and how to register.
+<!--                       <strong>2.</strong>   Click on the <b>city</b>  of the workshop that is of interest.  This will take you to the detail page with the dates, hours, description of the leader, and how to register.-->
+                    </p>
+
+                    <p class="u-margin-bottom-small-1">
+                        Please register early. We have to ship you the Intensive Journal workbook prior to the conference. Thank you for your cooperation.
+                    </p>
+
+
 
 <br><br>
   <h6>United States</h6>

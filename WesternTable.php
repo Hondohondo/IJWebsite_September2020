@@ -12,14 +12,7 @@
   </head>
   <body>
     <?php include "headhtml.php";?>
-
     <div id="content" class="cms-editable">
-      <div class="wrapper1">
-        <div class="div1"> </div>
-      </div>
-      <!-- wrapper1 and 2 -----  for horizontal scroll-->
-      <p> </p>
-      <!--    <table id="test-table" class="table-credits table-praises table-schedules table wrapper2">-->
       <table id="test-table" class="table-credits table-praises table-schedules table" style="width: 59.4582%">
         <thead>
           <tr>
@@ -207,7 +200,7 @@
                 >San Francisco-Sacramento</a
               >
             </td>
-            <td style="width: 8.47471%">LS</td>
+            <td style="width: 8.47471%">LS-ONL</td>
             <td class="day" style="width: 10.7275%">November 13, 2021<span id="dayofweek">Saturday</span></td>
             <td class="day" style="width: 10.7434%">November 14, 2021<span id="dayofweek">Sunday</span></td>
             <td style="width: 10.8323%">Weekend / Solo</td>

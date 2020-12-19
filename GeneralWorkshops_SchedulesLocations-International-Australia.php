@@ -60,7 +60,7 @@
                   </tr>
                   <tr>
                     <td style="width: 32.8264%">Depth Contact</td>
-                    <td style="width: 52.1966%">13 Mar 21 (9:30 am-4:00 pm)<br />14 Mar 21 (9:30 am-4:00 pm)</td>
+                    <td style="width: 52.1966%">13 Mar 21 (9:00 am-4:30 pm)<br />14 Mar 21 (9:00 am-4:30 pm)</td>
                     <td style="width: 20.3832%">$160++</td>
                   </tr>
                 </tbody>

@@ -12,7 +12,7 @@
   <?php include "phone-nav.php";?>
 
   <p class="covid-online">
-          Due to Covid,practically all of our workshops are offered online. See <a class="covid-link" href="GeneralWorkshops_SchedulesLocations-Schedules.php">our schedule! &rarr;</a>
+          Due to Covid, practically all of our workshops are offered online. See <a class="covid-link" href="GeneralWorkshops_SchedulesLocations-Schedules.php">our schedule! &rarr;</a>
       </p>
 
 

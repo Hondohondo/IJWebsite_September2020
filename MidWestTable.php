@@ -14,7 +14,7 @@
     <?php include "headhtml.php"; ?>
 
     <div id="content" class="cms-editable">
-      <p> </p>
+
       <table class="table-credits table-praises table-schedules table" style="width: 1642px">
         <thead>
           <tr>

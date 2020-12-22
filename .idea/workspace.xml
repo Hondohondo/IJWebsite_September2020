@@ -23,26 +23,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea4563f3-2394-4209-90fa-029c0a868a1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/modules_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workshop_steps.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homepage.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Canada.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Canada.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International-Australia.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International-Australia.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-MidWest.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-MidWest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Schedules.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Schedules.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-SouthEast.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-SouthEast.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidWestTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/MidWestTable.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WesternTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/WesternTable.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/headhtml.php" beforeDir="false" afterPath="$PROJECT_DIR$/headhtml.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/headhtml2.php" beforeDir="false" afterPath="$PROJECT_DIR$/headhtml2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/modules_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/abstracts/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/abstracts/variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/base/utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/utilities.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/layout/grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/grid.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/pages/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/pages/home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshop_steps.php" beforeDir="false" afterPath="$PROJECT_DIR$/workshop_steps.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +135,10 @@
       <workItem from="1607799338256" duration="6131000" />
       <workItem from="1608059717921" duration="20241000" />
       <workItem from="1608404210804" duration="6580000" />
-      <workItem from="1608411086836" duration="361000" />
+      <workItem from="1608411086836" duration="834000" />
+      <workItem from="1608412030019" duration="2185000" />
+      <workItem from="1608414904306" duration="597000" />
+      <workItem from="1608663872393" duration="13250000" />
     </task>
     <task id="LOCAL-00001" summary="Added new map">
       <created>1607815536605</created>
@@ -164,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608240493840</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="All workshop steps updated">
+      <created>1608411851576</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608411851576</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,7 +191,8 @@
     <MESSAGE value="Added new map" />
     <MESSAGE value="Canada SVG map" />
     <MESSAGE value="Map completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Map completed" />
+    <MESSAGE value="All workshop steps updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="All workshop steps updated" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

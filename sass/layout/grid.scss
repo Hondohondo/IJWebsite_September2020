@@ -80,6 +80,14 @@
         width: calc( (100% - 4 * #{$gutter-horizontal}) / 5 );
     }
 
+    .col-1-of-two {
+
+    }
+
+    .col-2-of-two {
+
+    }
+
 }
 
 .area-map {
@@ -99,6 +107,8 @@
 }
 
 .covid-online {
+    //display: none;
+
     background-color: #00aced;
     position: fixed;
     z-index: 9999;
@@ -118,7 +128,8 @@
     a:link,
     a:visited {
         text-decoration: none;
-        color: #EF4C24;
+        //color: #EF4C24;
+        color: #e67e22;
         //color: inherit;
         font-weight: bold;
         border-bottom: 1px solid transparent;
@@ -228,4 +239,115 @@
 
 
     // My added grids --- ends here
+}
+
+//Homepage - New Flexbox Layout on Spans
+.bullets {
+
+    display: flex;
+    justify-content: center;
+
+    width: 100%;
+
+    font-weight: bold;
+    font-size: 1.8rem;
+    font-size: 2rem;
+    font-size: 2.2rem;
+
+    color: #5e6f91;
+    color: teal;
+
+
+    .bullet-1 {
+        //background: teal;
+        flex: 0 1 45%;
+        //flex: 1 1 50%;
+
+    }
+
+    .bullet-2 {
+        //background: #00aced;
+        flex: 0 1 40%;
+        //flex: 1 1 50%;
+
+    }
+    .bullet-3 {
+        flex: 0 1 45%;
+        //background: #9da6b0;
+
+    }
+    .bullet-4 {
+        flex: 0 1 40%;
+
+    }
+}
+
+.tagline {
+    //font-weight: 300;
+    //margin-top: 1rem;
+    margin: 3rem 0;
+    display: block;
+    color: #04266b;
+    font-size: 2.6rem;
+    font-weight: bold;
+    //color: #5e6f91;
+
+    font-style: italic;
+    font-family: "Cardo", serif;
+}
+
+.sub-heading {
+    font-size: 3rem;
+    font-weight: 500;
+    font-weight: bold;
+    letter-spacing: normal;
+}
+
+.ira-photo-container {
+    // text-align: right;
+    // padding-right: 3%;
+
+    //text-align: right;
+    //padding-right: 3%;
+    margin-top: 10rem;
+
+    @include respond(big-phone1){
+        margin-top: 6rem;
+    }
+
+    @include respond(tab-port2){
+        text-align: center;
+    }
+    @include respond(tab-port){
+        text-align: right;
+    }
+
+    @include respond(phone1){
+        text-align: center;
+    }
+
+    .ira-image {
+        // width: 40%;
+        width: 110%;
+        @include respond(tab-land){
+            width: 75%;
+        }
+
+        @include respond(tab-port2){
+            width: 40%;
+        }
+
+        @include respond(tab-port){
+            width: 75%;
+        }
+
+        @include respond(big-phone1){
+            width: 80%;
+        }
+
+
+        @include respond(phone1){
+            width: 50%;
+        }
+    }
 }

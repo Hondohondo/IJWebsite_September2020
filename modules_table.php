@@ -1,4 +1,4 @@
-<h6 class="u-margin-bottom-small">Module Codes</h6>
+<h6 id="moduletable" class="u-margin-bottom-small">Module Codes</h6>
 <table class="table-credits table-praises table-schedules">
     <tbody>
     <tr>

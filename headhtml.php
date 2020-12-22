@@ -11,7 +11,7 @@
 
     <!-- <link rel="stylesheet" href="css/icon-font.css"> -->
 <!--    <link rel="stylesheet" href="css/style.css?v=1.1">-->
-    <link rel="stylesheet" href="sass/main.css?v=1.3">
+    <link rel="stylesheet" href="sass/main.css?v=1.5">
     <!-- <link rel="shortcut icon" type="image/png" href="img/favicon.png"> -->
 
 

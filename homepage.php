@@ -24,32 +24,6 @@
 
             <div class="col-3-of-3">
 
-
-
-            <!--  <header class="header-main">
-
-                <div class="text-box">
-                  <h1 class="heading-primary">
-                     <span class="heading-primary-main">Outdoors</span>
-                    <span class="heading-primary-sub">is where life happens</span>
-                    <span class="heading-primary-main">
-                      Experience the <em><em>Intensive Journal</em> </em><sup>&reg;</sup>  Method <br> at our Workshops <br> Conducted in the USA, Canada and Overseas <br> by Certified Leaders
-                    </span>
-                    <span class="heading-primary-sub">A 50 year track record of helping thousands!</span>
-                  </h1>
-
-                  <a class="btan btan-full" href="Intensive_quick-summary.php">Learn more</a>
-                  <a class="btan btan-ghost" href="GeneralWorkshops_SchedulesLocations-Schedules.php">Workshops</a>
-
-                   <p class="tagline2">
-Created by Ira Progoff, PhD - a recognized pioneer <br> in applying
-his unique approaches of human development <br> to provide you with
-an amazing process to develop your life
-</p>
-                </div>
-
-              </header>-->
-
                 <section class="section-content u-center-text">
 
                     <div class="row">
@@ -127,26 +101,9 @@ an amazing process to develop your life
 
 
                 </section>
-             <!--  <section class="section-content">
 
-                    <div class="hero-text-box">
-                      <h1 class="hero">
-                          Experience the method at our workshops <br> conducted by certified leaders<br>
-                          held throughout USA, Canada and overseas <br>
-                          <span class="tagline">A 50 year track record of helping thousands!</span>
-                      </h1>
-                      <a class="btan btan-full" href="#">Learn more</a>
-                      <a class="btan btan-ghost" href="#">Workshops</a>
 
-                      <p class="tagline2">
-  Created by Ira Progoff, PhD - a recognized pioneer <br> in applying
-   his unique approaches of human development <br> to provide you with
-    an amazing process to develop your life
-</p>
-                    </div>
-                </section> -->
-
-              <section class="above-the-fold">
+             <!-- <section class="above-the-fold">
 
                 <div class="row">
                   <div class="col-1-of-2">
@@ -165,7 +122,6 @@ an amazing process to develop your life
                     and cumulative work.
                     <cite>Ira Progoff, Ph.D.</cite>
                     </blockquote>
-                    <!-- <p>Ira Progoff, Ph.D.</p> -->
                     <p class="tag">
                       The method was created by Ira Progoff, PhD - a recognized pioneer in applying
                        his unique approaches of human development to provide you with
@@ -176,10 +132,7 @@ an amazing process to develop your life
                 </div>
 
 
-              </section>
-
-
-            
+              </section>-->
 
 
                 <section class="section-workshop">

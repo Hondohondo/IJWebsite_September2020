@@ -74,6 +74,23 @@
 
     .col-3-of-4 {
         width: calc( 3 * ((100% - 3 * #{$gutter-horizontal}) / 4 ) + 2 * #{$gutter-horizontal} );
+
+        @include respond(tab-port1){
+            width: 100%;
+            //margin-bottom: 2.5rem;
+        }
+
+        @include respond(tab-port){
+            width: calc( 3 * ((100% - 3 * #{$gutter-horizontal}) / 4 ) + 2 * #{$gutter-horizontal} );
+        }
+
+        @include respond(phone1){
+            padding-left: 2rem;
+        }
+
+        @include respond(phone){
+            width: 100%;
+        }
     }
 
     .col-1-of-5 {
@@ -111,10 +128,9 @@
 
     background-color: #00aced;
     position: fixed;
-    z-index: 9999;
+    z-index: 7999;
     width: 100%;
     text-align: center;
-
     //position: relative;
     //padding: 20px 0;
     padding: 5px 0;
@@ -122,8 +138,11 @@
     background: teal;
     font-weight: 500;
     color: #fff;
-
     background-color: #008080;
+
+    @include respond(phone){
+        font-size: 1.4rem !important;
+    }
 
     a:link,
     a:visited {
@@ -296,12 +315,7 @@
     font-family: "Cardo", serif;
 }
 
-.sub-heading {
-    font-size: 3rem;
-    font-weight: 500;
-    font-weight: bold;
-    letter-spacing: normal;
-}
+
 
 .ira-photo-container {
     // text-align: right;
@@ -310,6 +324,17 @@
     //text-align: right;
     //padding-right: 3%;
     margin-top: 10rem;
+
+    @include respond(tab-port1){
+        display: none;
+    }
+    @include respond(tab-port){
+        display: block;
+    }
+
+    @include respond(phone){
+        display: none;
+    }
 
     @include respond(big-phone1){
         margin-top: 6rem;

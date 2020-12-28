@@ -1650,6 +1650,26 @@ hr {
 .row .col-3-of-4 {
   width: calc( 3 * ((100% - 3 * 6rem) / 4 ) + 2 * 6rem );
 }
+@media (max-width: 62.5em) {
+  .row .col-3-of-4 {
+    width: 100%;
+  }
+}
+@media (max-width: 56.25em) {
+  .row .col-3-of-4 {
+    width: calc( 3 * ((100% - 3 * 6rem) / 4 ) + 2 * 6rem );
+  }
+}
+@media (max-width: 43.75em) {
+  .row .col-3-of-4 {
+    padding-left: 2rem;
+  }
+}
+@media (max-width: 37.5em) {
+  .row .col-3-of-4 {
+    width: 100%;
+  }
+}
 .row .col-1-of-5 {
   width: calc( (100% - 4 * 6rem) / 5 );
 }
@@ -1671,7 +1691,7 @@ hr {
 .covid-online {
   background-color: #00aced;
   position: fixed;
-  z-index: 9999;
+  z-index: 7999;
   width: 100%;
   text-align: center;
   padding: 5px 0;
@@ -1680,6 +1700,11 @@ hr {
   font-weight: 500;
   color: #fff;
   background-color: #008080;
+}
+@media (max-width: 37.5em) {
+  .covid-online {
+    font-size: 1.4rem !important;
+  }
 }
 .covid-online a:link,
 .covid-online a:visited {
@@ -1766,15 +1791,23 @@ hr {
   font-family: "Cardo", serif;
 }
 
-.sub-heading {
-  font-size: 3rem;
-  font-weight: 500;
-  font-weight: bold;
-  letter-spacing: normal;
-}
-
 .ira-photo-container {
   margin-top: 10rem;
+}
+@media (max-width: 62.5em) {
+  .ira-photo-container {
+    display: none;
+  }
+}
+@media (max-width: 56.25em) {
+  .ira-photo-container {
+    display: block;
+  }
+}
+@media (max-width: 37.5em) {
+  .ira-photo-container {
+    display: none;
+  }
 }
 @media (max-width: 50em) {
   .ira-photo-container {
@@ -2450,8 +2483,12 @@ hr {
 }
 @media (max-width: 31.25em) {
   .section-content {
-    background-image: linear-gradient(80deg, rgba(255, 255, 255, 0.9) 50%, rgba(255, 255, 255, 0.9) 25%, transparent 120%), url(../img/ira2.jpg);
-    background-position: right;
+    /*  background-image: linear-gradient(80deg,
+                      rgba(255, 255, 255, 0.9) 50%,
+                       rgba(255, 255, 255, 0.9) 25%,
+                       transparent 120%),
+                       url(../img/ira2.jpg);
+    background-position: right;*/
   }
 }
 @media (max-width: 28.125em) {
@@ -2474,27 +2511,22 @@ hr {
     height: 120vh;
   }
 }
-@media (max-width: 62.5em) {
-  .section-content .hero-text-box {
-    left: 2.5rem;
-  }
-}
 @media (max-width: 56.25em) {
   .section-content .hero-text-box {
-    left: 6rem;
-    top: 12rem;
+    /*  left: 6rem;
+      top: 12rem;*/
   }
 }
 @media (max-width: 50em) {
   .section-content .hero-text-box {
-    left: 5rem;
-    top: 10rem;
+    /* left: 5rem;
+     top: 10rem;*/
   }
 }
 @media (max-width: 46.875em) {
   .section-content .hero-text-box {
-    left: 4rem;
-    top: 9rem;
+    /*  left: 4rem;
+      top: 9rem;*/
   }
 }
 @media (max-width: 37.5em) {
@@ -2509,59 +2541,116 @@ hr {
   }
 }
 .section-content .hero-text-box h1 {
-  color: #fff;
-  color: #5d6e73;
-  color: #5e6f91;
   color: #04266b;
   font-family: "Cardo", serif;
   color: midnightblue;
-  font-size: 2.6rem;
   font-size: 3.4rem;
   font-weight: bold;
   letter-spacing: 1px;
   margin-bottom: 4.5rem;
 }
+@media (max-width: 93.75em) {
+  .section-content .hero-text-box h1 {
+    font-size: 3.2rem;
+  }
+}
 @media (max-width: 87.5em) {
   .section-content .hero-text-box h1 {
-    font-size: 2.3rem;
+    font-size: 3rem;
   }
 }
 @media (max-width: 81.25em) {
   .section-content .hero-text-box h1 {
-    font-size: 2.1rem;
+    font-size: 2.8rem;
   }
 }
 @media (max-width: 75em) {
   .section-content .hero-text-box h1 {
-    font-size: 2rem;
+    font-size: 2.6rem;
   }
 }
 @media (max-width: 68.75em) {
   .section-content .hero-text-box h1 {
-    font-size: 1.8rem;
+    font-size: 2.4rem;
+  }
+}
+@media (max-width: 62.5em) {
+  .section-content .hero-text-box h1 {
+    font-size: 2.8rem;
   }
 }
 @media (max-width: 56.25em) {
   .section-content .hero-text-box h1 {
-    font-size: 2.1rem;
+    padding-top: 2.5rem;
   }
 }
-@media (max-width: 46.875em) {
+@media (max-width: 50em) {
   .section-content .hero-text-box h1 {
-    font-size: 1.8rem;
+    font-size: 2.4rem;
+  }
+}
+@media (max-width: 43.75em) {
+  .section-content .hero-text-box h1 {
+    font-size: 2.2rem;
   }
 }
 @media (max-width: 37.5em) {
   .section-content .hero-text-box h1 {
-    font-size: 1.65rem;
+    font-size: 2.4rem;
     margin-bottom: 3rem;
   }
 }
 @media (max-width: 31.25em) {
   .section-content .hero-text-box h1 {
-    font-weight: 400;
+    /* font-weight: 400;
     font-size: 2.2rem;
-    margin-bottom: 2.5rem;
+    margin-bottom: 2.5rem;*/
+  }
+}
+.section-content .hero-text-box h1 .sub-heading {
+  /*font-size: 3rem;
+  font-weight: 500;
+  font-weight: bold;
+  letter-spacing: normal;*/
+}
+@media (max-width: 93.75em) {
+  .section-content .hero-text-box h1 .sub-heading {
+    font-size: 3rem;
+  }
+}
+@media (max-width: 81.25em) {
+  .section-content .hero-text-box h1 .sub-heading {
+    font-size: 2.6rem;
+  }
+}
+@media (max-width: 75em) {
+  .section-content .hero-text-box h1 .sub-heading {
+    font-size: 2.4rem;
+  }
+}
+@media (max-width: 68.75em) {
+  .section-content .hero-text-box h1 .sub-heading {
+    font-size: 2.2rem;
+  }
+}
+@media (max-width: 62.5em) {
+  .section-content .hero-text-box h1 .sub-heading {
+    font-size: 2.6rem;
+  }
+}
+@media (max-width: 50em) {
+  .section-content .hero-text-box h1 .sub-heading {
+    font-size: 2.2rem;
+  }
+}
+@media (max-width: 43.75em) {
+  .section-content .hero-text-box h1 .sub-heading {
+    font-size: 2rem;
+  }
+}
+@media (max-width: 37.5em) {
+  .section-content .hero-text-box h1 .sub-heading {
+    font-size: 2.2rem;
   }
 }
 .section-content .hero-text-box h1 .tagline {

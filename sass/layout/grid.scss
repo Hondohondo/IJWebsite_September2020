@@ -270,11 +270,34 @@
 
     font-weight: bold;
     font-size: 1.8rem;
-    font-size: 2rem;
+
     font-size: 2.2rem;
 
     color: #5e6f91;
     color: teal;
+
+    @include respond(desktop2){
+        font-size: 2rem;
+    }
+
+    @include respond(tab-land){
+        font-size: 1.8rem;
+    }
+    @include respond(tab-port2){
+        font-size: 1.6rem;
+    }
+
+    @include respond(tab-port1){
+        font-size: 2rem;
+    }
+
+    @include respond(big-phone1){
+        font-size: 1.8rem;
+    }
+
+    @include respond(phone1){
+        font-size: 1.6rem;
+    }
 
 
     .bullet-1 {
@@ -304,7 +327,8 @@
 .tagline {
     //font-weight: 300;
     //margin-top: 1rem;
-    margin: 3rem 0;
+    //margin: 3rem 0;
+    margin: 2rem 0;
     display: block;
     color: #04266b;
     font-size: 2.6rem;
@@ -313,6 +337,28 @@
 
     font-style: italic;
     font-family: "Cardo", serif;
+
+    @include respond(desktop){
+        font-size: 2.4rem;
+    }
+
+    @include respond(tab-land){
+        font-size: 2.2rem;
+    }
+
+
+}
+
+.book {
+    text-align: center;
+    margin-top: 1rem;
+    //font-size: 1.4rem;
+    font-style: italic;
+}
+
+.reference {
+    text-align: center;
+    font-size: 1.5rem;
 }
 
 
@@ -337,7 +383,7 @@
     }
 
     @include respond(big-phone1){
-        margin-top: 6rem;
+        //margin-top: 6rem;
     }
 
     @include respond(tab-port2){
@@ -355,24 +401,24 @@
         // width: 40%;
         width: 110%;
         @include respond(tab-land){
-            width: 75%;
+            //width: 75%;
         }
 
         @include respond(tab-port2){
-            width: 40%;
+            //width: 40%;
         }
 
         @include respond(tab-port){
-            width: 75%;
+            //width: 75%;
         }
 
         @include respond(big-phone1){
-            width: 80%;
+            //width: 80%;
         }
 
 
         @include respond(phone1){
-            width: 50%;
+            //width: 50%;
         }
     }
 }

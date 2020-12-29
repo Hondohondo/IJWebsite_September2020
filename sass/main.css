@@ -185,6 +185,12 @@ body {
   background-color: #f7f7f7;
   padding: 3% 7%;
 }
+.above-the-fold .heading-one {
+  margin-top: 2rem;
+  font-size: 2rem;
+  color: teal;
+  line-height: 1.2;
+}
 @media (max-width: 43.75em) {
   .above-the-fold {
     padding-top: 0;
@@ -207,7 +213,9 @@ body {
   }
 }
 .above-the-fold .ira-photo-container {
-  text-align: right;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   padding-right: 3%;
   margin-top: 3rem;
 }
@@ -232,7 +240,8 @@ body {
   }
 }
 .above-the-fold .ira-photo-container .ira-image {
-  width: 60%;
+  margin-right: 2rem;
+  width: 40%;
 }
 @media (max-width: 75em) {
   .above-the-fold .ira-photo-container .ira-image {
@@ -1763,10 +1772,39 @@ hr {
   width: 100%;
   font-weight: bold;
   font-size: 1.8rem;
-  font-size: 2rem;
   font-size: 2.2rem;
   color: #5e6f91;
   color: teal;
+}
+@media (max-width: 87.5em) {
+  .bullets {
+    font-size: 2rem;
+  }
+}
+@media (max-width: 75em) {
+  .bullets {
+    font-size: 1.8rem;
+  }
+}
+@media (max-width: 68.75em) {
+  .bullets {
+    font-size: 1.6rem;
+  }
+}
+@media (max-width: 62.5em) {
+  .bullets {
+    font-size: 2rem;
+  }
+}
+@media (max-width: 50em) {
+  .bullets {
+    font-size: 1.8rem;
+  }
+}
+@media (max-width: 43.75em) {
+  .bullets {
+    font-size: 1.6rem;
+  }
 }
 .bullets .bullet-1 {
   flex: 0 1 45%;
@@ -1782,13 +1820,34 @@ hr {
 }
 
 .tagline {
-  margin: 3rem 0;
+  margin: 2rem 0;
   display: block;
   color: #04266b;
   font-size: 2.6rem;
   font-weight: bold;
   font-style: italic;
   font-family: "Cardo", serif;
+}
+@media (max-width: 81.25em) {
+  .tagline {
+    font-size: 2.4rem;
+  }
+}
+@media (max-width: 75em) {
+  .tagline {
+    font-size: 2.2rem;
+  }
+}
+
+.book {
+  text-align: center;
+  margin-top: 1rem;
+  font-style: italic;
+}
+
+.reference {
+  text-align: center;
+  font-size: 1.5rem;
 }
 
 .ira-photo-container {
@@ -1809,11 +1868,6 @@ hr {
     display: none;
   }
 }
-@media (max-width: 50em) {
-  .ira-photo-container {
-    margin-top: 6rem;
-  }
-}
 @media (max-width: 68.75em) {
   .ira-photo-container {
     text-align: center;
@@ -1832,32 +1886,6 @@ hr {
 .ira-photo-container .ira-image {
   width: 110%;
 }
-@media (max-width: 75em) {
-  .ira-photo-container .ira-image {
-    width: 75%;
-  }
-}
-@media (max-width: 68.75em) {
-  .ira-photo-container .ira-image {
-    width: 40%;
-  }
-}
-@media (max-width: 56.25em) {
-  .ira-photo-container .ira-image {
-    width: 75%;
-  }
-}
-@media (max-width: 50em) {
-  .ira-photo-container .ira-image {
-    width: 80%;
-  }
-}
-@media (max-width: 43.75em) {
-  .ira-photo-container .ira-image {
-    width: 50%;
-  }
-}
-
 .heading-two {
   font-size: 1.7rem;
 }
@@ -2463,22 +2491,17 @@ hr {
 }
 @media (max-width: 75em) {
   .section-content {
-    height: 75vh;
+    height: 70vh;
   }
 }
 @media (max-width: 68.75em) {
   .section-content {
-    height: 35vh;
+    height: 65vh;
   }
 }
 @media (max-width: 62.5em) {
   .section-content {
-    height: 50vh;
-  }
-}
-@media (max-width: 37.5em) {
-  .section-content {
-    height: 55vh;
+    height: 70vh;
   }
 }
 @media (max-width: 31.25em) {
@@ -2489,26 +2512,6 @@ hr {
                        transparent 120%),
                        url(../img/ira2.jpg);
     background-position: right;*/
-  }
-}
-@media (max-width: 28.125em) {
-  .section-content {
-    height: 65vh;
-  }
-}
-@media (max-width: 25em) {
-  .section-content {
-    height: 90vh;
-  }
-}
-@media (max-width: 23.4375em) {
-  .section-content {
-    height: 100vh;
-  }
-}
-@media (max-width: 21.875em) {
-  .section-content {
-    height: 120vh;
   }
 }
 @media (max-width: 56.25em) {
@@ -2531,13 +2534,8 @@ hr {
 }
 @media (max-width: 37.5em) {
   .section-content .hero-text-box {
-    left: 3rem;
-    top: 9rem;
-  }
-}
-@media (max-width: 31.25em) {
-  .section-content .hero-text-box {
-    left: 2rem;
+    /* left: 3rem;
+     top: 9rem;*/
   }
 }
 .section-content .hero-text-box h1 {
@@ -2608,6 +2606,7 @@ hr {
   }
 }
 .section-content .hero-text-box h1 .sub-heading {
+  font-size: 3rem;
   /*font-size: 3rem;
   font-weight: 500;
   font-weight: bold;
@@ -2615,7 +2614,7 @@ hr {
 }
 @media (max-width: 93.75em) {
   .section-content .hero-text-box h1 .sub-heading {
-    font-size: 3rem;
+    font-size: 2.8rem;
   }
 }
 @media (max-width: 81.25em) {

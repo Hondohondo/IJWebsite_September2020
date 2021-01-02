@@ -243,20 +243,51 @@ body {
   font-size: $default-font-size;
   background-color: #f7f7f7;
   // padding: 8rem 0;
-  padding: 3% 7%;
+  //padding: 3% 7%;
+
+  padding: 5% 7%;
+
+
+  @include respond(desktop){
+    padding: 5% 4.5%;
+  }
+
+  @include respond(tab-port2){
+    padding: 5% 7%;
+  }
+
+  @include respond(big-phone1){
+    padding: 7% 5%;
+  }
+
+  @include respond(phone1){
+
+  }
+
+
+
+
+  @include respond(desktop){
+    .row {
+      .col-1-of-2:first-child {
+        margin-right: 4rem !important;
+      }
+    }
+  }
+
+
 
 
   .heading-one {
-    margin-top: 2rem;
+    //margin-top: 2rem;
     font-size: 2rem;
     color: teal;
     line-height: 1.2;
 
-  }
+    @include respond(desktop3){
+      font-size: 1.75rem;
+    }
 
-  @include respond(phone1){
-  padding-top: 0;
-  padding-bottom: 0;
   }
 
   .row {
@@ -288,44 +319,51 @@ body {
     //text-align: center;
     padding-right: 3%;
     margin-top: 3rem;
+    margin-bottom: 3rem;
 
     @include respond(big-phone1){
       margin-top: 6rem;
     }
 
     @include respond(tab-port2){
-      text-align: center;
+      //text-align: center;
     }
     @include respond(tab-port){
-      text-align: right;
+      //text-align: right;
     }
 
-    @include respond(phone1){
-      text-align: center;
+    @include respond(big-phone1){
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+    }
+
+    p {
+      @include respond(big-phone1){
+       font-size: 1.5rem;
+      }
     }
 
     .ira-image {
       margin-right: 2rem;
        width: 40%;
       @include respond(tab-land){
-      width: 75%;
+      //width: 75%;
       }
 
       @include respond(tab-port2){
-      width: 40%;
+      width: 30%;
       }
 
       @include respond(tab-port){
-      width: 75%;
+        width: 40%;
       }
 
       @include respond(big-phone1){
-      width: 80%;
+        width: 35%;
       }
 
-
       @include respond(phone1){
-      width: 50%;
+      //width: 50%;
       }
     }
   }
@@ -333,16 +371,16 @@ body {
   .ira-blockquote {
     // padding: 0 2rem;
     padding-left: 3%;
-    margin-top: 7rem;
+    margin-top: 2rem;
 
     @include respond(desktop2){
-    margin-top: 3rem;
+    //margin-top: 3rem;
     }
     @include respond(tab-port){
-    margin-top: 7rem;
+    //margin-top: 7rem;
     }
     @include respond(phone1){
-    margin-top: 2rem;
+    //margin-top: 2rem;
     }
 
   }
@@ -353,7 +391,7 @@ body {
       // font-weight: 300;
       border-left: 3.5px solid teal;
       padding-left: 1rem;
-        margin-bottom: 8rem;
+        //margin-bottom: 8rem;
 
         @include respond(tab-port2){
           margin-left: -1.5rem;

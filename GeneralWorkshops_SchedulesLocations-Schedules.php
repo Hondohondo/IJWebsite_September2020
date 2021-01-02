@@ -51,8 +51,16 @@
 <!--                       <strong>2.</strong>   Click on the <b>city</b>  of the workshop that is of interest.  This will take you to the detail page with the dates, hours, description of the leader, and how to register.-->
                     </p>
 
+               <!--     <p class="u-margin-bottom-small-1">
+                     With Zoom you can go anywhere. Check other regions too!
+                    </p>-->
+
                     <p class="u-margin-bottom-small-1">
-                        Please register early. We have to ship you the Intensive Journal workbook prior to the conference. Thank you for your cooperation.
+                        Please register early. We have to ship you the <em>Intensive Journal</em>  workbook prior to the conference. Thank you for your cooperation.
+                    </p>
+
+                    <p class="orange u-margin-bottom-small-1 strong">
+                        With Zoom you can go anywhere. Check other regions too!
                     </p>
 
 

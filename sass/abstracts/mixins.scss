@@ -136,6 +136,10 @@ ORDER TO DO MEDIA QUERIES: Base + Tyography > General Layout > Grid > Page Layou
     }
 
     @if $breakpoint == big-desktop {
-        @media (min-width: 112.5em) { @content}; //1800px
+        //@media (min-width: 112.5em) { @content}; //1800px
+    }
+
+  @if $breakpoint == flex-desktop {
+        @media (min-width: 78.125em) { @content}; //1250px
     }
 }

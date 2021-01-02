@@ -27,7 +27,10 @@
                     <div class="banner-img" id="banner-img-12">&nbsp;</div>
                   </div>
 
-                <div class="section-inside-content schedules">
+                    <div id="my-content" class="section-inside-content">
+
+<!--                <div class="section-inside-content schedules">-->
+<!--                <div class="section-inside-content">-->
 
                   <h1>Midwestern Region</h1>
 

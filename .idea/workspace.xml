@@ -23,15 +23,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea4563f3-2394-4209-90fa-029c0a868a1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/book.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralWorkshops_Leaders.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaders/GeneralWorkshops_Leaders-Progoff.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaders/leadersmenu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaders/photos/ira-portrait.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DialogueHouseApplication.docx" beforeDir="false" afterPath="$PROJECT_DIR$/DialogueHouseApplication.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homepage.php" beforeDir="false" afterPath="$PROJECT_DIR$/homepage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-MidWest-Eastern.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-MidWest-Eastern.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-MidWest-Western.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-MidWest-Western.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-MidWest.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-MidWest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast-NewJersey.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast-NewJersey.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Schedules.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Schedules.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western-SouthWest.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western-SouthWest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MidWestTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/MidWestTable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NorthEastTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/NorthEastTable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SouthEastTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/SouthEastTable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WesternTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/WesternTable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/headhtml.php" beforeDir="false" afterPath="$PROJECT_DIR$/headhtml.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/headhtml2.php" beforeDir="false" afterPath="$PROJECT_DIR$/headhtml2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homepage.php" beforeDir="false" afterPath="$PROJECT_DIR$/home-old.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes" beforeDir="false" afterPath="$PROJECT_DIR$/notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/abstracts/mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/abstracts/mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/base/base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/base.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/layout/grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/grid.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/pages/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/pages/home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshop_steps.php" beforeDir="false" afterPath="$PROJECT_DIR$/workshop_steps.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +100,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/leaders/photos" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
@@ -87,8 +108,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hondo\PhpstormProjects\IJWebsite\img" />
+      <recent name="C:\Users\hondo\PhpstormProjects\IJWebsite\leaders\photos" />
+      <recent name="C:\Users\hondo\PhpstormProjects\IJWebsite\leaders" />
       <recent name="C:\Users\hondo\PhpstormProjects\IJWebsite" />
+      <recent name="C:\Users\hondo\PhpstormProjects\IJWebsite\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hondo\PhpstormProjects\IJWebsite\sass" />
@@ -137,7 +160,12 @@
       <workItem from="1608663872393" duration="13601000" />
       <workItem from="1608853316771" duration="2046000" />
       <workItem from="1609191537577" duration="6769000" />
-      <workItem from="1609270165909" duration="11133000" />
+      <workItem from="1609270165909" duration="11632000" />
+      <workItem from="1609443439318" duration="29000" />
+      <workItem from="1609443499123" duration="6896000" />
+      <workItem from="1609453954095" duration="561000" />
+      <workItem from="1609454526697" duration="4069000" />
+      <workItem from="1609610775607" duration="18022000" />
     </task>
     <task id="LOCAL-00001" summary="Added new map">
       <created>1607815536605</created>
@@ -181,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609199023580</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Done homepage">
+      <created>1609285385019</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609285385019</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,7 +242,8 @@
     <MESSAGE value="All workshop steps updated" />
     <MESSAGE value="Homepage reviewed" />
     <MESSAGE value="Responsive - new cover page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Responsive - new cover page" />
+    <MESSAGE value="Done homepage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done homepage" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

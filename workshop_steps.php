@@ -53,4 +53,8 @@
 
 <br>
 
+<p class="orange u-margin-bottom-small-1 strong">
+    With Zoom you can go anywhere. Check other cities too!
+</p>
+
 <h6 class="u-margin-bottom-small">Workshop Calendar</h6>

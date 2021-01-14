@@ -1,1 +1,38 @@
 more files...uploaded for deployment test
+
+...more database code
+/*    if ($result-> num_rows > 0) {
+        while ($row = $result-> fetch_assoc()) {
+            echo "<tr><td>". $row["State"]. "</td><td>". $row["City"]. "</td><td>". $row["Module"]. "</td><td>". $row["Begins"] . "<span>" . date('l', strtotime($row["Begins"])). "</span>" . "</td><td>". $row["Ends"]. "</td><td>". $row["Type"]. "</td><td>". $row["Sponsor"]. "</td><td>". $row["Telephone"]. "</td><td>". $row["Leader"]. "</td></tr>";
+        }
+        echo "</table>";
+    }*/
+    /*
+    if ($result-> num_rows > 0) {
+        while ($row = $result-> fetch_assoc()) {
+            echo "<tr><td>". $row["State"]. "</td><td>". $row["City"]. "</td><td>". $row["Module"]. "</td><td>". $row["Begins"]. date_format($row["Begins"],'Y/m/d H:i:s'). "</td><td>". $row["Ends"]. "</td><td>". $row["Type"]. "</td><td>". $row["Sponsor"]. "</td><td>". $row["Telephone"]. "</td><td>". $row["Leader"]. "</td></tr>";
+        }
+        echo "</table>";
+    }*/
+
+
+      // $sql = "SELECT State, City, Module, Begins, Ends, Type, Sponsor, Telephone, Leader  from southern";
+
+        //echo date_format($date, 'g:ia \o\n l jS F Y');
+
+        //date('F d,Y',strtotime($created_at))
+
+
+            //You have created a MariaDB/MySQL database named “intjourn_company”.
+            //User: intjourn_root
+            //Database: intjourn_company
+            //Password: dialogue
+
+            //<span id="dayofweek">Tuesday</span>
+
+            //SELECT DATE_FORMAT(`date`,'%M %Y') AS showdate FROM table
+
+            //SELECT DATE_FORMAT(created_on, '%d-%m-%Y') AS created_on FROM quote
+
+           // $conn = mysqli_connect("localhost", "intjourn_root", "dialogue", "intjourn_company");
+           //  $conn = mysqli_connect("67.222.27.87", "intjourn_root", "dialogue", "intjourn_company");

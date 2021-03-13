@@ -46,7 +46,7 @@
                         <div id="my-content" class="section-inside-content">
                             <h1><em id="louis">Intensive Journal</em> Workshops - Western Region of Midwest</h1>
                             <!-- <br><br> -->
-                            <h6>Winter - Summer, 2021</h6>
+                            <h6>Winter - Fall, 2021</h6>
                             <p class="reg-flyer">
                                 Please have a copy of our
                                 <a class="page-link" href="midwest-chicago-3p-1219.pdf" target="_blank" rel="noopener"
@@ -104,7 +104,7 @@
                                 </tbody>
                             </table>
                             <h5> </h5>
-                            <br />
+                            <a id="chicago-pre"></a><br />
                             <h5 id="louis">Chicago, Illinois:  Presentation on March 14, 2021 - online</h5>
                             <table class="table-credits table-praises" style="width: 83.2854%">
                                 <tbody>
@@ -141,16 +141,22 @@
                                     </tr>
                                     <tr>
                                         <th>Registration</th>
-                                        <td>Register at cgjungcenter.org</td>
+                                        <td>
+                                            Register at
+                                            <span style="font-size: 11pt"
+                                                ><a href="https://www.cgjungcenter.org/event-registration/"
+                                                    >https://www.cgjungcenter.org/event-registration/</a
+                                                ></span
+                                            ><!--EndFragment-->
+                                        </td>
                                     </tr>
                                 </tbody>
                             </table>
                             <h5> </h5>
                             <h5> </h5>
-                            <h5> </h5>
-                            <h5> </h5>
                             <h5 id="louis">
-                                Minneapolis - St Paul, Missouri:  Intro Program on April 17-18, 2021 - online
+                                <a id="minneapolis"></a>Minneapolis - St Paul, Missouri:  Intro Program on April 17-18,
+                                2021 - online
                             </h5>
                             <table class="table-credits table-praises" style="width: 83.2854%">
                                 <tbody>
@@ -208,7 +214,7 @@
                                         <th>Workshop (12 hrs)</th>
                                         <th>Schedule</th>
                                         <th> </th>
-                                        <th>Resident<sup>*</sup></th>
+                                        <th>Tuition<sup>*</sup></th>
                                     </tr>
                                     <tr>
                                         <td>Life Context</td>
@@ -238,7 +244,7 @@
                             </table>
                             <!-- <br><br> -->
                             <p>
-                                <sup>* </sup>Tuition only.  Workshop not held on July 26 and 29i.. Life Context workshop
+                                <sup>* </sup>Tuition only.  Workshop not held on July 26 and 29. Life Context workshop
                                 includes <em>Intensive Journal</em> workbook.
                             </p>
                             <table class="table-credits table-praises">
@@ -270,7 +276,125 @@
                                     </tr>
                                 </tbody>
                             </table>
-                            <br /><br /><br /><br /><br />
+                            <br /><br />
+                            <h5 id="chicago">Chicago, Illinois:  2-Part Series on September 18-19, 2021 - online</h5>
+                            <table class="table-credits table-praises" style="width: 83.1118%">
+                                <tbody>
+                                    <tr>
+                                        <th style="width: 28.4185%">Workshops <br />(12 hrs)</th>
+                                        <th style="width: 46.3803%">Schedule</th>
+                                        <th style="width: 10.0631%"> </th>
+                                        <th style="width: 14.9592%">Tuition<sup>*</sup></th>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 28.4185%">Life Context</td>
+                                        <td style="width: 46.3803%">
+                                            09/18: (9 am-12:30 pm;  2-5 pm)<br />09/19: (9 am-12 pm; 1:30-4:30 pm)
+                                        </td>
+                                        <td style="width: 10.0631%"> </td>
+                                        <td style="width: 14.9592%">$ 225</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 28.4185%">Depth Contact</td>
+                                        <td style="width: 46.3803%">
+                                            10/09: (9 am-12:30 pm;  2-5 pm)<br />10/10: (9 am-12 pm; 1:30-4:30  pm)
+                                        </td>
+                                        <td style="width: 10.0631%"> </td>
+                                        <td style="width: 14.9592%">$ 210</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <!-- <br><br> -->
+                            <p>
+                                <sup>* </sup>Tuition only.   Life Context workshop includes
+                                <em>Intensive Journal</em> workbook.
+                            </p>
+                            <table class="table-credits table-praises">
+                                <tbody>
+                                    <tr>
+                                        <th>Location</th>
+                                        <td>Workshops held online through Zoom.</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Leader</th>
+                                        <td>
+                                            <strong>Carolyn (Kelley) Williams </strong>has led
+                                            <em>Intensive Journal</em> workshops since 1991 primarily in the Midwest.
+                                            Prior to relocating to the greater Phoenix area, Kelley served as Senior
+                                            Editor of Publications in Obstetrics and Gynecology at Northwestern
+                                            University Medical School in Chicago. Kelley is a published poet and former
+                                            president of the American Medical Writers&apos; Association.
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Registration</th>
+                                        <td>
+                                            Call <strong> 330-998-6000 or 800-221-5844 </strong> or write to
+                                            <strong>Dialogue House</strong> , 2245 E Enterprise Pkwy - #B1, Twinsburg,
+                                            OH 44087-2348.   Email: info@intensivejournal.org  Credit cards accepted.
+                                            Make checks payable to Dialogue House.  Minimum non-refundable deposit: 
+                                            $100.  Full payment is required at least 2 weeks in advance.
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <br />
+                            <h5>
+                                Chicago, Illinois:  Life Integration workshop - Monthly Sessions
+                                <br />                                Start September 23, 2021 - online -  New format! 
+                                <br />                                Stay Connected and Deepen Your Work
+                            </h5>
+                            <table class="table-credits table-praises" style="width: 83.1118%">
+                                <tbody>
+                                    <tr>
+                                        <th style="width: 28.4185%">Workshops <br />(12 hrs)</th>
+                                        <th style="width: 46.3803%">Schedule</th>
+                                        <th style="width: 10.0631%"> </th>
+                                        <th style="width: 14.9592%">Tuition<sup>*</sup></th>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 28.4185%">Life Integration</td>
+                                        <td style="width: 46.3803%">
+                                            09/23 (6-9 pm)<br />10/28: (6-9 pm)<br />11/18:  (6-9 pm)<br />12/09:  (6-9
+                                            pm)
+                                        </td>
+                                        <td style="width: 10.0631%"> </td>
+                                        <td style="width: 14.9592%">$ 210</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <!-- <br><br> -->
+                            <p><sup>* </sup>Tuition only.  </p>
+                            <table class="table-credits table-praises">
+                                <tbody>
+                                    <tr>
+                                        <th>Location</th>
+                                        <td>Workshops held online through Zoom.</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Leader</th>
+                                        <td>
+                                            <strong>Carolyn (Kelley) Williams </strong>has led
+                                            <em>Intensive Journal</em> workshops since 1991 primarily in the Midwest.
+                                            Prior to relocating to the greater Phoenix area, Kelley served as Senior
+                                            Editor of Publications in Obstetrics and Gynecology at Northwestern
+                                            University Medical School in Chicago. Kelley is a published poet and former
+                                            president of the American Medical Writers&apos; Association.
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Registration</th>
+                                        <td>
+                                            Call <strong> 330-998-6000 or 800-221-5844 </strong> or write to
+                                            <strong>Dialogue House</strong> , 2245 E Enterprise Pkwy - #B1, Twinsburg,
+                                            OH 44087-2348.   Email: info@intensivejournal.org  Credit cards accepted.
+                                            Make checks payable to Dialogue House.  Minimum non-refundable deposit: 
+                                            $100.  Full payment is required at least 2 weeks in advance.
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <br /><br />
                             <h5 id="madison"> </h5>
                             <!-- <br><br> -->
                             <p><br /><br /></p>

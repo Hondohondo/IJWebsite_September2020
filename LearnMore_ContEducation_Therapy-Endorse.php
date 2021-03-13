@@ -10,7 +10,7 @@
 
             <div class="col-3-of-3">
                 <section class="section-inside">
-                  <div class="section-inside-header">
+                  <div class="section-inside-header sticky">
                     <h5 class="heading-five">Learn more | Continuing Education | Therapy</h5>
                     <!-- <h1 class="heading-one hr-overview">Dreams and Imagery</h1> -->
 

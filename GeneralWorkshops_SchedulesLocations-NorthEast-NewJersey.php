@@ -23,7 +23,7 @@
             <div class="col-3-of-3">
                 <div id="content" class="cms-editable">
                     <section class="section-inside">
-                        <div class="section-inside-header">
+                        <div class="section-inside-header sticky">
                             <h5 class="heading-five">General Workshops</h5>
                             <!-- <h1 class="heading-one hr-overview">Schedules & Locations</h1> -->
                             <div class="inside-nav-container">
@@ -53,30 +53,32 @@
                                     >New York City regional flyer  (not ready yet)</a
                                 >
                             </p>
-                            <br /><br />
+                            <br />
                             <h5 id="manhattan">
-                                New York City (Manhattan): 3-Part Series Begins February 20-21, 2021 - online<br />                                                                  
+                                <a id="nyc1"></a>New York City (Manhattan): 3-Part Series Begins March 20-21, 2021 -
+                                <br />                                                                     New Dates  - 
+                                online<br />                                                                  
                             </h5>
                             <table class="table-credits table-praises">
                                 <tbody>
                                     <tr>
                                         <th>Workshop (12 hrs)</th>
                                         <th>Schedule</th>
-                                        <th>Cost<sup>#</sup></th>
+                                        <th>Tuition<sup>#</sup></th>
                                     </tr>
                                     <tr>
                                         <td>Life Context</td>
-                                        <td>02/20: (9 am-12:30 pm; 2-5 pm)<br />02/21: (9 am-12 pm; 1:30-4:30 pm)</td>
+                                        <td>03/20: (9 am-12:30 pm; 2-5 pm)<br />03/21: (9 am-12 pm; 1:30-4:30 pm)</td>
                                         <td>$ 225</td>
                                     </tr>
                                     <tr>
                                         <td>Depth Contact</td>
-                                        <td>03/06: (9 am-12:30 pm; 2-5 pm)<br />03/07:  (9 am-12 pm; 1:30-4:30 pm)</td>
+                                        <td>04/10: (9 am-12:30 pm; 2-5 pm)<br />04/11:  (9 am-12 pm; 1:30-4:30 pm)</td>
                                         <td>$ 210</td>
                                     </tr>
                                     <tr>
                                         <td>Life Integration</td>
-                                        <td>03/20: (9 am-12:30 pm; 2-5 pm)<br />03/21:  (9 am-12 pm; 1:30-4:30 pm)</td>
+                                        <td>05/01: (9 am-12:30 pm; 2-5 pm)<br />05/02:  (9 am-12 pm; 1:30-4:30 pm)</td>
                                         <td>$ 210</td>
                                     </tr>
                                     <tr>
@@ -125,15 +127,15 @@
                             </table>
                             <h5> </h5>
                             <h5 id="manhattan">
-                                New York City (Manhattan): 3-Part Series  on July 10-17,  2021 - online]
-                                                                               
+                                <a id="nyc2"></a>New York City (Manhattan): 3-Part Series  on July 10-17,  2021 - online
+                                                                              
                             </h5>
                             <table class="table-credits table-praises">
                                 <tbody>
                                     <tr>
                                         <th>Workshop (12 hrs)</th>
                                         <th>Schedule</th>
-                                        <th>Cost<sup>#</sup></th>
+                                        <th>Tuition<sup>#</sup></th>
                                     </tr>
                                     <tr>
                                         <td>Life Context</td>

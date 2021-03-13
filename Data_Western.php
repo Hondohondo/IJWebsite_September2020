@@ -5,16 +5,16 @@
 
 <body>
 
-<table>
+<table class="table-credits table-praises table-schedules table">
     <tr>
         <th>State</th>
         <th>City</th>
         <th>Module</th>
         <th>Begins</th>
         <th>Ends</th>
-        <th>Type</th>
-        <th>Sponsor</th>
-        <th>Telephone</th>
+        <th class="th-type u-center-text">Type</th>
+        <th class="th-sponsor">Sponsor</th>
+        <th class="th-tel">Telephone</th>
         <th>Leader</th>
     </tr>
 
@@ -31,7 +31,7 @@
         die("Connection failed:". $conn->connect_error);
     }
 
-    $sql = "SELECT State, City, URL, Module, DATE_FORMAT(Begins, '%M %d, %Y') AS Begins, DATE_FORMAT(Ends, '%M %d, %Y') AS Ends, Type, Sponsor, Telephone, Leader  from western";
+    $sql = "SELECT State, City, URL, Module, DATE_FORMAT(Begins, '%M %d, %Y') AS Begins, DATE_FORMAT(Ends, '%M %d, %Y') AS Ends, Type, Sponsor, Telephone, Leader  from western ORDER BY State, DATE_FORMAT(Begins, '%Y %m, %d')";
 
     $result = $conn-> query($sql);
 

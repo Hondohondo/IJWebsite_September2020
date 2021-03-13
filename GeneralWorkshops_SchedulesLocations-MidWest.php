@@ -8,11 +8,11 @@
             <?php include "navigation.php";?>
 
             <div class="col-3-of-3">
-              <div id="content" class="cms-editable">
+<!--              <div id="content" class="cms-editable">-->
   <!-- Everything inside is editable -->
 
                 <section class="section-inside">
-                  <div class="section-inside-header">
+                  <div class="section-inside-header sticky">
                     <h5 class="heading-five">General Workshops</h5>
                     <!-- <h1 class="heading-one hr-overview">Schedules & Locations</h1> -->
                     <div class="inside-nav-container">
@@ -36,11 +36,12 @@
 
                     <?php include "workshop_steps.php";?>
 
-                    <?php include "MidWestTable.php";?>
-                    <br>
+<!--                    --><?php //include "MidWestTable.php";?>
+                    <?php include "Data_Midwestern.php";?>
+                    <br> <br>
 
                     <?php include "modules_table.php";?>
-                    <br>
+<!--                    <br>-->
 
                     <!--                        version-cache-->
 
@@ -48,9 +49,8 @@
 
                 </div>
 
-
                 </section>
-              </div>
+<!--              </div>-->
 
                 <?php include "footer.php";?>
             </div>

@@ -1,14 +1,16 @@
-//Banner Photos in order...
 .banner {
+
     height: 40rem;
     // height: 35rem;
     // position: relative;
     // margin: 1rem 0;
-    margin: 1rem 0 7rem 0;
+    //margin: 1rem 0 7rem 0;
+    margin-bottom: 7rem;
 
     @include respond(phone){
-      height: 30rem;
-      margin: 1rem 0 5rem 0;
+        height: 30rem;
+        //margin: 1rem 0 5rem 0;
+        margin-bottom: 5rem;
     }
     &-img {
         // width: calc(100% + 2rem);
@@ -19,6 +21,40 @@
         // transition: transform 0.5s;
     }
 }
+
+
+.section-inside {
+
+    .banner {
+        //margin-top: 9.7rem;
+        margin-top: 9.8rem;
+
+        height: 40rem;
+        // height: 35rem;
+        // position: relative;
+        // margin: 1rem 0;
+        //margin: 1rem 0 7rem 0;
+        margin-bottom: 7rem;
+
+        @include respond(phone){
+            height: 30rem;
+            //margin: 1rem 0 5rem 0;
+            margin-bottom: 5rem;
+        }
+        &-img {
+            // width: calc(100% + 2rem);
+            height: 100%;
+            background-size: cover;
+            background-position: center center;
+            // z-index: 5;
+            // transition: transform 0.5s;
+        }
+    }
+}
+
+
+//Banner Photos in order...
+
 #banner-img-lake { background-image: url(../images/pics/lake.jpg); }
 #banner-img-01 { background-image: url(../images/pics/adorable-animal-breed-canine-374906-min.jpg); }
 #banner-img-1 { background-image: url(../images/pics/clouds-daylight-forest-grass-371589.jpg); }

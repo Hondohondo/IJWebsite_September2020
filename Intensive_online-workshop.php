@@ -10,7 +10,7 @@
 
             <div class="col-3-of-3">
                 <section class="section-recent">
-                  <div class="section-inside-header">
+                  <div class="section-inside-header sticky">
                     <h5 class="heading-five"><em>Intensive Journal</em> Method | Online Workshops</h5>
                     <!-- <h1 class="heading-one hr-overview">Online Workshops</h1> -->
 

@@ -19,7 +19,7 @@
 
         <div class="col-3-of-3">
             <section class="section-recent">
-                <div class="section-inside-header">
+                <div class="section-recent-header">
                     <h5 class="heading-five"><em>Intensive Journal</em> Method | Quick summary</h5>
                     <h1 class="heading-one hr-overview">Quick Summary</h1>
                 </div>
@@ -112,11 +112,16 @@
                             counseling centers, and other educational and spiritual centers.</p>
                         <h6>Held Internationally Throughout the Year</h6>
                         <p>We offer workshops in the United States, Canada, and overseas (Europe and Australia)
-                            throughout the year. Our schedule is updated periodically; check our calendar on our
-                            website.</p>
+                            throughout the year. Our schedule is updated periodically; check our <a href="GeneralWorkshops_SchedulesLocations-Schedules.php" class="btn-text no-margin">Workshops Calendar &rarr;</a> on our
+                            schedules and locations page.</p>
                         <!-- add link to workshop schedules
                   LINK.   Costs vary by location; on our website, click on the city you are interested in attending and scroll to the workshop on the page with details (costs, hours, description of the presenter and
 location, and how to register. -->
+                        <!--<h6>Workshop Schedules</h6>
+                        <p>
+                        Visit our  <a href="GeneralWorkshops_SchedulesLocations-Schedules.php" class="btn-text no-margin">Workshop Calendar &rarr;</a>
+                        </p>-->
+
                         <p>If you have questions, please contact Jon Progoff at 330-998-6000 / 800-221-5844 or at
                             info@intensivejournal.org</p>
                     </div>

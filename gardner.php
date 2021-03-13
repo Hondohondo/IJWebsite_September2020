@@ -10,7 +10,7 @@
 
             <div class="col-3-of-3">
                 <section class="section-inside">
-                  <div class="section-inside-header">
+                  <div class="section-inside-header sticky">
                     <h5 class="heading-five">Specialized Audiences | Health  | Addiction Recovery</h5>
                     <!-- <h1 class="heading-one hr-overview">Life Histories</h1> -->
 

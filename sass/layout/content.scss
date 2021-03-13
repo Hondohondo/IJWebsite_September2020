@@ -3,14 +3,31 @@
     background-color: $color-white;
 
     &-header {
-    //  text-align: center;
+
+      //sticky---new
+      //background-color: peru;
+      //position: sticky;
+      //position: fixed;
+      //top: 4px;
+      //height: 9.7rem;
+
+
+
+      //sticky---
+
+
+      //text-align: center;
       // overflow: hidden;
       // padding: 3rem 0 0;
       // margin: 2% 7%;
       // padding: 0 2%;
-      max-width: 75rem;
-      margin: 1.5rem auto;
+
+      //----old
+      //max-width: 75rem;
+      max-width: calc( 2 * ((100% - 2 * #{$gutter-horizontal}) / 3) + #{$gutter-horizontal} );; //added
+      //margin: 1.5rem auto;
       overflow: hidden;
+      //---
 
       @include respond(desktop){
             margin: 1.5rem 4rem;
@@ -23,7 +40,9 @@
       }
 
       .heading-five {
-        margin: 0 0 2rem;
+        max-width: 75rem;
+        //margin: 0 0 2rem;//old
+        margin: 1.5rem auto 2rem auto;//new
         font-size: 1.2rem;
         font-weight: 500;
         text-transform: uppercase;

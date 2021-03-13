@@ -1,4 +1,5 @@
-<!-- <footer id="footer" class="cms-include footer"> -->
+<!-- <footer id="footer" class="cms-include footer"> From SurrealCMS.COM -- Not used anymore-->
+
 <footer class="footer">
             <!-- <div class="footer__logo-box">
                 <img src="img/logo-white.gif" alt="logo" class="footer__logo">
@@ -108,3 +109,10 @@ are used under license by Dialogue House Associates.
             </div> -->
 
         </footer>
+
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "c62a73b035c44a61879708f7e875ebc7"}'></script><!-- End Cloudflare Web Analytics -->
+
+<!--Added this for sticky nav-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="js/jquery.waypoints.min.js"></script>
+<script src="js/script.js"></script>

@@ -10,7 +10,7 @@
 
             <div class="col-3-of-3">
                 <section class="section-inside">
-                  <div class="section-inside-header">
+                  <div class="section-inside-header sticky">
                     <h5 class="heading-five">Specialized Audiences | Social Services | Job Training</h5>
                     <!-- <h1 class="heading-one hr-overview">Dreams and Imagery</h1> -->
 

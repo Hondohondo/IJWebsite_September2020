@@ -9,8 +9,8 @@
             <?php include "navigation.php";?>
 
             <div class="col-3-of-3">
-                <section class="section-inside">
-                  <div class="section-inside-header">
+                <section class="section-house">
+                  <div class="section-house-header">
                     <h5 class="heading-five">Learn more | Life Histories</h5>
                     <h1 class="heading-one hr-overview">Life Histories</h1>
 
@@ -34,7 +34,7 @@
 
                   <p>
                   <strong>Note:</strong>
-                  If you are interested in submitting a life history regarding your own experiences with the <em>Intensive Journal</em> Program, please read the following letter from Director Jon Progoff. </strong>
+                  If you are interested in submitting a life history regarding your own experiences with the <em>Intensive Journal</em> Program, please read the following letter from Director Jon Progoff. </p>
 
                   <p>
                     <a href="Learnmore_LifeHistories-WriteLifeHistory.php" class="page-link"><ion-icon name="clipboard" class="clipboard"></ion-icon>Writing a Life History</a>

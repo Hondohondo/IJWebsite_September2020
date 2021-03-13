@@ -1,7 +1,13 @@
+<div id="content" class="cms-editable">
+    <!-- Everything inside is editable -->
+
+
 <p class="orange u-margin-bottom-small-1 strong">
     Now click on the city below in the workshops calendar for the workshop that is of interest.
     This will take you to the detail page with the dates, hours, description of the leader, and how to register.
 </p>
+
+
 
 <h6>How to select an online workshop</h6>
 
@@ -24,9 +30,9 @@
 
 </p>
 <ul>
-    <li> Life Context (LC) covers about half of the exercises and is a very solid experience. </li>
-    <li> Depth Contact (DC) covers the remaining half of the exercises. </li>
-    <li>Life Integration (LI) helps you develop the material that you started in the first two workshops to see connections and relationships, and to use Dr. Progoff's
+    <li> <b>Part 1 - </b> Life Context (LC) covers about half of the exercises and is a very solid experience. </li>
+    <li> <b>Part 2 - </b> Depth Contact (DC) covers the remaining half of the exercises. </li>
+    <li> <b>Part 3 - </b> Life Integration (LI) helps you develop the material that you started in the first two workshops to see connections and relationships, and to use Dr. Progoff's
         <em>Journal Feedback</em> process. </li>
 </ul>
 
@@ -54,7 +60,11 @@
 <br>
 
 <p class="orange u-margin-bottom-small-1 strong">
-    With Zoom you can go anywhere. Check other cities too!
+    With Zoom you can go anywhere. Check also other cities and <a class="page-link" href="GeneralWorkshops_SchedulesLocations-Schedules.php">&larr; regions</a>
 </p>
 
+<br>
+
 <h6 class="u-margin-bottom-small">Workshop Calendar</h6>
+
+</div>

@@ -8,8 +8,8 @@
             <?php include "navigation.php";?>
 
             <div class="col-3-of-3">
-                <section class="section-inside">
-                  <div class="section-inside-header">
+                <section class="section-house">
+                  <div class="section-house-header">
                     <h5 class="heading-five">About the method | Journal Feedback Process</h5>
                     <h1 class="heading-one hr-overview">Journal Feedback&trade; Process</h1>
                   </div>

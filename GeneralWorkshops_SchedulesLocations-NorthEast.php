@@ -19,9 +19,9 @@
         <?php include "navigation.php";?>
 
         <div class="col-3-of-3">
-            <div id="content" class="cms-editable">
+<!--            <div id="content" class="cms-editable">-->
                 <section class="section-inside">
-                    <div class="section-inside-header">
+                    <div class="section-inside-header sticky">
                         <h5 class="heading-five">General Workshops</h5>
                         <!-- <h1 class="heading-one hr-overview">Schedules & Locations</h1> -->
                         <div class="inside-nav-container">
@@ -41,7 +41,10 @@
 
                         <?php include "workshop_steps.php";?>
 
-                        <?php include "NorthEastTable.php";?>
+<!--                        --><?php //include "NorthEastTable.php";?>
+                        <?php include "Data_Northeastern.php";?>
+
+                        <br> <br>
 
                         <?php include "modules_table.php";?>
 
@@ -50,7 +53,7 @@
                         <!-- <hr class="trademark-line u-margin-top-small"> -->
                     </div>
                 </section>
-            </div>
+<!--            </div>-->
 
             <?php include "footer.php";?>
         </div>

@@ -1285,12 +1285,50 @@ hr {
   padding-right: 1rem;
 }
 
+.sticky {
+  padding-bottom: 1.5rem;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: white;
+  box-shadow: 0 2px 2px #efefef;
+  z-index: 9999;
+}
+
+.sticky {
+  /* .inside-nav {
+
+     li {
+       font-size: $default-font-size;
+       list-style: none;
+       display: inline-block;
+       a {
+
+         &:link,
+         &:visited {
+           text-decoration: none;
+           color: teal;
+           margin-right: 1rem;
+           margin-left: 1rem;
+           padding-bottom: 3px;
+           border-bottom: 1px solid transparent;
+         }
+         &:hover,
+         &:active {
+           border-bottom: 1px solid teal;
+         }
+       }
+
+     }
+
+   }*/
+}
+
 .inside-nav-container {
   text-align: center;
 }
 
 .inside-nav {
-  position: relative;
   display: inline-block;
 }
 .inside-nav li {
@@ -1461,8 +1499,7 @@ hr {
   background-color: #fff;
 }
 .section-inside-header {
-  max-width: 75rem;
-  margin: 1.5rem auto;
+  max-width: calc( 2 * ((100% - 2 * 6rem) / 3) + 6rem );
   overflow: hidden;
 }
 @media (max-width: 81.25em) {
@@ -1481,7 +1518,8 @@ hr {
   }
 }
 .section-inside-header .heading-five {
-  margin: 0 0 2rem;
+  max-width: 75rem;
+  margin: 1.5rem auto 2rem auto;
   font-size: 1.2rem;
   font-weight: 500;
   text-transform: uppercase;
@@ -2910,15 +2948,32 @@ hr {
 
 .banner {
   height: 40rem;
-  margin: 1rem 0 7rem 0;
+  margin-bottom: 7rem;
 }
 @media (max-width: 37.5em) {
   .banner {
     height: 30rem;
-    margin: 1rem 0 5rem 0;
+    margin-bottom: 5rem;
   }
 }
 .banner-img {
+  height: 100%;
+  background-size: cover;
+  background-position: center center;
+}
+
+.section-inside .banner {
+  margin-top: 9.8rem;
+  height: 40rem;
+  margin-bottom: 7rem;
+}
+@media (max-width: 37.5em) {
+  .section-inside .banner {
+    height: 30rem;
+    margin-bottom: 5rem;
+  }
+}
+.section-inside .banner-img {
   height: 100%;
   background-size: cover;
   background-position: center center;

@@ -8,7 +8,7 @@
             <?php include "../navigation-two.php";?>
             <div class="col-3-of-3">
                 <section class="section-inside">
-                  <div class="section-inside-header">
+                  <div class="section-inside-header sticky">
                     <h5 class="heading-five">Specialized Audiences | Spirituality  | Testimonials</h5>
 
                     <div class="inside-nav-container">

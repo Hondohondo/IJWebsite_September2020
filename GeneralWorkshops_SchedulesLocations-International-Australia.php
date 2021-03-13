@@ -23,7 +23,7 @@
       <div class="col-3-of-3">
         <div id="content" class="cms-editable">
           <section class="section-inside">
-            <div class="section-inside-header">
+            <div class="section-inside-header sticky">
               <h5 class="heading-five">General Workshops</h5>
               <!-- <h1 class="heading-one hr-overview">Schedules & Locations</h1> -->
               <div class="inside-nav-container">
@@ -66,20 +66,30 @@
                 </tbody>
               </table>
               <!-- <br><br> -->
-              <p style="text-align: left">
-                * Paper and <em>Intensive Journal</em> dividers will be provided. <br /><strong
-                  >+ Bookings essential by 25 January.   </strong
-                >
-                $150 for Eremos members <strong>PLUS early bird reduction</strong> of $10 for all bookings made by
-                <strong
-                  >10 January.                                                                                      </strong
-                ><span lang="EN-AU"
-                  >AND $20 discount for<strong> previous participants </strong>who have the
-                  <em>Intensive Journal</em> workbook<strong>. </strong></span
-                >
-                <br /><strong>++  $140 for members of Eremos.   Early bird reduction</strong> of $20 for bookings by 15
-                February.  Registrations close 7th March.<strong><br /></strong>
-              </p>
+              <ul>
+                <li style="text-align: left">
+                  Paper and <em>Intensive Journal</em> dividers will be provided. <br /><strong
+                    >+ Bookings essential by 25 January.   </strong
+                  >
+                  $150 for Eremos members <strong>PLUS early bird reduction</strong> of $10 for all bookings made by
+                  <strong
+                    >10 January.                                                                                      </strong
+                  ><span lang="EN-AU"
+                    >AND $20 discount for<strong> previous participants </strong>who have the
+                    <em>Intensive Journal</em> workbook<strong>. </strong></span
+                  >
+                  <br /><strong>++  $140 for members of Eremos.   Early bird reduction</strong> of $20 for bookings by
+                  15 February.  Registrations close 7th March.<strong
+                    ><br />These workshops are only open to people who will be in Australia at the time of the
+                    workshop.   Asia Pacific residents may be able to attend with an additional fee and must register no
+                    later than 20 January (for the Life Context workshop).  Please enquire of
+                    <a href="mailto:events@eremos.org.au"
+                      ><span style="font-family: 'Arial', 'sans-serif'">events@eremos.org.au</span></a
+                    >.<br
+                  /></strong>
+                </li>
+                <li style="text-align: left"> </li>
+              </ul>
               <table class="table-credits table-praises">
                 <tbody>
                   <tr>
@@ -150,13 +160,17 @@
               <p>
                 <sup>*</sup>All materials plus morning and afternoon tea provided. Bring your lunch (or purchase nearby)
                 and a 3 ring binder.   Restaurants and lodging nearby.  <br />+$150 for Eremos and Kingscliff parish
-                members.
-                <strong
-                  >Early bird reduction of $10 for bookings made by 25 January.   Trybooking link YET TO COME.<br />++
-                  $140 Eremos and Kingscliff parish members.  Early bird reduction </strong
-                >of  $20 for bookings by 30 March.<strong>  R</strong>egistration close  24 April<strong
-                  >.  Trybooking link YET TO COME.<br
-                /></strong>
+                members.  <strong>Early bird reduction of $10 for bookings made by 25 January.   </strong
+                ><span style="font-size: 14pt; color: #397a7a"
+                  ><a href="https://www.trybooking.com/BNUKO">https://www.trybooking.com/BNUKO</a></span
+                >
+              </p>
+              <p>
+                <strong>++ $140 Eremos and Kingscliff parish members.  Early bird reduction </strong>of  $20 for
+                bookings by 30 March.<strong>  R</strong>egistration close  24 April<strong>.  </strong
+                ><span style="font-size: 14pt; color: #397a7a"
+                  ><a href="https://www.trybooking.com/BNUQC">https://www.trybooking.com/BNUQC</a></span
+                >
               </p>
               <table class="table-credits table-praises">
                 <tbody>
@@ -184,9 +198,14 @@
                     <th>Registration</th>
                     <td>
                       Credit cards accepted for online bookings. 
-                      <strong>Bookings essential by 22 FEB with Trybooking  YET TO COME. </strong><br /><br />For more
-                      information about the <em>Intensive Journal</em> program, contact Kate at events@eremos.org.au or
-                      tel 0425 211 065
+                      <strong>Bookings essential by 22 FEB for Life Context </strong
+                      ><span style="font-size: 14pt; color: #397a7a"
+                        ><a href="https://www.trybooking.com/BNUKO">https://www.trybooking.com/BNUKO</a></span
+                      ><!--EndFragment--><strong> and by 24 April for Depth Contact </strong
+                      ><span style="font-size: 14pt; color: #397a7a"
+                        ><a href="https://www.trybooking.com/BNUQC">https://www.trybooking.com/BNUQC</a></span
+                      ><strong> .</strong><br /><br />For more information about the <em>Intensive Journal</em> program,
+                      contact Kate at events@eremos.org.au or tel 0425 211 065
                     </td>
                   </tr>
                 </tbody>

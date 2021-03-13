@@ -23,7 +23,7 @@
             <div class="col-3-of-3">
                 <div id="content" class="cms-editable">
                     <section class="section-inside">
-                        <div class="section-inside-header">
+                        <div class="section-inside-header sticky">
                             <h5 class="heading-five">General Workshops</h5>
                             <!-- <h1 class="heading-one hr-overview">Schedules & Locations</h1> -->
                             <div class="inside-nav-container">
@@ -53,8 +53,9 @@
                                     >Mid-Atlantic regional flyer        (not ready yet)</a
                                 >
                             </p>
-                            <h5 id="philly">
-                                Baltimore-Washington, MD/DC: 2-Part Series starts on April 17-18, 2021 - online
+                            <h5 id="baltimore">
+                                Baltimore-Washington, MD/DC: 2-Part Series starts on July 9-10, 2021 - online<br />                                                                             
+                                New Dates    
                             </h5>
                             <table class="table-credits table-praises">
                                 <tbody>
@@ -65,12 +66,12 @@
                                     </tr>
                                     <tr>
                                         <td>Life Context</td>
-                                        <td>04/17: (9 am-12:30 pm; 2-5 pm); <br />04/18: (9 am-12 pm; 1:30-4:30 pm)</td>
+                                        <td>07/09: (9 am-12:30 pm; 2-5 pm); <br />07/10: (9 am-12 pm; 1:30-4:30 pm)</td>
                                         <td>$225</td>
                                     </tr>
                                     <tr>
                                         <td>Depth Contact</td>
-                                        <td>05/01: (9 am-12:30 pm; 2-5 pm); <br />05/02: (9 am-12 pm; 1:30-4:30 pm)</td>
+                                        <td>07/24: (9 am-12:30 pm; 2-5 pm); <br />07/25: (9 am-12 pm; 1:30-4:30 pm)</td>
                                         <td>$ 210</td>
                                     </tr>
                                 </tbody>
@@ -173,8 +174,64 @@
                                     </tr>
                                 </tbody>
                             </table>
-                            <h5> </h5>
-                            <h5> </h5>
+                            <h5>
+                                <br /><br /><a id="richmond2"></a>Richmond, Virginia:    Life Integration workshop -
+                                Monthly Sessions <br />                                Start  May 17, 2021 - online - 
+                                New format!  <br />                                Stay Connected and Deepen Your Work -
+                                online
+                            </h5>
+                            <table class="table-credits table-praises" style="width: 69.5311%">
+                                <tbody>
+                                    <tr>
+                                        <th style="width: 41.1718%">Workshops (12 hrs)</th>
+                                        <th style="width: 36.2478%">Schedule</th>
+                                        <th style="width: 38.0406%">Tuition<sup>*</sup></th>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 41.1718%">Life Integration</td>
+                                        <td style="width: 36.2478%">
+                                            05/17:  (6-9  pm); <br />06/21:  (6-9 pm);<br />07/19:   (6-9 pm)<br />08/09:  
+                                            (6-9 pm)
+                                        </td>
+                                        <td style="width: 38.0406%">$ 210</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <h5><!-- <br><br> --></h5>
+                            <p>* Tuition only. </p>
+                            <table class="table-credits table-praises">
+                                <tbody>
+                                    <tr>
+                                        <th>Location</th>
+                                        <td>Workshops are held online through Zoom.</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Leaders</th>
+                                        <td>
+                                            <p>
+                                                <strong>Nancy-Elizabeth Nimmich</strong> is a clinical social worker in
+                                                Virginia. Her professional career has been as a psychotherapist,
+                                                educator, hospice social worker and workshop presenter. She began
+                                                attending <em>Intensive Journal</em> workshops over 35 year ago and has
+                                                been leading them for the past 10 years.
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Registration</th>
+                                        <td>
+                                            Call <strong>330-998-6000 or 800-221-5844 </strong>or write to
+                                            <strong>Dialogue House</strong>, 2245 E Enterprise Pkwy - #B1, Twinsburg,
+                                            OH  44087-2348.  Email: info@intensivejournal.org Credit cards accepted.
+                                            Make checks payable to Dialogue House. Minimum non-refundable deposit: 
+                                            $100.  Full payment required at least 2 weeks before the workshop.
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <p> </p>
+                            <p> </p>
+                            <p> </p>
                             <h5 id="philly">
                                 Philadelphia, Pennsylvania: 3-Part Series on September 18-25, 2021 - online
                             </h5>

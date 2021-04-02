@@ -43,7 +43,7 @@
           <div id="my-content" class="section-inside-content cms-editable">
             <h1><em>Intensive Journal</em> Workshops - Northwest Region</h1>
             <!-- <br><br> -->
-            <h6>Winter - Spring, 2021</h6>
+            <h6>Spring - Fall, 2021</h6>
             <p class="reg-flyer">
               Please have a copy of our
               <a class="page-link" href="northwest-3p-1119.pdf" target="_blank" rel="noopener"
@@ -107,66 +107,7 @@
                 </tr>
               </tbody>
             </table>
-            <p><br /><br /><br /></p>
-            <h5 id="salem">Portland, Oregon: 3-Part Series Begins January 20, 2021 - Online</h5>
-            <table class="table-credits table-praises">
-              <tbody>
-                <tr>
-                  <th>Workshops</th>
-                  <th>Schedule</th>
-                  <th>Tuition<sup>*</sup></th>
-                </tr>
-                <tr>
-                  <td>Life Context</td>
-                  <td>01/20: (9:00 am-12:30 pm; 2-5 pm)<br />01/21: (9:00 am-12:30 pm; 2-5 pm )</td>
-                  <td>$ 225</td>
-                </tr>
-                <tr>
-                  <td>Depth Contact</td>
-                  <td>01/27: (9:00 am-12:30 pm; 2-5 pm)<br />01/28: (9:00 am-12:30 pm; 2-5 pm )</td>
-                  <td>$ 210</td>
-                </tr>
-                <tr>
-                  <td>Life Integration</td>
-                  <td>02/03: (9:00 am-12:30 pm; 2-5 pm)<br />02/04: (9:00 am-12:30 pm; 2-5 pm )</td>
-                  <td>$ 210</td>
-                </tr>
-                <tr>
-                  <td>All three workshops</td>
-                  <td> </td>
-                  <td>$ 625</td>
-                </tr>
-              </tbody>
-            </table>
-            <!-- <br><br> -->
-            <p>.* Tuition only.  Life Context workshop includes the<em> Intensive Journal</em> workbook.</p>
-            <table class="table-credits table-praises">
-              <tbody>
-                <tr>
-                  <th>Location</th>
-                  <td>Online workshops through Zoom.</td>
-                </tr>
-                <tr>
-                  <th>Leader</th>
-                  <td>
-                    <strong>Evelyn Wemhoff</strong> is a presenter of retreats and workshops at Shalom at the Monastery
-                    in Mt Angel, Oregon that offers personal and spiritual growth programs. She is a spiritual director,
-                    retired licensed counselor, and was formerly director of WomanSpirit Center in the Seattle area that
-                    offered programs for women seeking to develop their lives. Evelyn has led
-                    <em>Intensive Journal</em> workshops for over 30 years.
-                  </td>
-                </tr>
-                <tr>
-                  <th>Registration</th>
-                  <td>
-                    Call <strong> 971-273-0700 </strong> or write to: Evelyn Wemhoff, PO Box 21083, Keizer, OR 97303.
-                    Make check payable to Evelyn Wemhoff. email: evelynhwemhoff@comcast.net.  Minimum non-refundable
-                    deposit:  $100.  Full payment required at least 2 weeks in advance of workshop.
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-            <p><br /><br /><br /></p>
+            <p> </p>
             <h5 id="salem2"><a id="portland"></a>Portland, Oregon: 3 -Part Series Starts on March 17, 2021 - online</h5>
             <table class="table-credits table-praises">
               <tbody>
@@ -177,17 +118,17 @@
                 </tr>
                 <tr>
                   <td>Life Context</td>
-                  <td>03/17: (9 am-12:30 pm; 2-5 pm) <br />03/18: (9 am-12 pm; 1:30-4:30 pm)</td>
+                  <td>03/17: (9 am-12 pm; 1:30-4:30  pm) <br />03/18: (9 am-12 pm; 1:30-4:30 pm)</td>
                   <td>$225</td>
                 </tr>
                 <tr>
                   <td>Depth Contact</td>
-                  <td>03/24: (9 am-12:30 pm; 2-5 pm) <br />03/25: (9 am-12 pm; 1:30-4:30 pm)</td>
+                  <td>03/24: (9 am-12 pm; 1:#0-4:30 pm) <br />03/25: (9 am-12 pm; 1:30-4:30 pm)</td>
                   <td>$210</td>
                 </tr>
                 <tr>
                   <td>Life Integration</td>
-                  <td>03/31: (9 am-12:30 pm; 2-5 pm) <br />04/01: (9 am-12 pm; 1:30-4:30 pm)</td>
+                  <td>03/31: (9 am-12 pm; 1:#0-4:30 pm) <br />04/01: (9 am-12 pm; 1:30-4:30 pm)</td>
                   <td>$210</td>
                 </tr>
                 <tr>
@@ -284,10 +225,8 @@
                 </tr>
               </tbody>
             </table>
-            <h5 id="salem3">
-              <br /><br />Portland, Oregon: Life Study Workshop  TBA - online<br />                                                       
-              Advanced Preparation Required
-            </h5>
+            <h5> </h5>
+            <h5 id="salem">Portland, Oregon: 3-Part Series Begins October 6-7, 2021 - Online</h5>
             <table class="table-credits table-praises">
               <tbody>
                 <tr>
@@ -296,19 +235,34 @@
                   <th>Tuition<sup>*</sup></th>
                 </tr>
                 <tr>
-                  <td>Life Study</td>
-                  <td>TBA:  (9 am-12:30 pm; 2-5 pm)<br />TBA:  (9 am-12 pm; 1:30-4:30  pm)</td>
-                  <td>$225</td>
+                  <td>Life Context</td>
+                  <td>10/06: (9 am-12 pm; 1:30-4:30 pm)<br />10/07: (9 am-120 pm; 1:30-430 pm )</td>
+                  <td>$ 225</td>
+                </tr>
+                <tr>
+                  <td>Depth Contact</td>
+                  <td>10/13: (9 am-12 pm; 1:30-4:30 pm)<br />10/14: (9 am-12 pm; 1:30-4:30  pm )</td>
+                  <td>$ 210</td>
+                </tr>
+                <tr>
+                  <td>Life Integration</td>
+                  <td>10/20: (9 am-12 pm; 1:30-4:30 pm)<br />10/21: (9 am-12 pm; 1:30-4:30  pm )</td>
+                  <td>$ 210</td>
+                </tr>
+                <tr>
+                  <td>All three workshops</td>
+                  <td> </td>
+                  <td>$ 625</td>
                 </tr>
               </tbody>
             </table>
-            <!-- <br><br> -->
-            <p><sup>* Tuition only.  Includes Intensive Journal workbook.</sup></p>
+            <h5><!-- <br><br> --></h5>
+            <p>.* Tuition only.  Life Context workshop includes the<em> Intensive Journal</em> workbook.</p>
             <table class="table-credits table-praises">
               <tbody>
                 <tr>
                   <th>Location</th>
-                  <td>Online workshop through Zoom.</td>
+                  <td>Online workshops through Zoom.</td>
                 </tr>
                 <tr>
                   <th>Leader</th>
@@ -323,14 +277,13 @@
                 <tr>
                   <th>Registration</th>
                   <td>
-                    Call <strong>971-273-0700 </strong>or write to: Evelyn Wemhoff, PO Box 21083, Keizer, OR 97303. Make
-                    check payable to Evelyn Wemhoff. email: evelynhwemhoff@comcast.net.   Minimum non-refundable
+                    Call <strong> 971-273-0700 </strong> or write to: Evelyn Wemhoff, PO Box 21083, Keizer, OR 97303.
+                    Make check payable to Evelyn Wemhoff. email: evelynhwemhoff@comcast.net.  Minimum non-refundable
                     deposit:  $100.  Full payment required at least 2 weeks in advance of workshop.
                   </td>
                 </tr>
               </tbody>
             </table>
-            <p><br /><br /></p>
             <!-- <table class="table-credits table-praises table-schedules"> -->
             <p> </p>
             <!-- <hr class="trademark-line u-margin-top-small"> -->
@@ -342,6 +295,6 @@
       </div>
     </div>
 
-    <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+    
   </body>
 </html>

@@ -1,4 +1,5 @@
 <!-- <footer id="footer" class="cms-include footer"> From SurrealCMS.COM -- Not used anymore-->
+<script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
 
 <footer class="footer">
             <!-- <div class="footer__logo-box">
@@ -47,16 +48,19 @@
                                 <a href="#" class="footer__link"><ion-icon name="mail" class="icon-mail"></ion-icon></a>
                             </li> -->
                             <li class="footer__item">
-                                <a href="https://www.instagram.com/intensivejournal/" class="footer__link"><ion-icon name="logo-instagram" class="icon-ig"></ion-icon></a>
+                                <a href="https://www.instagram.com/intensivejournal/" class="footer__link" target=_blank><ion-icon name="logo-instagram" class="icon-ig"></ion-icon></a>
                             </li>
                             <li class="footer__item">
-                                <a href="https://www.facebook.com/intensivejournal" class="footer__link"><ion-icon name="logo-facebook" class="icon-fb"></ion-icon></a>
+                                <a href="https://www.facebook.com/intensivejournal" class="footer__link" target=_blank><ion-icon name="logo-facebook" class="icon-fb"></ion-icon></a>
                             </li>
                             <li class="footer__item">
-                                <a href="https://twitter.com/intensivjournal" class="footer__link"><ion-icon name="logo-twitter" class="icon-tw"></ion-icon></a>
+                                <a href="https://twitter.com/intensivjournal" class="footer__link" target=_blank><ion-icon name="logo-twitter" class="icon-tw"></ion-icon></a>
                             </li>
                             <li class="footer__item">
-                                <a href="https://www.linkedin.com/in/jonathan-progoff-b0474810/" class="footer__link"><ion-icon name="logo-linkedin" class="icon-li"></ion-icon></a>
+                                <a href="https://www.linkedin.com/in/jonathan-progoff-b0474810/" class="footer__link" target=_blank><ion-icon name="logo-linkedin" class="icon-li"></ion-icon></a>
+                            </li>
+                            <li class="footer__item">
+                                <a href="https://www.youtube.com/channel/UC2jfk8Q7un8jqrUUTEkkMrw/featured" class="footer__link" target=_blank><ion-icon name="logo-youtube" class="icon-yt"></ion-icon></a>
                             </li>
 
                             <div class="mail-blog">

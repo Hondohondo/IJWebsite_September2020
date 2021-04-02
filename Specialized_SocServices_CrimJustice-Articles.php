@@ -90,7 +90,7 @@ October 1986, Volume 37, Number 5, pp. 43-46.
 
         </div>
 
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+        
 
     </body>
 </html>

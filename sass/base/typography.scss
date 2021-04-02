@@ -129,6 +129,17 @@ p {
   // text-align: justify;
 }
 .orange {
-  font-size: 1.6rem;
-  color: #d35400;
+  font-size: 1.6rem !important;
+  color: #d35400 !important;
+}
+
+.orange-link {
+    font-weight: bold;
+
+    font-size: 1.6rem !important;
+    color: #d35400 !important;
+
+    &:hover {
+        color: white !important;
+    }
 }

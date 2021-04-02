@@ -98,7 +98,7 @@ The <em>Intensive Journal</em> process has been, for the years, one of the prima
 
         </div>
 
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+        
 
     </body>
 </html>

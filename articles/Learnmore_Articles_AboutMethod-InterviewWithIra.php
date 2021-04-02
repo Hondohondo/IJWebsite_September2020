@@ -215,7 +215,7 @@ People must be honest with themselves as they do their journal work. Otherwise, 
 
         </div>
 
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+
 
     </body>
 </html>

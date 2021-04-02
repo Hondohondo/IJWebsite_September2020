@@ -30,7 +30,9 @@
 
 <!--                <div class="section-inside-content schedules">-->
                 <div class="section-inside-content">
-
+                    <p class=print-para>
+                        <a href="GeneralWorkshops_SchedulesLocations-Canada-print.php" class="btn-text no-margin orange-link print">Print this page <ion-icon name="print-outline" class="icon-ig"></ion-icon></a>
+                    </p>
                   <h1>Canada</h1>
 
 
@@ -65,7 +67,7 @@
         </div>
 
 
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+
 
     </body>
 </html>

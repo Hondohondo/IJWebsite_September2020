@@ -252,6 +252,49 @@
 
                 </section>
 
+            <!-- <section class="above-the-fold">
+
+                    <div class="row flex-container">
+                        <div class="col-1-of-2">
+
+                            <h1 class="heading-one">The Well and The Cathedral</h1>
+
+                            <div class="ira-photo-container">
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/bw90du-SPJk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                            <p class="book">
+                                Selected as one of the 65 most significant books on <br> psychology & spirituality of the 20<sup>th</sup> century.
+                            </p>
+
+                            <p class="reference">
+                                Source: <a href="AboutUs_praises.php" target="_blank" class="page-link">Common Boundary,</a>
+                                <br> "Simply the Best," Jan-Feb, 1999
+                            </p>
+
+                        </div>
+
+                        <div class="col-1-of-2 blockquote-container">
+
+                            <div class="ira-blockquote">
+                                <blockquote class="ira-quote">
+                                    The <span><em>Intensive Journal</em></span><sup>&reg;</sup> method is not journal
+                                    keeping, not introspective diary keeping, and it isn't writing therapy...
+                                    it is the full scale active method of personal life integration for continuous
+                                    and cumulative work.
+                                    <cite>Ira Progoff, Ph.D.</cite>
+                                </blockquote>
+                                <p class="tag">
+                                    The method was created by Ira Progoff, PhD - a recognized pioneer in applying
+                                    his unique approaches of human development to provide you with
+                                    an amazing process to develop your life
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </section>-->
+
                 <section class="section-the-method">
                     <div class="method-panel">
                         <div class="row">
@@ -287,7 +330,7 @@
 
         </div>
 
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+        
 
     </body>
 </html>

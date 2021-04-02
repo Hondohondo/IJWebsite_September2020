@@ -15,7 +15,7 @@
                     <h1 class="heading-one hr-overview">Endorse the Method</h1>
                   </div>
                   <div class="banner">
-                    <div class="banner-img" id="banner-img-93">&nbsp;</div>
+                    <div class="banner-img" id="banner-img-94">&nbsp;</div>
                   </div>
 
                 <div id="my-content" class="section-inside-content cms-editable">
@@ -172,7 +172,7 @@
         </div>
 
 
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+
 
 
     </body>

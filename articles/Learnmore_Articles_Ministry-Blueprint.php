@@ -227,7 +227,7 @@ Progoff's <em>Intensive Journal</em> program is a practical method for a spiritu
 
         </div>
 
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+        
 
     </body>
 </html>

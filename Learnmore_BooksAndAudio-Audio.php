@@ -702,7 +702,7 @@ The Progoff™ Lecture Series consists of several key talks that were conducted 
 
         </div>
 
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+
 
     </body>
 </html>

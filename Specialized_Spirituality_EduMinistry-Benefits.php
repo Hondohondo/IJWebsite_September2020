@@ -143,7 +143,7 @@ spiritual figures to obtain clarity and understanding to develop your call to mi
                 <?php include "footer.php";?>
             </div>
         </div>
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+        
 
     </body>
 </html>

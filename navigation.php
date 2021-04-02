@@ -34,6 +34,7 @@
             <nav class="navigation__nav">
                 <ul class="navigation__list">
                   <li class="navigation__item">
+                      <span class="navigation__link blue-nav">WORKSHOPS & THE METHOD</span>
                       <span class="navigation__link"><em><em>Intensive Journal</em> </em> Method</span>
                       <ul class="navigation__item--nested">
                           <li><a href="index.php#index" id="index">Home</a></li>
@@ -43,6 +44,17 @@
                           <!-- <li><a class="footer__blog" href="Intensive_online-workshop.php#online" id="online">Online Workshop</a></li> -->
                       </ul>
                   </li>
+                    <li class="navigation__item">
+                        <span class="navigation__link">General Workshops</span>
+                        <ul class="navigation__item--nested">
+                            <li><a href="GeneralWorkshops_AboutWorkshops-WorkshopAtmosphere.php#workshop" id="workshop">About the Workshops</a></li>
+                            <li><a href="GeneralWorkshops_WorkshopModules-LifeContext.php#module" id="module">Workshop Modules</a></li>
+
+                            <li><a href="GeneralWorkshops_SchedulesLocations-Schedules.php#schedule" id="schedule">Schedules and Locations</a></li>
+
+                            <li><a href="GeneralWorkshops_StartWorkshop.php#start" id="start">Start a Workshop</a></li>
+                        </ul>
+                    </li>
                     <li class="navigation__item">
                         <span class="navigation__link">About Us</span>
                         <ul class="navigation__item--nested">
@@ -65,18 +77,27 @@
                     </li>
 
                     <li class="navigation__item">
-                        <span class="navigation__link">General Workshops</span>
+                        <span class="navigation__link">Learn more</span>
                         <ul class="navigation__item--nested">
-                            <li><a href="GeneralWorkshops_AboutWorkshops-WorkshopAtmosphere.php#workshop" id="workshop">About the Workshops</a></li>
-                            <li><a href="GeneralWorkshops_WorkshopModules-LifeContext.php#module" id="module">Workshop Modules</a></li>
+                            <li><a href="Miscellaneous_JoinMailingList.php#join" id="join">Join Mailing List</a></li>
+                            <li>
+                                <a href="LearnMore_ContEducation.php">Continuing Education</a>
+                                <ul class="navigation__item--nested--nested">
+                                    <li class="nested-list"><a href="LearnMore_ContEducation_Therapy-LearningObjective.php#therapy" id="therapy">Therapy</a></li>
+                                    <li class="nested-list"><a href="LearnMore_ContEducation_Nursing-LearningObjective.php#nursing" id="nursing">Nursing</a></li>
+                                </ul>
 
-                            <li><a href="GeneralWorkshops_SchedulesLocations-Schedules.php#schedule" id="schedule">Schedules and Locations</a></li>
+                            </li>
+                            <li><a href="LearnMore_Articles.php#articles" id="articles">Articles</a></li>
+                            <li><a href="Learnmore_LifeHistories.php#stories" id="stories">Life Histories</a></li>
+                            <li><a href="Learnmore_Newsletters.php#news" id="news">Newsletters</a></li>
+                            <li><a href="Learnmore_BooksAndAudio-Books.php#books" id="books">Books and Audio</a></li>
 
-                            <li><a href="GeneralWorkshops_StartWorkshop.php#start" id="start">Start a Workshop</a></li>
                         </ul>
                     </li>
 
                     <li class="navigation__item">
+                        <span class="navigation__link blue-nav">APPLICATIONS</span>
                         <span class="navigation__link">Practical Life Issues</span>
                         <ul class="navigation__item--nested">
                           <li><a href="PracticalLife_Mindfulness-Overview.php#mind" id="mind">Mindfulness</a></li>
@@ -138,34 +159,19 @@
 
                         </ul>
                     </li>
-                    <li class="navigation__item">
-                        <span class="navigation__link">Learn more</span>
-                        <ul class="navigation__item--nested">
-                            <li>
-                              <a href="LearnMore_ContEducation.php">Continuing Education</a>
-                                <ul class="navigation__item--nested--nested">
-                                  <li class="nested-list"><a href="LearnMore_ContEducation_Therapy-LearningObjective.php#therapy" id="therapy">Therapy</a></li>
-                                  <li class="nested-list"><a href="LearnMore_ContEducation_Nursing-LearningObjective.php#nursing" id="nursing">Nursing</a></li>
-                                </ul>
 
-                            </li>
-                            <li><a href="LearnMore_Articles.php#articles" id="articles">Articles</a></li>
-                            <li><a href="Learnmore_LifeHistories.php#stories" id="stories">Life Histories</a></li>
-                            <li><a href="Learnmore_Newsletters.php#news" id="news">Newsletters</a></li>
-                            <li><a href="Learnmore_BooksAndAudio-Books.php#books" id="books">Books and Audio</a></li>
 
-                        </ul>
-                    </li>
+
                     <li class="navigation__item">
                         <span class="navigation__link">Miscellaneous</span>
                         <ul class="navigation__item--nested">
 
-                            <li><a href="Miscellaneous_JoinMailingList.php#join" id="join">Join Mailing List</a></li>
                              <li><a href="Miscellaneous_BecomeLeader-Overview.php#leader" id="leader">Become a Leader</a></li>
                             <li><a href="Miscellaneous_ContactUs.php#contact" id="contact">Contact us</a></li>
                             <li><a href="Miscellaneous_Support.php#support" id="support">Support the Program</a></li>
                             <li><a href="Miscellaneous_Refer.php#refer" id="refer">Refer Your Friends</a></li>
                             <li><a href="Miscellaneous_Endorse.php#endorse" id="endorse">Endorse the Method</a></li>
+                            <li><a href="sitemap.php#sitemap" id="endorse">Sitemap</a></li>
 
                             <!-- <li><a href="#">Links</a></li> -->
                             <!-- <li><a href="#">Sitemap</a></li> -->

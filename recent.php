@@ -78,7 +78,7 @@ Many of these programs are held at retreat centers that provide overnight accomm
         </div>
 
 
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+
 
     </body>
 </html>

@@ -1,17 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <title>Progoff Intensive Journal Program | For Self-Development</title>
-    <meta charset="utf-8">
-    <meta name="description" content>
-    <meta property="og:title" content="Progoff Intensive Journal Program | For Self-Development">
-    <meta property="og:description" content>
-    <meta property="og:image" content>
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.intensivejournal.org/GeneralWorkshops_SchedulesLocations-NorthEast.php">
-</head>
+<?php include "headhtml.php";?>
 <body>
-    <?php include "headhtml.php";?>
 
     <?php include "phone-nav.php";?>
     <div class="expand">
@@ -37,6 +27,9 @@
                         <div id="banner-img-18" class="banner-img"> </div>
                     </div>
                     <div id="my-content" class="section-inside-content">
+                        <p class=print-para>
+                            <a href="GeneralWorkshops_SchedulesLocations-NorthEast-print.php" class="btn-text no-margin orange-link print">Print this page <ion-icon name="print-outline" class="icon-ig"></ion-icon></a>
+                        </p>
                         <h1>Northeastern Region</h1>
 
                         <?php include "workshop_steps.php";?>
@@ -60,7 +53,7 @@
 
     </div>
 
-    <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+
 
 </body>
 </html>

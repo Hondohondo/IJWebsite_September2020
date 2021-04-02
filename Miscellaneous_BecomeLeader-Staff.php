@@ -83,7 +83,7 @@ Bill has worked as an ordained pastor, a group and family therapist, and then as
 
         </div>
 
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+
 
     </body>
 </html>

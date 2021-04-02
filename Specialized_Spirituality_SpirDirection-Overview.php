@@ -64,7 +64,7 @@ integrated system of writing exercises for personal and spiritual growth. The de
                 <?php include "footer.php";?>
             </div>
         </div>
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+
 
     </body>
 </html>

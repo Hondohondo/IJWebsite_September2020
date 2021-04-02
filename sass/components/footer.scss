@@ -151,7 +151,10 @@
         }
         &:hover .icon-li {
             color: #0e76a8;
+        }
 
+        &:hover .icon-yt {
+            color: #FF0000;
         }
 
     }
@@ -266,6 +269,7 @@
 .icon-ig,
 .icon-fb,
 .icon-tw,
+.icon-yt,
 .icon-li {
     transition: color 0.2s;
 }

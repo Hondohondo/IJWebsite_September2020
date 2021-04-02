@@ -17,7 +17,6 @@
                     <div class="inside-nav-container">
                       <hr class="work-hr">
                     <ul class="inside-nav">
-
                       <li><a href="Specialized_SocServices_JobTraining-Overview.php">Overview</a></li>
                       <span class="vert">&vert;</span>
                       <li><a href="Specialized_SocServices_JobTraining-Outcomes.php">Outcomes</a></li>
@@ -27,7 +26,6 @@
                       <li><a href="Specialized_SocServices_JobTraining-Research.php">Research</a></li>
                       <span class="vert">&vert;</span>
                       <li><a href="Specialized_SocServices_JobTraining-Articles.php">Articles</a></li>
-
                     </ul>
                     <hr class="work-hr">
                   </div>
@@ -82,7 +80,7 @@ October 1986, Volume 37, Number 5, pp. 43-46.
 
         </div>
 
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+        
 
     </body>
 </html>

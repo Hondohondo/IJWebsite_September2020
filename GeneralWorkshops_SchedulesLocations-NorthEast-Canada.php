@@ -186,13 +186,11 @@
                                         <td>
                                             <p><strong> </strong></p>
                                             <p>
-                                                <strong>
-                                                    Nancy-Elizabeth Nimmich is a clinical social worker in Virginia. Her
-                                                    professional career has been as a psychotherapist, educator, hospice
-                                                    social worker and workshop presenter. She began attending
-                                                    <em>Intensive Journal</em> workshops over 35 year ago and has been
-                                                    leading them for the past 10 years.</strong
-                                                >
+                                                <strong> Nancy-Elizabeth Nimmich </strong>is a clinical social worker in
+                                                Virginia. Her professional career has been as a psychotherapist,
+                                                educator, hospice social worker and workshop presenter. She began
+                                                attending <em>Intensive Journal</em> workshops over 35 year ago and has
+                                                been leading them for the past 10 years.
                                             </p>
                                         </td>
                                     </tr>
@@ -515,6 +513,6 @@
             </div>
         </div>
 
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+        
     </body>
 </html>

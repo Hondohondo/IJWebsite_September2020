@@ -101,7 +101,7 @@ energy and momentum and reduces anxiety and stress.</li>
                 <?php include "footer.php";?>
             </div>
         </div>
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+        
 
     </body>
 </html>

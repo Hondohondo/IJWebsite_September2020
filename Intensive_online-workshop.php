@@ -20,12 +20,6 @@
                         <li><a href="Intensive_online-workshop.php">Overview</a></li>
                         <span class="vert">&vert;</span>
                         <li><a href="Intensive_online-series.php">3-Part Series</a></li>
-                            <!-- <span class="vert">&vert;</span>
-                            <li><a href="AboutUs_quotes.php">Quotes</a></li>
-                            <span class="vert">&vert;</span>
-                            <li><a href="AboutUs_praises.php">Praise</a></li>
-                            <span class="vert">&vert;</span>
-                            <li><a href="AboutUs_poem.php">Poem</a></li> -->
                       </ul>
                           <hr class="work-hr">
                     </div>
@@ -103,7 +97,7 @@
         </div>
 
 
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+        
 
     </body>
 </html>

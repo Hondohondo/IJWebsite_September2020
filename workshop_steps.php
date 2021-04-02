@@ -63,8 +63,14 @@
     With Zoom you can go anywhere. Check also other cities and <a class="page-link" href="GeneralWorkshops_SchedulesLocations-Schedules.php">&larr; regions</a>
 </p>
 
+
+    <p class="orange u-margin-bottom-small-1 strong">
+        Now click on the city below in the workshops calendar for the workshop that is of interest.
+        This will take you to the detail page with the dates, hours, description of the leader, and how to register.
+    </p>
+
 <br>
 
-<h6 class="u-margin-bottom-small">Workshop Calendar</h6>
+<h6 class="u-margin-bottom-small">Workshops Calendar</h6>
 
 </div>

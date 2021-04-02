@@ -370,7 +370,7 @@ The background of this paper is a long-term interest in the psycho-spiritual nat
 
         </div>
 
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+        
 
     </body>
 </html>

@@ -52,11 +52,15 @@ hr {
   position: fixed;
   top: 0;
   //left: 0;
+  //width: calc( 2 * ((100% - 2 * #{$gutter-horizontal}) / 3) + #{$gutter-horizontal} );
+  //width: 60%;
+  //margin: 0 auto;
   width: 100%;
+
   //background-color: indianred;
   background-color: white;
   box-shadow: 0 2px 2px #efefef;
-  z-index: 9999;
+  z-index: 9991;
 }
 
 .sticky {

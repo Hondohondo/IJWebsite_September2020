@@ -24,19 +24,21 @@
 
       //----old
       //max-width: 75rem;
-      max-width: calc( 2 * ((100% - 2 * #{$gutter-horizontal}) / 3) + #{$gutter-horizontal} );; //added
+    max-width: calc( 2 * ((100% - 2 * #{$gutter-horizontal}) / 3) + #{$gutter-horizontal} );; //added
+
       //margin: 1.5rem auto;
       overflow: hidden;
       //---
 
       @include respond(desktop){
-            margin: 1.5rem 4rem;
+            //margin: 1.5rem 4rem;
       }
       @include respond(tab-port){
-              margin: 1.5rem auto;
+              //margin: 1.5rem auto;
+        max-width: 100%;
       }
       @include respond(big-phone2){
-            margin: 1.5rem 4rem;
+            //margin: 1.5rem 4rem;
       }
 
       .heading-five {

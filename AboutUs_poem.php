@@ -147,7 +147,7 @@ Written by Dr. Progoff in 1972.  <br class="u-margin-bottom-small-1">
 
         </div>
 
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+
 
     </body>
 </html>

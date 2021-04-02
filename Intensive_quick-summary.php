@@ -30,7 +30,13 @@
                     <div class="banner">
                         <div id="banner-img-1" class="banner-img"> </div>
                     </div>
+
+
                     <div class="section-recent-content">
+                        <p class=print-para>
+                            <a href="Intensive_quick-summary-print.php" class="btn-text no-margin orange-link print">Print this page <ion-icon name="print-outline" class="icon-ig"></ion-icon></a>
+                        </p>
+
                         <h1>Quick Summary of the <em>Intensive Journal</em> Program</h1>
                         <p>Welcome to the <em>Intensive Journal</em> Program! This section is designed to give you
                             sufficient information about the <em>Intensive Journal</em> method and what happens at a
@@ -112,7 +118,9 @@
                             counseling centers, and other educational and spiritual centers.</p>
                         <h6>Held Internationally Throughout the Year</h6>
                         <p>We offer workshops in the United States, Canada, and overseas (Europe and Australia)
-                            throughout the year. Our schedule is updated periodically; check our <a href="GeneralWorkshops_SchedulesLocations-Schedules.php" class="btn-text no-margin">Workshops Calendar &rarr;</a> on our
+                            throughout the year.
+                            <br>
+                            Our schedule is updated periodically; check our <a href="GeneralWorkshops_SchedulesLocations-Schedules.php" class="btn-text no-margin orange-link">Workshops Calendar &rarr;</a> on our
                             schedules and locations page.</p>
                         <!-- add link to workshop schedules
                   LINK.   Costs vary by location; on our website, click on the city you are interested in attending and scroll to the workshop on the page with details (costs, hours, description of the presenter and
@@ -132,8 +140,6 @@ location, and how to register. -->
         </div>
 
     </div>
-
-    <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
 
 </body>
 </html>

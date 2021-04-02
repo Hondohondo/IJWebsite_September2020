@@ -132,7 +132,7 @@
                 </tbody>
               </table>
               <br /><br /><br />
-              <h5>In-Person Workshop:    Kingscliff, NSW:  2-Part Series Starts 26-27 February 21</h5>
+              <h5>In-Person Workshop:    Kingscliff, NSW:  Part 1- Life Context  dates changed to 7-8 May 21</h5>
               <table class="table-credits table-praises" style="width: 79.9985%">
                 <tbody>
                   <tr>
@@ -143,7 +143,7 @@
                   <tr>
                     <td style="width: 33.2777%">Life Context</td>
                     <td style="width: 50.2962%">
-                      Fri 26 Feb 21 (9:30 am-5:00 pm)<br />Sat 27 Feb 21 (9:30 am-4:30 pm)
+                      Fri 07 May 21 (9:30 am-5:00 pm)<br />Sat 08 May 21 (9:30 am-4:30 pm)
                     </td>
                     <td style="width: 30.7764%">$170*+</td>
                   </tr>
@@ -160,14 +160,16 @@
               <p>
                 <sup>*</sup>All materials plus morning and afternoon tea provided. Bring your lunch (or purchase nearby)
                 and a 3 ring binder.   Restaurants and lodging nearby.  <br />+$150 for Eremos and Kingscliff parish
-                members.  <strong>Early bird reduction of $10 for bookings made by 25 January.   </strong
+                members. 
+                <strong
+                  >Early bird reduction of $10 for bookings made by 01 April and 3 May is deadline for registration.   </strong
                 ><span style="font-size: 14pt; color: #397a7a"
                   ><a href="https://www.trybooking.com/BNUKO">https://www.trybooking.com/BNUKO</a></span
                 >
               </p>
               <p>
                 <strong>++ $140 Eremos and Kingscliff parish members.  Early bird reduction </strong>of  $20 for
-                bookings by 30 March.<strong>  R</strong>egistration close  24 April<strong>.  </strong
+                bookings by 30 March.  Registration close  24 April<strong>.  </strong
                 ><span style="font-size: 14pt; color: #397a7a"
                   ><a href="https://www.trybooking.com/BNUQC">https://www.trybooking.com/BNUQC</a></span
                 >
@@ -218,6 +220,6 @@
       </div>
     </div>
 
-    <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+
   </body>
 </html>

@@ -86,7 +86,7 @@
                                     <tr>
                                         <th>Leader</th>
                                         <td>
-                                            <strong>Carolyn (Kelley) Williams </strong>has led
+                                            <strong>Kelley Williams </strong>has led
                                             <em>Intensive Journal</em> workshops since 1991 primarily in the Midwest.
                                             Prior to relocating to the greater Phoenix area, Kelley served as Senior
                                             Editor of Publications in Obstetrics and Gynecology at Northwestern
@@ -115,6 +115,6 @@
             </div>
         </div>
 
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+
     </body>
 </html>

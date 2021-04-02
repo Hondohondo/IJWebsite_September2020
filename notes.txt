@@ -45,3 +45,13 @@ Install Live-server globally:
 On terminal run..."sudo  npm install live-server -g"
 
 Then run "live-server" on your home directory to open the site on your browser...
+
+To run sitemap script:
+
+npx sitemap-generator-cli https://intensivejournal.org
+
+it's available on github, I have also cloned it:
+
+npm install -g sitemap-generator-cli
+# or execute it directly with npx (since npm v5.2)
+npx sitemap-generator-cli https://example.com

@@ -23,10 +23,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea4563f3-2394-4209-90fa-029c0a868a1c" name="Default Changelist" comment="Leaders">
-      <change afterPath="$PROJECT_DIR$/js/jquery.waypoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules_table-surreal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Canada-print.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International-print.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-MidWest-print.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast-print.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-SouthEast-print.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western-print.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intensive_quick-summary-print.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/print.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registeronline.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registeronline2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registeronline3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sitemap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snipcart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/IJWebsite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IJWebsite.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AboutMethod_Dreams.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMethod_Dreams.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AboutMethod_Features.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMethod_Features.php" afterDir="false" />
@@ -37,16 +53,14 @@
       <change beforePath="$PROJECT_DIR$/AboutMethod_Meditation.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMethod_Meditation.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AboutMethod_Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMethod_Overview.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AboutMethod_WholeLife.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMethod_WholeLife.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AboutUs_DialogueHouse.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutUs_DialogueHouse.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AboutUs_iraprogoff.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutUs_iraprogoff.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AboutUs_mission.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutUs_mission.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AboutUs_poem.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutUs_poem.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AboutUs_praises.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutUs_praises.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AboutUs_quotes.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutUs_quotes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Canada.php" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Canada.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Midwestern.php" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Midwestern.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Northeastern.php" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Northeastern.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Southern.php" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Southern.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Western.php" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Western.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Another" beforeDir="false" afterPath="$PROJECT_DIR$/Another" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CanadaTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/CanadaTable.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GeneralWorkshops_AboutWorkshops-FAQ.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_AboutWorkshops-FAQ.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GeneralWorkshops_AboutWorkshops-Reasons.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_AboutWorkshops-Reasons.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GeneralWorkshops_AboutWorkshops-WorkshopAtmosphere.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_AboutWorkshops-WorkshopAtmosphere.php" afterDir="false" />
@@ -215,6 +229,9 @@
       <change beforePath="$PROJECT_DIR$/gardner.php" beforeDir="false" afterPath="$PROJECT_DIR$/gardner.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/headhtml.php" beforeDir="false" afterPath="$PROJECT_DIR$/headhtml.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/headhtml2.php" beforeDir="false" afterPath="$PROJECT_DIR$/headhtml2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-old.php" beforeDir="false" afterPath="$PROJECT_DIR$/home-old.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ira.php" beforeDir="false" afterPath="$PROJECT_DIR$/ira.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leaders/GeneralWorkshops_Leaders-Progoff.php" beforeDir="false" afterPath="$PROJECT_DIR$/leaders/GeneralWorkshops_Leaders-Progoff.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lgbt-workshop.php" beforeDir="false" afterPath="$PROJECT_DIR$/lgbt-workshop.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Addiction-Overcoming.php" beforeDir="false" afterPath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Addiction-Overcoming.php" afterDir="false" />
@@ -237,13 +254,23 @@
       <change beforePath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Trauma-Recovering.php" beforeDir="false" afterPath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Trauma-Recovering.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Trauma-Surviving.php" beforeDir="false" afterPath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Trauma-Surviving.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mergedtable.php" beforeDir="false" afterPath="$PROJECT_DIR$/mergedtable.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/modules_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/navigation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recent.php" beforeDir="false" afterPath="$PROJECT_DIR$/recent.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/relationships.php" beforeDir="false" afterPath="$PROJECT_DIR$/relationships.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/retire-workshop.php" beforeDir="false" afterPath="$PROJECT_DIR$/retire-workshop.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/base/typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/base/utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/utilities.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/components/contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/components/contact.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/components/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/components/footer.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/layout/banner.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/banner.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/layout/content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/content.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/layout/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/layout/phonenav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/phonenav.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/pages/newtables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/pages/newtables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/pages/photos.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/pages/photos.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sp-testimonial0.php" beforeDir="false" afterPath="$PROJECT_DIR$/sp-testimonial0.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Catholic.php" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Catholic.php" afterDir="false" />
@@ -264,20 +291,29 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/stripe-php-7.75.0/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="SCSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
     <include_path>
@@ -309,16 +345,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hondo\PhpstormProjects\IJWebsite" />
+      <recent name="C:\Users\hondo\PhpstormProjects\IJWebsite\img" />
       <recent name="C:\Users\hondo\PhpstormProjects\IJWebsite\js" />
       <recent name="C:\Users\hondo\PhpstormProjects\IJWebsite\leaders\photos" />
       <recent name="C:\Users\hondo\PhpstormProjects\IJWebsite\leaders" />
-      <recent name="C:\Users\hondo\PhpstormProjects\IJWebsite\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hondo\PhpstormProjects\IJWebsite\sass" />
@@ -391,7 +427,21 @@
       <workItem from="1613255167705" duration="2212000" />
       <workItem from="1615325767967" duration="7465000" />
       <workItem from="1615490428826" duration="18493000" />
-      <workItem from="1615662199456" duration="1343000" />
+      <workItem from="1615662199456" duration="10722000" />
+      <workItem from="1615736583131" duration="14000" />
+      <workItem from="1615919400215" duration="4964000" />
+      <workItem from="1616098582814" duration="6176000" />
+      <workItem from="1616265187369" duration="10886000" />
+      <workItem from="1616432719816" duration="17619000" />
+      <workItem from="1616523611931" duration="2971000" />
+      <workItem from="1616551349200" duration="23000" />
+      <workItem from="1616783704215" duration="2733000" />
+      <workItem from="1616854084979" duration="47000" />
+      <workItem from="1616868473590" duration="13477000" />
+      <workItem from="1617039828523" duration="3112000" />
+      <workItem from="1617127293086" duration="8464000" />
+      <workItem from="1617241825666" duration="8000" />
+      <workItem from="1617386992264" duration="1011000" />
     </task>
     <task id="LOCAL-00001" summary="Added new map">
       <created>1607815536605</created>
@@ -456,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610667256207</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="New Changes March 2021">
+      <created>1615663735476</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1615663735476</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -485,7 +542,8 @@
     <MESSAGE value="Done homepage" />
     <MESSAGE value="Leaders" />
     <MESSAGE value="Database" />
-    <option name="LAST_COMMIT_MESSAGE" value="Database" />
+    <MESSAGE value="New Changes March 2021" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Changes March 2021" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

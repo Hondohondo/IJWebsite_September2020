@@ -164,7 +164,7 @@ As for my Twelve-Step journey, I attended my first OA meeting in 1978, and weave
 
         </div>
 
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+        
 
     </body>
 </html>

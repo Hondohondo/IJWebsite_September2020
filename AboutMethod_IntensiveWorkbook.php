@@ -110,7 +110,7 @@ To achieve a significant transformation in a personality, strong forces of energ
         </div>
 
 
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+
 
     </body>
 </html>

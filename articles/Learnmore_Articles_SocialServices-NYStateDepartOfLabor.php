@@ -290,7 +290,7 @@ To be in nursing you have to have patience...you can’t come in to take care of
 
         </div>
 
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+        
 
     </body>
 </html>

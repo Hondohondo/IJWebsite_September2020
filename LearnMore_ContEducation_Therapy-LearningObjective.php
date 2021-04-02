@@ -120,7 +120,7 @@ Prereq. LC or Life Experience (LE) workshops. 10-12 hours </h6>
 
         </div>
 
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+
 
     </body>
 </html>

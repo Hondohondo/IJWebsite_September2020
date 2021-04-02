@@ -83,7 +83,7 @@
                                     <tr>
                                         <th>Leader</th>
                                         <td>
-                                            <strong>Carolyn (Kelley) Williams </strong>has led
+                                            <strong>Kelley Williams </strong>has led
                                             <em>Intensive Journal</em> workshops since 1991 primarily in the Midwest.
                                             Prior to relocating to the greater Phoenix area, Kelley served as Senior
                                             Editor of Publications in Obstetrics and Gynecology at Northwestern
@@ -105,7 +105,7 @@
                             </table>
                             <h5> </h5>
                             <a id="chicago-pre"></a><br />
-                            <h5 id="louis">Chicago, Illinois:  Presentation on March 14, 2021 - online</h5>
+                            <h5 id="louis">Chicago, Illinois:  Presentation in Fall, 2021 TBA - online</h5>
                             <table class="table-credits table-praises" style="width: 83.2854%">
                                 <tbody>
                                     <tr>
@@ -115,7 +115,7 @@
                                     </tr>
                                     <tr>
                                         <td style="width: 31.2904%">Presentation</td>
-                                        <td style="width: 50.9928%">03/14: (1-4 pm)<br /><br /></td>
+                                        <td style="width: 50.9928%">TBA: (1-4 pm)<br /><br /></td>
                                         <td style="width: 29.587%">$ 65</td>
                                     </tr>
                                 </tbody>
@@ -185,7 +185,7 @@
                                     <tr>
                                         <th>Leader</th>
                                         <td>
-                                            <strong>Carolyn (Kelley) Williams </strong>has led
+                                            <strong>Kelley Williams </strong>has led
                                             <em>Intensive Journal</em> workshops since 1991 primarily in the Midwest.
                                             Prior to relocating to the greater Phoenix area, Kelley served as Senior
                                             Editor of Publications in Obstetrics and Gynecology at Northwestern
@@ -256,7 +256,7 @@
                                     <tr>
                                         <th>Leader</th>
                                         <td>
-                                            <strong>Carolyn (Kelley) Williams </strong>has led
+                                            <strong>Kelley Williams </strong>has led
                                             <em>Intensive Journal</em> workshops since 1991 primarily in the Midwest.
                                             Prior to relocating to the greater Phoenix area, Kelley served as Senior
                                             Editor of Publications in Obstetrics and Gynecology at Northwestern
@@ -277,7 +277,9 @@
                                 </tbody>
                             </table>
                             <br /><br />
-                            <h5 id="chicago">Chicago, Illinois:  2-Part Series on September 18-19, 2021 - online</h5>
+                            <h5 id="chicago">
+                                <a id="chicago2"></a>Chicago, Illinois:  2-Part Series on September 18-19, 2021 - online
+                            </h5>
                             <table class="table-credits table-praises" style="width: 83.1118%">
                                 <tbody>
                                     <tr>
@@ -318,7 +320,7 @@
                                     <tr>
                                         <th>Leader</th>
                                         <td>
-                                            <strong>Carolyn (Kelley) Williams </strong>has led
+                                            <strong>Kelley Williams </strong>has led
                                             <em>Intensive Journal</em> workshops since 1991 primarily in the Midwest.
                                             Prior to relocating to the greater Phoenix area, Kelley served as Senior
                                             Editor of Publications in Obstetrics and Gynecology at Northwestern
@@ -340,7 +342,7 @@
                             </table>
                             <br />
                             <h5>
-                                Chicago, Illinois:  Life Integration workshop - Monthly Sessions
+                                <a id="chicago-li"></a>Chicago, Illinois:  Life Integration workshop - Monthly Sessions
                                 <br />                                Start September 23, 2021 - online -  New format! 
                                 <br />                                Stay Connected and Deepen Your Work
                             </h5>
@@ -374,7 +376,7 @@
                                     <tr>
                                         <th>Leader</th>
                                         <td>
-                                            <strong>Carolyn (Kelley) Williams </strong>has led
+                                            <strong>Kelley Williams </strong>has led
                                             <em>Intensive Journal</em> workshops since 1991 primarily in the Midwest.
                                             Prior to relocating to the greater Phoenix area, Kelley served as Senior
                                             Editor of Publications in Obstetrics and Gynecology at Northwestern
@@ -408,6 +410,6 @@
             </div>
         </div>
 
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+        
     </body>
 </html>

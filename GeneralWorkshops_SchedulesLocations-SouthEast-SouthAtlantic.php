@@ -44,7 +44,7 @@
                         <div id="my-content" class="section-inside-content">
                             <h1><em id="tampa">Intensive Journal</em> Workshops - Southeastern Region</h1>
                             <!-- <br><br> -->
-                            <h6>Winter -  Summer 2021</h6>
+                            <h6>Winter -  Fall 2021</h6>
                             <p class="reg-flyer">
                                 Please have a copy of our
                                 <a class="page-link" href="southeast-3p-1219.pdf" target="_blank" rel="noopener"
@@ -239,9 +239,10 @@
                                 </tbody>
                             </table>
                             <h5> </h5>
-                            <h5> </h5>
                             <h5 id="nashville">
-                                Nashville-Chattanooga, Tennessee: 3-Part Series on November 7-14, 2020 - online
+                                <a id="raleigh"></a>Raleigh-Durham, North Carolina:   2-Part Series Begins on October
+                                9-10, 2021
+                                -                                                                                 online
                             </h5>
                             <table class="table-credits table-praises">
                                 <tbody>
@@ -252,17 +253,70 @@
                                     </tr>
                                     <tr>
                                         <td>Life Context</td>
-                                        <td>11/07: (9 am-12:30; 2-5 pm<br />11/08: (9 am-12 pm;  1:30-4:30 pm)</td>
+                                        <td>10/09: (9 am-12:30; 2-5 pm<br />10/10: (9 am-12 pm;  1:30-4:30 pm)</td>
                                         <td>$ 225</td>
                                     </tr>
                                     <tr>
                                         <td>Depth Contact</td>
-                                        <td>11/10: (9 am-12:30; 2-5 pm<br />11/11: (9 am-12 pm;  1:30-4:30 pm)</td>
+                                        <td>10/30: (9 am-12:30; 2-5 pm<br />10/31: (9 am-12 pm;  1:30-4:30 pm)</td>
+                                        <td>$ 210</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <h5><!-- <br><br> --></h5>
+                            <p>* Tuition only.   Life Context workshop includes <em>Intensive Journal</em> workbook.</p>
+                            <table class="table-credits table-praises">
+                                <tbody>
+                                    <tr>
+                                        <th>Location</th>
+                                        <td>Workshops held online through Zoom.</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Leaders</th>
+                                        <td>
+                                            <strong><br />Nancy-Elizabeth Nimmich</strong> (Depth Contact and Life
+                                            Integration) is a clinical social worker in Virginia. Her professional
+                                            career has been as a psychotherapist, educator, hospice social worker and
+                                            workshop presenter. She began attending <em>Intensive Journal</em> workshops
+                                            over 35 year ago and has been leading them for the past 10 years.
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Registration</th>
+                                        <td>
+                                            Call <strong> 330-998-6000 or 800-221-5844 </strong> or write to
+                                            <strong>Dialogue House</strong> , 2245 E Enterprise Pkwy - #B1, Twinsburg,
+                                            OH  44087.   Email: info@intensivejournal.org Credit cards accepted. Make
+                                            checks payable to  Dialogue House.  Minimum non-refundable deposit:  $100.  
+                                            Full payment required at least two weeks in advance of the workshop.
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <h5 id="nashville">
+                                <br /><br />Nashville-Chattanooga, Tennessee: 3-Part Series on November 6-13, 2021 -
+                                online
+                            </h5>
+                            <table class="table-credits table-praises">
+                                <tbody>
+                                    <tr>
+                                        <th>Workshops (12 hrs)</th>
+                                        <th>Schedule</th>
+                                        <th>Tuition<sup>*</sup></th>
+                                    </tr>
+                                    <tr>
+                                        <td>Life Context</td>
+                                        <td>11/06: (9 am-12:30; 2-5 pm<br />11/07: (9 am-12 pm;  1:30-4:30 pm)</td>
+                                        <td>$ 225</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Depth Contact</td>
+                                        <td>11/09: (9 am-12:30; 2-5 pm<br />11/10: (9 am-12 pm;  1:30-4:30 pm)</td>
                                         <td>$ 210</td>
                                     </tr>
                                     <tr>
                                         <td>Life Integration</td>
-                                        <td>11/13: (9 am-12:30; 2-5 pm<br />11/14: (9 am-12 pm;  1:30-4:30 pm)</td>
+                                        <td>11/12: (9 am-12:30; 2-5 pm<br />11/13: (9 am-12 pm;  1:30-4:30 pm)</td>
                                         <td>$ 210</td>
                                     </tr>
                                     <tr>
@@ -286,20 +340,11 @@
                                     <tr>
                                         <th>Leaders</th>
                                         <td>
-                                            <strong class>Dave Arbogast</strong> (Life Context) recently retired as an
-                                            English Curriculum and Digital Resources Specialist for the Loudoun County
-                                            Public School District in Northern Virginia.  Previously, he was a high
-                                            school English teacher and a cross country coach. Dave is affiliated with
-                                            the National Writing Project and is active in 12-Step recovery programs in
-                                            Northern Virginia.  Dave has led <i class>Intensive Journal </i>workshops in
-                                            the Mid-Atlantic region for six years.<br /><strong
-                                                ><br />Nancy-Elizabeth Nimmich</strong
-                                            >
-                                            (Depth Contact and Life Integration) is a clinical social worker in
-                                            Virginia. Her professional career has been as a psychotherapist, educator,
-                                            hospice social worker and workshop presenter. She began attending
-                                            <em>Intensive Journal</em> workshops over 35 year ago and has been leading
-                                            them for the past 10 years.
+                                            <strong><br />Nancy-Elizabeth Nimmich</strong> (Depth Contact and Life
+                                            Integration) is a clinical social worker in Virginia. Her professional
+                                            career has been as a psychotherapist, educator, hospice social worker and
+                                            workshop presenter. She began attending <em>Intensive Journal</em> workshops
+                                            over 35 year ago and has been leading them for the past 10 years.
                                         </td>
                                     </tr>
                                     <tr>
@@ -391,6 +436,6 @@
             </div>
         </div>
 
-        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+        
     </body>
 </html>

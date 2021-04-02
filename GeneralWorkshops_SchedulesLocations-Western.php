@@ -33,6 +33,9 @@
                     </div>
 
                     <div id="my-content" class="section-inside-content">
+                        <p class=print-para>
+                            <a href="GeneralWorkshops_SchedulesLocations-Western-print.php" class="btn-text no-margin orange-link print">Print this page <ion-icon name="print-outline" class="icon-ig"></ion-icon></a>
+                        </p>
                         <h1>Western Region</h1>
 
                         <?php include "workshop_steps.php";?>
@@ -57,7 +60,7 @@
 
     </div>
 
-    <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+
 
 </body>
 </html>

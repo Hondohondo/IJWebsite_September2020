@@ -96,7 +96,11 @@
                   </p>
 
                   <p>
-                    Please have a copy of our brochure on <a href="criminal-justice-2019.pdf" target="_blank" class="page-link">criminal justice <ion-icon name="download" class="download-icon"></ion-icon></a>
+                    Please have a copy of our brochure on <a href="criminal-justice-2019.pdf" target="_blank" class="page-link">criminal justice (US Version) <ion-icon name="download" class="download-icon"></ion-icon></a>
+                  </p>
+
+                    <p>
+                    Please have a copy of our brochure on <a href="criminal-justice-canadian-2019.pdf" target="_blank" class="page-link">criminal justice (Canada Version) <ion-icon name="download" class="download-icon"></ion-icon></a>
                   </p>
 
 

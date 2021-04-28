@@ -101,7 +101,7 @@
                         </div>
 
 
-                          <div class="form__group">
+              <!--            <div class="form__group">
                               <label class="form__label" for="city">City</label>
                               <input class="form__input half" id="city" type="text" name="city" placeholder="" required>
                           </div>
@@ -122,13 +122,52 @@
                                   <input class="form__input half" id="state" type="text" name="state" placeholder="" required>
                               </div>
                             </div>
+                        </div>-->
+
+
+                        <div class="row">
+                            <div class="col-1-of-2">
+                                <div class="form__group nusu">
+                                    <label class="form__label" for="city">City</label>
+                                    <input class="form__input half" id="city" type="text" name="city" placeholder="" required>
+                                </div>
+                            </div>
+                            <div class="col-1-of-2">
+                                <div class="form__group nusu">
+                                    <label class="form__label" for="state">State</label>
+                                    <input class="form__input half" id="state" type="text" name="state" placeholder="">
+                                </div>
+                            </div>
                         </div>
+
+
+                        <div class="row">
+                            <div class="col-1-of-2">
+                                <div class="form__group nusu">
+                                    <label class="form__label" for="zip">Zip Code</label>
+                                    <input class="form__input half2" id="zip" type="text" name="zip" placeholder="">
+                                </div>
+                            </div>
+                            <div class="col-1-of-2">
+                                <div class="form__group nusu">
+                                    <label class="form__label" for="country">Country</label>
+                                    <input class="form__input half2" id="country" type="text" name="country" placeholder="">
+                                </div>
+                            </div>
+                        </div>
+
+
 
 
 
                          <div class="form__group">
                             <label class="form__label" for="number">Phone number (Optional)</label>
                             <input class="form__input" id="number" type="tel" name="phone" placeholder="123-456-7890">
+                        </div>
+
+                        <div class="form__group">
+                            <label class="form__label" for="email">Email address</label>
+                            <input class="form__input" id="email" type="email" name="email" placeholder="you@example.com" required>
                         </div>
 
                         <div class="form__group">

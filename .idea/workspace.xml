@@ -23,268 +23,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea4563f3-2394-4209-90fa-029c0a868a1c" name="Default Changelist" comment="Leaders">
-      <change afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Canada-print.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International-print.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-MidWest-print.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast-print.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-SouthEast-print.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western-print.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intensive_quick-summary-print.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/print.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/registeronline.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/registeronline2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/registeronline3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sitemap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snipcart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/IJWebsite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IJWebsite.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9j49i2npcz0wlps9hysr6ss86ffwtn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Merged.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelpMorePeople-Share-Endorsements.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelpMorePeople-Share-LifeHistories.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelpMorePeople-Share-SocialMedia.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnMore__LifeHistories-LifeHistories.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnMore__LifeHistories-Overview.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnMore__LifeHistories-WriteLifeHistory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Miscellaneous_After-Help.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Miscellaneous_After.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewWorkshops-GroupDiscounts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewWorkshops-IntroductorySessions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewWorkshops-PublicWorkshops.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewWorkshops-WorkshopsInstitution.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/criminal-justice-canadian-2019.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Part1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Part2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Part3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/payment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registeronline4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registeronline5.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutMethod_Dreams.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMethod_Dreams.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutMethod_Features.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMethod_Features.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutMethod_IntensiveWorkbook.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMethod_IntensiveWorkbook.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutMethod_JournalFeedback.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMethod_JournalFeedback.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutMethod_Meditation-Application.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMethod_Meditation-Application.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutMethod_Meditation-SampleReading.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMethod_Meditation-SampleReading.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutMethod_Meditation.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMethod_Meditation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutMethod_Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMethod_Overview.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutMethod_WholeLife.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMethod_WholeLife.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutUs_DialogueHouse.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutUs_DialogueHouse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutUs_iraprogoff.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutUs_iraprogoff.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutUs_mission.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutUs_mission.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutUs_poem.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutUs_poem.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutUs_praises.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutUs_praises.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutUs_quotes.php" beforeDir="false" afterPath="$PROJECT_DIR$/AboutUs_quotes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Another" beforeDir="false" afterPath="$PROJECT_DIR$/Another" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CanadaTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/CanadaTable.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_AboutWorkshops-FAQ.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_AboutWorkshops-FAQ.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_AboutWorkshops-Reasons.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_AboutWorkshops-Reasons.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_AboutWorkshops-WorkshopAtmosphere.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_AboutWorkshops-WorkshopAtmosphere.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_Leaders.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_Leaders.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Canada.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Canada.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International-Australia.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International-Australia.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International-France.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International-France.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International-Germany.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International-Germany.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International-Italy.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International-Italy.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International-Morocco.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International-Morocco.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International-UK.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International-UK.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-International.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-MidWest-Eastern.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-MidWest-Eastern.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-MidWest-Western.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-MidWest-Western.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-MidWest.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-MidWest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast-Canada.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast-Canada.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast-MidAtlantic.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast-NewEngland.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast-NewEngland.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast-NewJersey.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast-NewJersey.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-NorthEast.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Schedules.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Schedules.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-SouthEast-SouthAtlantic.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-SouthEast-SouthAtlantic.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-SouthEast-SouthCentral.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-SouthEast-SouthCentral.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-SouthEast.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-SouthEast.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western-NorthCA.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western-NorthCA.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western-NorthWest.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western-NorthWest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western-SouthCA.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western-SouthCA.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western-SouthWest.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western-SouthWest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_SchedulesLocations-Western.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_StartWorkshop.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_StartWorkshop.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_WorkshopModules-DepthContext.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_WorkshopModules-DepthContext.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_WorkshopModules-FAQ.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_WorkshopModules-FAQ.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_WorkshopModules-LifeContext.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_WorkshopModules-LifeContext.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_WorkshopModules-LifeExperience.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_WorkshopModules-LifeExperience.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_WorkshopModules-LifeIntegration.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_WorkshopModules-LifeIntegration.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralWorkshops_WorkshopModules-LifeStudy.php" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralWorkshops_WorkshopModules-LifeStudy.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intensive_online-series.php" beforeDir="false" afterPath="$PROJECT_DIR$/Intensive_online-series.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intensive_online-workshop.php" beforeDir="false" afterPath="$PROJECT_DIR$/Intensive_online-workshop.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intensive_quick-summary.php" beforeDir="false" afterPath="$PROJECT_DIR$/Intensive_quick-summary.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnMore_Articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/LearnMore_Articles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnMore_ContEducation.php" beforeDir="false" afterPath="$PROJECT_DIR$/LearnMore_ContEducation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnMore_ContEducation_Nursing-Article.php" beforeDir="false" afterPath="$PROJECT_DIR$/LearnMore_ContEducation_Nursing-Article.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnMore_ContEducation_Nursing-Benefits.php" beforeDir="false" afterPath="$PROJECT_DIR$/LearnMore_ContEducation_Nursing-Benefits.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnMore_ContEducation_Nursing-Credits.php" beforeDir="false" afterPath="$PROJECT_DIR$/LearnMore_ContEducation_Nursing-Credits.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnMore_ContEducation_Nursing-Endorse.php" beforeDir="false" afterPath="$PROJECT_DIR$/LearnMore_ContEducation_Nursing-Endorse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnMore_ContEducation_Nursing-LearningObjective.php" beforeDir="false" afterPath="$PROJECT_DIR$/LearnMore_ContEducation_Nursing-LearningObjective.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnMore_ContEducation_Nursing-Organize.php" beforeDir="false" afterPath="$PROJECT_DIR$/LearnMore_ContEducation_Nursing-Organize.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnMore_ContEducation_Therapy-Credits.php" beforeDir="false" afterPath="$PROJECT_DIR$/LearnMore_ContEducation_Therapy-Credits.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnMore_ContEducation_Therapy-Endorse.php" beforeDir="false" afterPath="$PROJECT_DIR$/LearnMore_ContEducation_Therapy-Endorse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnMore_ContEducation_Therapy-LearningObjective.php" beforeDir="false" afterPath="$PROJECT_DIR$/LearnMore_ContEducation_Therapy-LearningObjective.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learnmore_BooksAndAudio-Audio.php" beforeDir="false" afterPath="$PROJECT_DIR$/Learnmore_BooksAndAudio-Audio.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learnmore_BooksAndAudio-Books.php" beforeDir="false" afterPath="$PROJECT_DIR$/Learnmore_BooksAndAudio-Books.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learnmore_BooksAndAudio-Combo.php" beforeDir="false" afterPath="$PROJECT_DIR$/Learnmore_BooksAndAudio-Combo.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learnmore_LifeHistories-WriteLifeHistory.php" beforeDir="false" afterPath="$PROJECT_DIR$/Learnmore_LifeHistories-WriteLifeHistory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learnmore_LifeHistories.php" beforeDir="false" afterPath="$PROJECT_DIR$/Learnmore_LifeHistories.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learnmore_Newsletters.php" beforeDir="false" afterPath="$PROJECT_DIR$/Learnmore_Newsletters.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Miscellaneous_BecomeLeader-Application.php" beforeDir="false" afterPath="$PROJECT_DIR$/Miscellaneous_BecomeLeader-Application.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Miscellaneous_BecomeLeader-Background.php" beforeDir="false" afterPath="$PROJECT_DIR$/Miscellaneous_BecomeLeader-Background.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Miscellaneous_BecomeLeader-Description.php" beforeDir="false" afterPath="$PROJECT_DIR$/Miscellaneous_BecomeLeader-Description.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Miscellaneous_BecomeLeader-Introduction.php" beforeDir="false" afterPath="$PROJECT_DIR$/Miscellaneous_BecomeLeader-Introduction.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Miscellaneous_BecomeLeader-Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/Miscellaneous_BecomeLeader-Overview.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Miscellaneous_BecomeLeader-Staff.php" beforeDir="false" afterPath="$PROJECT_DIR$/Miscellaneous_BecomeLeader-Staff.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Miscellaneous_ContactUs.php" beforeDir="false" afterPath="$PROJECT_DIR$/Miscellaneous_ContactUs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Miscellaneous_Endorse.php" beforeDir="false" afterPath="$PROJECT_DIR$/Miscellaneous_Endorse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Miscellaneous_JoinMailingList.php" beforeDir="false" afterPath="$PROJECT_DIR$/Miscellaneous_JoinMailingList.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Miscellaneous_Refer.php" beforeDir="false" afterPath="$PROJECT_DIR$/Miscellaneous_Refer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Miscellaneous_Support.php" beforeDir="false" afterPath="$PROJECT_DIR$/Miscellaneous_Support.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticalLife_Mindfulness-Benefits.php" beforeDir="false" afterPath="$PROJECT_DIR$/PracticalLife_Mindfulness-Benefits.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticalLife_Mindfulness-Endorse.php" beforeDir="false" afterPath="$PROJECT_DIR$/PracticalLife_Mindfulness-Endorse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticalLife_Mindfulness-Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/PracticalLife_Mindfulness-Overview.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticalLife_PersonalRelationships-Articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/PracticalLife_PersonalRelationships-Articles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticalLife_PersonalRelationships-Benefits.php" beforeDir="false" afterPath="$PROJECT_DIR$/PracticalLife_PersonalRelationships-Benefits.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticalLife_PersonalRelationships-Endorse.php" beforeDir="false" afterPath="$PROJECT_DIR$/PracticalLife_PersonalRelationships-Endorse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticalLife_PersonalRelationships-Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/PracticalLife_PersonalRelationships-Overview.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticalLife_Retirement-Articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/PracticalLife_Retirement-Articles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticalLife_Retirement-Benefits.php" beforeDir="false" afterPath="$PROJECT_DIR$/PracticalLife_Retirement-Benefits.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticalLife_Retirement-Endorse.php" beforeDir="false" afterPath="$PROJECT_DIR$/PracticalLife_Retirement-Endorse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticalLife_Retirement-Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/PracticalLife_Retirement-Overview.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticalLife_SexualIdentity-Articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/PracticalLife_SexualIdentity-Articles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticalLife_SexualIdentity-Benefits.php" beforeDir="false" afterPath="$PROJECT_DIR$/PracticalLife_SexualIdentity-Benefits.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticalLife_SexualIdentity-Endorse.php" beforeDir="false" afterPath="$PROJECT_DIR$/PracticalLife_SexualIdentity-Endorse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticalLife_SexualIdentity-Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/PracticalLife_SexualIdentity-Overview.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Health_AddRecovery-12Steps.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Health_AddRecovery-12Steps.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Health_AddRecovery-Articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Health_AddRecovery-Articles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Health_AddRecovery-Benefits.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Health_AddRecovery-Benefits.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Health_AddRecovery-Endorse.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Health_AddRecovery-Endorse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Health_AddRecovery-Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Health_AddRecovery-Overview.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Health_Depression-Articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Health_Depression-Articles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Health_Depression-Benefits.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Health_Depression-Benefits.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Health_Depression-Endorse.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Health_Depression-Endorse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Health_Depression-Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Health_Depression-Overview.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Health_MajorIllness-Articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Health_MajorIllness-Articles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Health_MajorIllness-Benefits.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Health_MajorIllness-Benefits.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Health_MajorIllness-Endorse.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Health_MajorIllness-Endorse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Health_MajorIllness-Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Health_MajorIllness-Overview.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Health_Trauma-Articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Health_Trauma-Articles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Health_Trauma-Benefits.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Health_Trauma-Benefits.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Health_Trauma-Endorse.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Health_Trauma-Endorse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Health_Trauma-Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Health_Trauma-Overview.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Profession_Coaching-Benefits.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Profession_Coaching-Benefits.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Profession_Coaching-Endorse.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Profession_Coaching-Endorse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Profession_Coaching-Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Profession_Coaching-Overview.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Profession_Ministry-Articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Profession_Ministry-Articles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Profession_Ministry-ContEducation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Profession_Ministry-ContEducation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Profession_Ministry-Devt.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Profession_Ministry-Devt.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Profession_Ministry-Endorse.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Profession_Ministry-Endorse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Profession_Ministry-Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Profession_Ministry-Overview.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Profession_Ministry-Pastoral.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Profession_Ministry-Pastoral.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Profession_Teaching-Benefits.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Profession_Teaching-Benefits.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Profession_Teaching-Endorse.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Profession_Teaching-Endorse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Profession_Teaching-Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Profession_Teaching-Overview.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Profession_Teaching-SpecialProjects.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Profession_Teaching-SpecialProjects.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Profession_WritersGen-Education.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Profession_WritersGen-Education.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Profession_WritersGen-Endorse.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Profession_WritersGen-Endorse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Profession_WritersGen-GeneralWriting.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Profession_WritersGen-GeneralWriting.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Profession_WritersGen-MemoirWriting.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Profession_WritersGen-MemoirWriting.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Profession_WritersGen-Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Profession_WritersGen-Overview.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Profession_WritersGen-Poetry.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Profession_WritersGen-Poetry.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Profession_WritersGen-Statements.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Profession_WritersGen-Statements.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Profession_WritersTech-Benefits.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Profession_WritersTech-Benefits.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Profession_WritersTech-Endorse.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Profession_WritersTech-Endorse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Profession_WritersTech-Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Profession_WritersTech-Overview.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_SocServices_ConResolution-Articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_SocServices_ConResolution-Articles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_SocServices_ConResolution-Benefits.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_SocServices_ConResolution-Benefits.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_SocServices_ConResolution-Endorse.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_SocServices_ConResolution-Endorse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_SocServices_ConResolution-Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_SocServices_ConResolution-Overview.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_SocServices_CrimJustice-Articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_SocServices_CrimJustice-Articles.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Specialized_SocServices_CrimJustice-Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_SocServices_CrimJustice-Overview.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_SocServices_CrimJustice-Rehabilitation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_SocServices_CrimJustice-Rehabilitation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_SocServices_CrimJustice-ResearchStudies.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_SocServices_CrimJustice-ResearchStudies.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_SocServices_JobTraining-Articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_SocServices_JobTraining-Articles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_SocServices_JobTraining-Benefits.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_SocServices_JobTraining-Benefits.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_SocServices_JobTraining-Outcomes.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_SocServices_JobTraining-Outcomes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_SocServices_JobTraining-Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_SocServices_JobTraining-Overview.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_SocServices_JobTraining-Research.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_SocServices_JobTraining-Research.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Spirituality_ContPractice-Articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Spirituality_ContPractice-Articles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Spirituality_ContPractice-Benefits.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Spirituality_ContPractice-Benefits.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Spirituality_ContPractice-Endorse.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Spirituality_ContPractice-Endorse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Spirituality_ContPractice-FormPrayer.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Spirituality_ContPractice-FormPrayer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Spirituality_ContPractice-Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Spirituality_ContPractice-Overview.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Spirituality_EduMinistry-Articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Spirituality_EduMinistry-Articles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Spirituality_EduMinistry-Benefits.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Spirituality_EduMinistry-Benefits.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Spirituality_EduMinistry-EfmMentor.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Spirituality_EduMinistry-EfmMentor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Spirituality_EduMinistry-Endorse.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Spirituality_EduMinistry-Endorse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Spirituality_EduMinistry-Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Spirituality_EduMinistry-Overview.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Spirituality_SpirDirection-Benefits.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Spirituality_SpirDirection-Benefits.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Spirituality_SpirDirection-Endorse.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Spirituality_SpirDirection-Endorse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Spirituality_SpirDirection-Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Spirituality_SpirDirection-Overview.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specialized_Spirituality_Testimonials-Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/Specialized_Spirituality_Testimonials-Overview.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/Learnmore_Articles_AboutMethod-InterviewWithIra.php" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Learnmore_Articles_AboutMethod-InterviewWithIra.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/Learnmore_Articles_AboutMethod-PathToDiscovery.php" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Learnmore_Articles_AboutMethod-PathToDiscovery.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/Learnmore_Articles_AboutMethod-WayofJournal.php" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Learnmore_Articles_AboutMethod-WayofJournal.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/Learnmore_Articles_Ministry-Blueprint.php" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Learnmore_Articles_Ministry-Blueprint.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/Learnmore_Articles_Ministry-EnhancingEfm.php" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Learnmore_Articles_Ministry-EnhancingEfm.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/Learnmore_Articles_Ministry-ExperienceWorkshop.php" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Learnmore_Articles_Ministry-ExperienceWorkshop.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/Learnmore_Articles_Ministry-SpiritualTool.php" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Learnmore_Articles_Ministry-SpiritualTool.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/Learnmore_Articles_Ministry-Threshold.php" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Learnmore_Articles_Ministry-Threshold.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/Learnmore_Articles_Ministry-ToolForMinistry.php" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Learnmore_Articles_Ministry-ToolForMinistry.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/Learnmore_Articles_SocialServices-AwakeningBehindWalls.php" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Learnmore_Articles_SocialServices-AwakeningBehindWalls.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/Learnmore_Articles_SocialServices-NYStateDepartOfLabor.php" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Learnmore_Articles_SocialServices-NYStateDepartOfLabor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/Learnmore_Articles_SocialServices-NoLongerTheory.php" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Learnmore_Articles_SocialServices-NoLongerTheory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/Learnmore_Articles_SocialServices-TargetPrisonProgram.php" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Learnmore_Articles_SocialServices-TargetPrisonProgram.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/Learnmore_Articles_Wellness-FindingtheMessage.php" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Learnmore_Articles_Wellness-FindingtheMessage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/Learnmore_Articles_Wellness-PsychOfPersonalGrowth.php" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Learnmore_Articles_Wellness-PsychOfPersonalGrowth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gardner.php" beforeDir="false" afterPath="$PROJECT_DIR$/gardner.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/headhtml.php" beforeDir="false" afterPath="$PROJECT_DIR$/headhtml.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headhtml2.php" beforeDir="false" afterPath="$PROJECT_DIR$/headhtml2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home-old.php" beforeDir="false" afterPath="$PROJECT_DIR$/home-old.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ira.php" beforeDir="false" afterPath="$PROJECT_DIR$/ira.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leaders/GeneralWorkshops_Leaders-Progoff.php" beforeDir="false" afterPath="$PROJECT_DIR$/leaders/GeneralWorkshops_Leaders-Progoff.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lgbt-workshop.php" beforeDir="false" afterPath="$PROJECT_DIR$/lgbt-workshop.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Addiction-Overcoming.php" beforeDir="false" afterPath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Addiction-Overcoming.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Addiction-OvercomingAddictions.php" beforeDir="false" afterPath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Addiction-OvercomingAddictions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Bereavement-Grieving.php" beforeDir="false" afterPath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Bereavement-Grieving.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Bereavement-LosingFriend.php" beforeDir="false" afterPath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Bereavement-LosingFriend.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Bereavement-SuddenLoss.php" beforeDir="false" afterPath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Bereavement-SuddenLoss.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Cancer-ChoosingLife.php" beforeDir="false" afterPath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Cancer-ChoosingLife.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Cancer-MyBattle.php" beforeDir="false" afterPath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Cancer-MyBattle.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Cancer-Recovering.php" beforeDir="false" afterPath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Cancer-Recovering.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Cancer-Surviving.php" beforeDir="false" afterPath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Cancer-Surviving.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-CareGiver-Caring.php" beforeDir="false" afterPath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-CareGiver-Caring.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Depression-UsingTheMethod.php" beforeDir="false" afterPath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Depression-UsingTheMethod.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-DomesticViolence-BreakingFree.php" beforeDir="false" afterPath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-DomesticViolence-BreakingFree.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-PhysicalDisability-MovingBeyond.php" beforeDir="false" afterPath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-PhysicalDisability-MovingBeyond.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Retirement-Developing.php" beforeDir="false" afterPath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Retirement-Developing.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-SexualIdentity-Embracing.php" beforeDir="false" afterPath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-SexualIdentity-Embracing.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Trauma-Healing.php" beforeDir="false" afterPath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Trauma-Healing.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Trauma-Overcoming.php" beforeDir="false" afterPath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Trauma-Overcoming.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Trauma-Recovering.php" beforeDir="false" afterPath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Trauma-Recovering.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Trauma-Surviving.php" beforeDir="false" afterPath="$PROJECT_DIR$/lifestories/Learnmore_LifeHistories-Trauma-Surviving.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mergedtable.php" beforeDir="false" afterPath="$PROJECT_DIR$/mergedtable.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/navigation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recent.php" beforeDir="false" afterPath="$PROJECT_DIR$/recent.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/relationships.php" beforeDir="false" afterPath="$PROJECT_DIR$/relationships.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retire-workshop.php" beforeDir="false" afterPath="$PROJECT_DIR$/retire-workshop.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/base/typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/registeronline3.php" beforeDir="false" afterPath="$PROJECT_DIR$/registeronline3.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/base/utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/utilities.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/components/contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/components/contact.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/components/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/components/footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/layout/banner.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/banner.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/layout/content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/content.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/layout/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/layout/phonenav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/phonenav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/layout/navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/navigation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/layout/navigationcopy.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/navigationcopy.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/pages/newtables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/pages/newtables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/pages/photos.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/pages/photos.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp-testimonial0.php" beforeDir="false" afterPath="$PROJECT_DIR$/sp-testimonial0.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Catholic.php" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Catholic.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-DisciplesChrist.php" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-DisciplesChrist.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Episcopal.php" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Episcopal.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Methodist.php" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Methodist.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-NewThought.php" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-NewThought.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Presbyterian.php" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Presbyterian.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Quaker.php" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Quaker.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Unitarian.php" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Unitarian.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-United.php" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-United.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Unity.php" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/Specialized_Spirituality_Testimonials-Unity.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials/testimonial.php" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials/testimonial.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshop_steps.php" beforeDir="false" afterPath="$PROJECT_DIR$/workshop_steps.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -299,8 +74,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="SCSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -357,6 +132,7 @@
       <recent name="C:\Users\hondo\PhpstormProjects\IJWebsite\leaders" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hondo\PhpstormProjects\IJWebsite" />
       <recent name="C:\Users\hondo\PhpstormProjects\IJWebsite\sass" />
     </key>
   </component>
@@ -441,7 +217,16 @@
       <workItem from="1617039828523" duration="3112000" />
       <workItem from="1617127293086" duration="8464000" />
       <workItem from="1617241825666" duration="8000" />
-      <workItem from="1617386992264" duration="1011000" />
+      <workItem from="1617386992264" duration="10907000" />
+      <workItem from="1617486448508" duration="1551000" />
+      <workItem from="1617741318198" duration="3050000" />
+      <workItem from="1618079368078" duration="455000" />
+      <workItem from="1618079896273" duration="3784000" />
+      <workItem from="1618858165133" duration="14000" />
+      <workItem from="1618858204823" duration="4426000" />
+      <workItem from="1619060047911" duration="607000" />
+      <workItem from="1619203794697" duration="24398000" />
+      <workItem from="1619563299284" duration="2684000" />
     </task>
     <task id="LOCAL-00001" summary="Added new map">
       <created>1607815536605</created>
@@ -513,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615663735476</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Update - April 2">
+      <created>1617392582436</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1617392582436</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,7 +335,8 @@
     <MESSAGE value="Leaders" />
     <MESSAGE value="Database" />
     <MESSAGE value="New Changes March 2021" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Changes March 2021" />
+    <MESSAGE value="Update - April 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update - April 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

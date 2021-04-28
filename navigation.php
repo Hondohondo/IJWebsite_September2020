@@ -55,6 +55,32 @@
                             <li><a href="GeneralWorkshops_StartWorkshop.php#start" id="start">Start a Workshop</a></li>
                         </ul>
                     </li>
+
+                    <li class="navigation__item">
+                        <span class="navigation__link">Help More People Benefit</span>
+                        <ul class="navigation__item--nested u-margin-top-tiny">
+                            <li>
+                                <a href="#" class="groups groups-added">Share Your Workshop Experience</a>
+                                <ul class="navigation__item--nested--nested">
+                                    <li class="nested-list"><a href="HelpMorePeople-Share-SocialMedia.php" id="">Social Media</a></li>
+                                    <li class="nested-list"><a href="HelpMorePeople-Share-Endorsements.php" id="">Endorsements</a></li>
+                                    <li class="nested-list"><a href="HelpMorePeople-Share-LifeHistories.php" id="">Life Histories</a></li>
+                                </ul>
+                            </li>
+
+                            <li>
+                                <a href="#" class="groups groups-added">Discounts and New Workshops</a>
+                                <ul class="navigation__item--nested--nested">
+                                    <li class="nested-list"><a href="NewWorkshops-GroupDiscounts.php" id="">Group Discounts</a></li>
+                                    <li class="nested-list"><a href="NewWorkshops-IntroductorySessions.php" id="">Introductory Session</a></li>
+                                    <li class="nested-list"><a href="NewWorkshops-PublicWorkshops.php" id="">Public Workshops</a></li>
+                                    <li class="nested-list"><a href="NewWorkshops-WorkshopsInstitution.php" id="">Workshops in an Institution</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+
+
                     <li class="navigation__item">
                         <span class="navigation__link">About Us</span>
                         <ul class="navigation__item--nested">
@@ -89,7 +115,8 @@
 
                             </li>
                             <li><a href="LearnMore_Articles.php#articles" id="articles">Articles</a></li>
-                            <li><a href="Learnmore_LifeHistories.php#stories" id="stories">Life Histories</a></li>
+<!--                            <li><a href="Learnmore_LifeHistories.php#stories" id="stories">Life Histories</a></li>-->
+                            <li><a href="LearnMore__LifeHistories-Overview.php">Life Histories</a></li>
                             <li><a href="Learnmore_Newsletters.php#news" id="news">Newsletters</a></li>
                             <li><a href="Learnmore_BooksAndAudio-Books.php#books" id="books">Books and Audio</a></li>
 
@@ -170,7 +197,8 @@
                             <li><a href="Miscellaneous_ContactUs.php#contact" id="contact">Contact us</a></li>
                             <li><a href="Miscellaneous_Support.php#support" id="support">Support the Program</a></li>
                             <li><a href="Miscellaneous_Refer.php#refer" id="refer">Refer Your Friends</a></li>
-                            <li><a href="Miscellaneous_Endorse.php#endorse" id="endorse">Endorse the Method</a></li>
+                            <li><a href="Miscellaneous_After.php" id="refer">After the Workshop</a></li>
+<!--                            <li><a href="Miscellaneous_Endorse.php#endorse" id="endorse">Endorse the Method</a></li>-->
                             <li><a href="sitemap.php#sitemap" id="endorse">Sitemap</a></li>
 
                             <!-- <li><a href="#">Links</a></li> -->

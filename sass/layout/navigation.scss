@@ -106,7 +106,8 @@
             // cursor: default;
             display: inline-block;
             padding: 0rem 1rem;
-            font-size: 1.9rem;
+            //font-size: 1.9rem;
+            font-size: 2rem;
             // font-size: 3rem;
             font-weight: 700;
             color: midnightblue;
@@ -121,5 +122,14 @@
     .groups {
       font-size: 1.7rem;
       font-weight: 600;
+      cursor: default;
+
+      &:hover {
+        border-bottom: 1.5px solid transparent;
+      }
+    }
+
+    .groups-added {
+      font-size: 1.6rem !important;
     }
 }

@@ -1,8 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include "headhtml.php";?>
+  <?php include "headhtml.php";?><head>
+    <title>Progoff Intensive Journal Program | For Self-Development</title>
+    <meta charset="utf-8" />
+    <meta name="description" content />
+    <meta property="og:title" content="Progoff Intensive Journal Program | For Self-Development" />
+    <meta property="og:description" content />
+    <meta property="og:image" content />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:url"
+      content="https://www.intensivejournal.org/GeneralWorkshops_SchedulesLocations-International.php"
+    />
+  </head>
   <body>
-
     <?php include "phone-nav.php";?>
     <div class="expand">
       <?php include "navigation.php";?>
@@ -25,9 +36,6 @@
           </div>
 
           <div id="content" class="section-inside-content schedules cms-editable">
-            <!--  <p class=print-para>
-                  <a href="GeneralWorkshops_SchedulesLocations-International-print.php" class="btn-text no-margin orange-link print">Print this page <ion-icon name="print-outline" class="icon-ig"></ion-icon></a>
-              </p>-->
             <h1>International</h1>
             <p class="orange u-margin-bottom-small-1 strong">
               Now click on the city below in the workshops calendar for the workshop that is of interest. This will take
@@ -90,7 +98,6 @@
             </p>
             <p> </p>
             <h6 class="u-margin-bottom-small">Workshop Calendar</h6>
-
             <table class="table-credits table-praises table-schedules">
               <tbody>
                 <tr>
@@ -111,8 +118,8 @@
                     >
                   </td>
                   <td style="width: 106px">LC-ONL</td>
-                  <td style="width: 129px">06 Feb 21</td>
-                  <td style="width: 112px">07 Feb 21</td>
+                  <td style="width: 129px">04 Jun 21</td>
+                  <td style="width: 112px">25 Jun 21</td>
                   <td style="width: 124px">English</td>
                   <td style="width: 247px">(04) 2521 1065</td>
                   <td style="width: 132px">Kate Scholl</td>
@@ -124,9 +131,9 @@
                       >Sydney, NSW</a
                     >
                   </td>
-                  <td style="width: 106px">DC-ONL</td>
-                  <td style="width: 129px">13 Mar 21</td>
-                  <td style="width: 112px">14 Mar 21</td>
+                  <td style="width: 106px">LC-ONL</td>
+                  <td style="width: 129px">24 Jul 21</td>
+                  <td style="width: 112px">25 Jul 21</td>
                   <td style="width: 124px">English</td>
                   <td style="width: 247px">(04) 2521 1065</td>
                   <td style="width: 132px">Kate Scholl</td>
@@ -511,7 +518,5 @@
         <?php include "footer.php";?>
       </div>
     </div>
-
-
   </body>
 </html>

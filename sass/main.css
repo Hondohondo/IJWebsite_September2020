@@ -477,6 +477,10 @@ body {
   margin-top: 1.5rem !important;
 }
 
+.u-margin-top-tiny {
+  margin-top: 0.5rem !important;
+}
+
 .u-margin-top-small-1 {
   margin-top: 1rem !important;
 }
@@ -2149,7 +2153,7 @@ hr {
 .navigation__link {
   display: inline-block;
   padding: 0rem 1rem;
-  font-size: 1.9rem;
+  font-size: 2rem;
   font-weight: 700;
   color: midnightblue;
   text-decoration: none;
@@ -2158,6 +2162,13 @@ hr {
 .navigation .groups {
   font-size: 1.7rem;
   font-weight: 600;
+  cursor: default;
+}
+.navigation .groups:hover {
+  border-bottom: 1.5px solid transparent;
+}
+.navigation .groups-added {
+  font-size: 1.6rem !important;
 }
 
 .blue-nav {
@@ -3506,6 +3517,14 @@ hr {
   background-image: url(../images/pics/architecture-building-countryside-daylight-126271.jpg);
 }
 
+#banner-img-122 {
+  background-image: url(../images/pics/green-leafed-tree-besides-body-of-water-during-daytime-158063.jpg);
+}
+
+#banner-img-123 {
+  background-image: url(../images/pics/lake.jpg);
+}
+
 table {
   font-size: 1.6rem;
   margin-left: 2.5rem;
@@ -3649,7 +3668,6 @@ table tr:nth-child(3) {
 }
 
 .print-para {
-
   text-align: right !important;
 }
 

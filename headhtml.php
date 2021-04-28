@@ -2,6 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="facebook-domain-verification" content="9j49i2npcz0wlps9hysr6ss86ffwtn" />
 
     <!-- <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet"> -->
 
@@ -11,11 +12,10 @@
 
     <!-- <link rel="stylesheet" href="css/icon-font.css"> -->
 <!--    <link rel="stylesheet" href="css/style.css?v=1.1">-->
-    <link rel="stylesheet" href="sass/main.css?v=2">
+    <link rel="stylesheet" href="sass/main.css?v=2.3">
+
     <!-- <link rel="shortcut icon" type="image/png" href="img/favicon.png"> -->
-
-
-      <title>Progoff Intensive Journal Program | For Self-Development</title>
+<!--      <title>Progoff Intensive Journal Program | For Self-Development</title>-->
 
 
 <link rel="apple-touch-icon" sizes="180x180" href="favicons/apple-touch-icon.png">

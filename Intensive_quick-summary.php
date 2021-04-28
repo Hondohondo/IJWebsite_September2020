@@ -2,13 +2,9 @@
 <html lang="en">
 <?php include "headhtml.php";?>
 <head>
-    <title>Progoff Intensive Journal Program | For Self-Development</title>
-    <meta charset="utf-8">
-    <meta name="description" content>
-    <meta property="og:title" content="Progoff Intensive Journal Program | For Self-Development">
-    <meta property="og:description" content>
-    <meta property="og:image" content>
-    <meta property="og:type" content="website">
+    <meta property="og:title" content="Quick Summary of the Intensive Journal Program">
+    <meta property="og:description" content="Welcome to the Intensive Journal Program! This section is designed to give you sufficient information about the Intensive Journal method and what happens at a workshop so that you can decide whether you want to attend a program. Naturally, you may wish to read the additional information about the method and workshops on our website.">
+    <meta property="og:image" content="https://www.intensivejournal.org/images/pics/clouds-daylight-forest-grass-371589.jpg">
     <meta property="og:url" content="https://www.intensivejournal.org/Intensive_quick-summary.php">
 </head>
 <body>

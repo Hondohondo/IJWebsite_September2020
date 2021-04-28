@@ -122,11 +122,11 @@
       text-decoration: none;
       color: #5e6f91 !important;
       font-size: 1.4rem;
-      cursor: default;
       border: 0 !important;
 
       &:hover {
         border: 0 !important;
+        cursor: default;
       }
 
     }
